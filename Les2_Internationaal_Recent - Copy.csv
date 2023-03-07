@@ -1,0 +1,2194 @@
+﻿competition_id,season,CompetitionRound,MatchDay,HomeTeamGoals,AwayTeamGoals,aggregate,HomeTeamPosition,AwayTeamPosition,HomeTeam,AwayTeam
+L1,2021,34,14-5-2022,1,1,01:01:00,17,4,Arminia Bielefeld,Rasenballsport Leipzig
+L1,2021,34,14-5-2022,2,2,02:02:00,12,1,Vfl Wolfsburg,Fc Bayern Munchen
+L1,2021,34,14-5-2022,2,1,02:01:00,14,18,Fc Augsburg,Spvgg Greuther Furth
+L1,2021,33,8-5-2022,4,0,04:00:00,4,14,Rasenballsport Leipzig,Fc Augsburg
+L1,2021,33,8-5-2022,2,2,02:02:00,1,16,Fc Bayern Munchen,Vfb Stuttgart
+L1,2021,33,8-5-2022,1,1,01:01:00,12,10,Eintracht Frankfurt,Borussia Monchengladbach
+L1,2021,34,14-5-2022,2,1,02:01:00,15,7,Vfb Stuttgart,1 Fc Koln
+L1,2021,34,14-5-2022,2,1,02:01:00,3,6,Bayer 04 Leverkusen,Sc Freiburg
+L1,2021,34,14-5-2022,5,1,05:01:00,10,9,Borussia Monchengladbach,Tsg 1899 Hoffenheim
+L1,2021,34,14-5-2022,3,2,03:02:00,5,13,1 Fc Union Berlin,Vfl Bochum
+L1,2021,34,14-5-2022,2,1,02:01:00,2,16,Borussia Dortmund,Hertha Bsc
+L1,2021,33,7-5-2022,1,2,01:02:00,15,9,Hertha Bsc,1 Fsv Mainz 05
+L1,2021,33,7-5-2022,1,3,01:03:00,18,2,Spvgg Greuther Furth,Borussia Dortmund
+L1,2021,34,14-5-2022,2,2,02:02:00,8,11,1 Fsv Mainz 05,Eintracht Frankfurt
+L1,2021,33,7-5-2022,0,1,00:01:00,7,13,1 Fc Koln,Vfl Wolfsburg
+L1,2021,33,7-5-2022,1,4,01:04:00,5,6,Sc Freiburg,1 Fc Union Berlin
+L1,2021,32,2-5-2022,3,1,03:01:00,10,5,Borussia Monchengladbach,Rasenballsport Leipzig
+L1,2021,32,2-5-2022,2,0,02:00:00,3,11,Bayer 04 Leverkusen,Eintracht Frankfurt
+L1,2021,33,7-5-2022,2,4,02:04:00,8,3,Tsg 1899 Hoffenheim,Bayer 04 Leverkusen
+L1,2021,32,30-4-2022,1,1,01:01:00,17,15,Arminia Bielefeld,Hertha Bsc
+L1,2021,32,30-4-2022,1,4,01:04:00,14,6,Fc Augsburg,1 Fc Koln
+L1,2021,32,30-4-2022,3,4,03:04:00,2,12,Borussia Dortmund,Vfl Bochum
+L1,2021,32,30-4-2022,1,1,01:01:00,16,13,Vfb Stuttgart,Vfl Wolfsburg
+L1,2021,32,30-4-2022,3,1,03:01:00,9,1,1 Fsv Mainz 05,Fc Bayern Munchen
+L1,2021,31,24-4-2022,0,2,00:02:00,13,14,Vfl Bochum,Fc Augsburg
+L1,2021,31,24-4-2022,2,0,02:00:00,15,16,Hertha Bsc,Vfb Stuttgart
+L1,2021,31,23-4-2022,3,1,03:01:00,7,17,1 Fc Koln,Arminia Bielefeld
+L1,2021,31,23-4-2022,1,4,01:04:00,18,3,Spvgg Greuther Furth,Bayer 04 Leverkusen
+L1,2021,31,23-4-2022,2,2,02:02:00,9,8,Eintracht Frankfurt,Tsg 1899 Hoffenheim
+L1,2021,31,23-4-2022,1,2,01:02:00,4,6,Rasenballsport Leipzig,1 Fc Union Berlin
+L1,2021,31,23-4-2022,3,1,03:01:00,1,2,Fc Bayern Munchen,Borussia Dortmund
+L1,2021,30,17-4-2022,0,1,00:01:00,4,3,Bayer 04 Leverkusen,Rasenballsport Leipzig
+L1,2021,31,22-4-2022,5,0,05:00:00,12,10,Vfl Wolfsburg,1 Fsv Mainz 05
+L1,2021,30,17-4-2022,2,0,02:00:00,6,10,1 Fc Union Berlin,Eintracht Frankfurt
+L1,2021,30,17-4-2022,0,3,00:03:00,17,1,Arminia Bielefeld,Fc Bayern Munchen
+L1,2021,30,16-4-2022,0,1,00:01:00,14,15,Fc Augsburg,Hertha Bsc
+L1,2021,30,16-4-2022,0,0,00:00:00,9,16,1 Fsv Mainz 05,Vfb Stuttgart
+L1,2021,31,23-4-2022,3,3,03:03:00,5,11,Sc Freiburg,Borussia Monchengladbach
+L1,2021,30,16-4-2022,6,1,06:01:00,2,13,Borussia Dortmund,Vfl Wolfsburg
+L1,2021,29,10-4-2022,1,2,01:02:00,9,5,Eintracht Frankfurt,Sc Freiburg
+L1,2021,32,29-4-2022,1,1,01:01:00,7,18,1 Fc Union Berlin,Spvgg Greuther Furth
+L1,2021,30,17-4-2022,0,0,00:00:00,8,18,Tsg 1899 Hoffenheim,Spvgg Greuther Furth
+L1,2021,29,9-4-2022,1,4,01:04:00,17,7,Hertha Bsc,1 Fc Union Berlin
+L1,2021,29,9-4-2022,3,2,03:02:00,8,10,1 Fc Koln,1 Fsv Mainz 05
+L1,2021,29,9-4-2022,4,0,04:00:00,13,16,Vfl Wolfsburg,Arminia Bielefeld
+L1,2021,29,10-4-2022,0,0,00:00:00,12,3,Vfl Bochum,Bayer 04 Leverkusen
+L1,2021,30,16-4-2022,3,0,03:00:00,5,12,Sc Freiburg,Vfl Bochum
+L1,2021,29,9-4-2022,0,2,00:02:00,18,11,Spvgg Greuther Furth,Borussia Monchengladbach
+L1,2021,29,10-4-2022,3,0,03:00:00,4,6,Rasenballsport Leipzig,Tsg 1899 Hoffenheim
+L1,2021,28,3-4-2022,1,1,01:01:00,12,10,Borussia Monchengladbach,1 Fsv Mainz 05
+L1,2021,33,6-5-2022,2,1,02:01:00,11,17,Vfl Bochum,Arminia Bielefeld
+L1,2021,29,8-4-2022,0,2,00:02:00,15,2,Vfb Stuttgart,Borussia Dortmund
+L1,2021,28,2-4-2022,1,4,01:04:00,5,1,Sc Freiburg,Fc Bayern Munchen
+L1,2021,30,16-4-2022,1,3,01:03:00,11,7,Borussia Monchengladbach,1 Fc Koln
+L1,2021,28,2-4-2022,1,4,01:04:00,2,4,Borussia Dortmund,Rasenballsport Leipzig
+L1,2021,28,2-4-2022,0,0,00:00:00,9,18,Eintracht Frankfurt,Spvgg Greuther Furth
+L1,2021,32,30-4-2022,3,4,03:04:00,8,4,Tsg 1899 Hoffenheim,Sc Freiburg
+L1,2021,27,20-3-2022,1,1,01:01:00,7,2,1 Fc Koln,Borussia Dortmund
+L1,2021,27,20-3-2022,0,0,00:00:00,4,8,Rasenballsport Leipzig,Eintracht Frankfurt
+L1,2021,27,20-3-2022,0,2,00:02:00,13,3,Vfl Wolfsburg,Bayer 04 Leverkusen
+L1,2021,28,1-4-2022,1,0,01:00:00,7,8,1 Fc Union Berlin,1 Fc Koln
+L1,2021,28,2-4-2022,1,2,01:02:00,6,11,Tsg 1899 Hoffenheim,Vfl Bochum
+L1,2021,27,19-3-2022,4,0,04:00:00,10,17,1 Fsv Mainz 05,Arminia Bielefeld
+L1,2021,28,3-4-2022,3,0,03:00:00,13,14,Fc Augsburg,Vfl Wolfsburg
+L1,2021,27,18-3-2022,0,2,00:02:00,12,11,Vfl Bochum,Borussia Monchengladbach
+L1,2021,28,2-4-2022,2,1,02:01:00,3,17,Bayer 04 Leverkusen,Hertha Bsc
+L1,2021,26,6-4-2022,2,1,02:01:00,14,10,Fc Augsburg,1 Fsv Mainz 05
+L1,2021,28,2-4-2022,1,1,01:01:00,16,15,Arminia Bielefeld,Vfb Stuttgart
+L1,2021,27,19-3-2022,3,2,03:02:00,15,14,Vfb Stuttgart,Fc Augsburg
+L1,2021,27,19-3-2022,4,0,04:00:00,1,9,Fc Bayern Munchen,1 Fc Union Berlin
+L1,2021,26,12-3-2022,2,0,02:00:00,13,17,Borussia Monchengladbach,Hertha Bsc
+L1,2021,26,12-3-2022,1,1,01:01:00,6,1,Tsg 1899 Hoffenheim,Fc Bayern Munchen
+L1,2021,26,13-3-2022,0,1,00:01:00,3,7,Bayer 04 Leverkusen,1 Fc Koln
+L1,2021,26,12-3-2022,1,1,01:01:00,8,16,1 Fc Union Berlin,Vfb Stuttgart
+L1,2021,29,9-4-2022,1,0,01:00:00,1,14,Fc Bayern Munchen,Fc Augsburg
+L1,2021,25,6-3-2022,0,1,00:01:00,8,4,1 Fc Koln,Tsg 1899 Hoffenheim
+L1,2021,26,12-3-2022,3,2,03:02:00,5,12,Sc Freiburg,Vfl Wolfsburg
+L1,2021,27,19-3-2022,3,0,03:00:00,16,6,Hertha Bsc,Tsg 1899 Hoffenheim
+L1,2021,25,5-3-2022,1,4,01:04:00,16,10,Hertha Bsc,Eintracht Frankfurt
+L1,2021,25,5-3-2022,1,0,01:00:00,12,7,Vfl Wolfsburg,1 Fc Union Berlin
+L1,2021,26,13-3-2022,1,0,01:00:00,2,15,Borussia Dortmund,Arminia Bielefeld
+L1,2021,25,16-3-2022,0,1,00:01:00,9,2,1 Fsv Mainz 05,Borussia Dortmund
+L1,2021,25,4-3-2022,0,1,00:01:00,15,14,Arminia Bielefeld,Fc Augsburg
+L1,2021,25,5-3-2022,2,1,02:01:00,11,18,Vfl Bochum,Spvgg Greuther Furth
+L1,2021,24,27-2-2022,1,1,01:01:00,15,2,Fc Augsburg,Borussia Dortmund
+L1,2021,24,26-2-2022,0,1,00:01:00,10,1,Eintracht Frankfurt,Fc Bayern Munchen
+L1,2021,24,27-2-2022,0,1,00:01:00,11,4,Vfl Bochum,Rasenballsport Leipzig
+L1,2021,25,5-3-2022,1,1,01:01:00,1,3,Fc Bayern Munchen,Bayer 04 Leverkusen
+L1,2021,24,26-2-2022,2,2,02:02:00,13,12,Borussia Monchengladbach,Vfl Wolfsburg
+L1,2021,27,19-3-2022,0,0,00:00:00,18,5,Spvgg Greuther Furth,Sc Freiburg
+L1,2021,24,26-2-2022,3,0,03:00:00,3,14,Bayer 04 Leverkusen,Arminia Bielefeld
+L1,2021,24,26-2-2022,1,1,01:01:00,18,8,Spvgg Greuther Furth,1 Fc Koln
+L1,2021,23,20-2-2022,1,6,01:06:00,15,4,Hertha Bsc,Rasenballsport Leipzig
+L1,2021,26,13-3-2022,2,1,02:01:00,9,11,Eintracht Frankfurt,Vfl Bochum
+L1,2021,25,5-3-2022,3,2,03:02:00,17,13,Vfb Stuttgart,Borussia Monchengladbach
+L1,2021,24,25-2-2022,2,1,02:01:00,6,17,Tsg 1899 Hoffenheim,Vfb Stuttgart
+L1,2021,23,19-2-2022,1,0,01:00:00,7,10,1 Fc Koln,Eintracht Frankfurt
+L1,2021,26,13-3-2022,1,6,01:06:00,18,4,Spvgg Greuther Furth,Rasenballsport Leipzig
+L1,2021,24,26-2-2022,3,0,03:00:00,5,16,Sc Freiburg,Hertha Bsc
+L1,2021,23,19-2-2022,1,2,01:02:00,12,5,Vfl Wolfsburg,Tsg 1899 Hoffenheim
+L1,2021,25,5-3-2022,1,1,01:01:00,5,6,Rasenballsport Leipzig,Sc Freiburg
+L1,2021,23,19-2-2022,1,0,01:00:00,14,9,Arminia Bielefeld,1 Fc Union Berlin
+L1,2021,22,13-2-2022,2,0,02:00:00,5,15,Tsg 1899 Hoffenheim,Arminia Bielefeld
+L1,2021,22,12-2-2022,4,2,04:02:00,3,17,Bayer 04 Leverkusen,Vfb Stuttgart
+L1,2021,23,19-2-2022,1,1,01:01:00,17,11,Vfb Stuttgart,Vfl Bochum
+L1,2021,22,13-2-2022,0,3,00:03:00,7,2,1 Fc Union Berlin,Borussia Dortmund
+L1,2021,22,12-2-2022,1,1,01:01:00,6,9,Sc Freiburg,1 Fsv Mainz 05
+L1,2021,22,12-2-2022,3,2,03:02:00,13,16,Borussia Monchengladbach,Fc Augsburg
+L1,2021,22,12-2-2022,0,2,00:02:00,10,12,Eintracht Frankfurt,Vfl Wolfsburg
+L1,2021,23,20-2-2022,4,1,04:01:00,1,18,Fc Bayern Munchen,Spvgg Greuther Furth
+L1,2021,23,18-2-2022,3,2,03:02:00,8,3,1 Fsv Mainz 05,Bayer 04 Leverkusen
+L1,2021,23,19-2-2022,1,2,01:02:00,16,6,Fc Augsburg,Sc Freiburg
+L1,2021,21,5-2-2022,3,2,03:02:00,1,7,Fc Bayern Munchen,Rasenballsport Leipzig
+L1,2021,21,6-2-2022,4,1,04:01:00,12,18,Vfl Wolfsburg,Spvgg Greuther Furth
+L1,2021,21,6-2-2022,2,5,02:05:00,2,3,Borussia Dortmund,Bayer 04 Leverkusen
+L1,2021,21,5-2-2022,2,0,02:00:00,16,4,Fc Augsburg,1 Fc Union Berlin
+L1,2021,23,20-2-2022,6,0,06:00:00,2,13,Borussia Dortmund,Borussia Monchengladbach
+L1,2021,22,12-2-2022,2,1,02:01:00,18,14,Spvgg Greuther Furth,Hertha Bsc
+L1,2021,24,26-2-2022,3,1,03:01:00,7,9,1 Fc Union Berlin,1 Fsv Mainz 05
+L1,2021,21,4-2-2022,1,1,01:01:00,14,11,Hertha Bsc,Vfl Bochum
+L1,2021,21,5-2-2022,1,1,01:01:00,15,13,Arminia Bielefeld,Borussia Monchengladbach
+L1,2021,20,23-1-2022,2,0,02:00:00,6,15,Rasenballsport Leipzig,Vfl Wolfsburg
+L1,2021,20,22-1-2022,2,2,02:02:00,11,8,Vfl Bochum,1 Fc Koln
+L1,2021,21,5-2-2022,1,0,01:00:00,6,5,1 Fc Koln,Sc Freiburg
+L1,2021,20,22-1-2022,2,0,02:00:00,5,17,Sc Freiburg,Vfb Stuttgart
+L1,2021,20,22-1-2022,1,2,01:02:00,12,4,Borussia Monchengladbach,1 Fc Union Berlin
+L1,2021,21,5-2-2022,2,0,02:00:00,10,8,1 Fsv Mainz 05,Tsg 1899 Hoffenheim
+L1,2021,22,11-2-2022,3,1,03:01:00,4,8,Rasenballsport Leipzig,1 Fc Koln
+L1,2021,19,16-1-2022,2,2,02:02:00,16,18,Arminia Bielefeld,Spvgg Greuther Furth
+L1,2021,19,16-1-2022,1,1,01:01:00,15,8,Fc Augsburg,Eintracht Frankfurt
+L1,2021,19,15-1-2022,1,2,01:02:00,12,3,Borussia Monchengladbach,Bayer 04 Leverkusen
+L1,2021,19,15-1-2022,0,4,00:04:00,9,1,1 Fc Koln,Fc Bayern Munchen
+L1,2021,19,15-1-2022,1,0,01:00:00,10,11,1 Fsv Mainz 05,Vfl Bochum
+L1,2021,20,22-1-2022,2,3,02:03:00,7,2,Tsg 1899 Hoffenheim,Borussia Dortmund
+L1,2021,20,22-1-2022,5,1,05:01:00,3,16,Bayer 04 Leverkusen,Fc Augsburg
+L1,2021,19,15-1-2022,2,1,02:01:00,5,4,1 Fc Union Berlin,Tsg 1899 Hoffenheim
+L1,2021,19,15-1-2022,0,2,00:02:00,17,7,Vfb Stuttgart,Rasenballsport Leipzig
+L1,2021,19,14-1-2022,5,1,05:01:00,2,6,Borussia Dortmund,Sc Freiburg
+L1,2021,20,23-1-2022,1,4,01:04:00,13,1,Hertha Bsc,Fc Bayern Munchen
+L1,2021,18,8-1-2022,2,3,02:03:00,8,2,Eintracht Frankfurt,Borussia Dortmund
+L1,2021,18,8-1-2022,0,0,00:00:00,18,15,Spvgg Greuther Furth,Vfb Stuttgart
+L1,2021,18,8-1-2022,3,1,03:01:00,3,16,Tsg 1899 Hoffenheim,Fc Augsburg
+L1,2021,18,8-1-2022,2,2,02:02:00,4,17,Sc Freiburg,Arminia Bielefeld
+L1,2021,22,12-2-2022,4,2,04:02:00,11,1,Vfl Bochum,Fc Bayern Munchen
+L1,2021,18,8-1-2022,2,2,02:02:00,5,7,Bayer 04 Leverkusen,1 Fc Union Berlin
+L1,2021,19,15-1-2022,0,0,00:00:00,14,13,Vfl Wolfsburg,Hertha Bsc
+L1,2021,20,21-1-2022,0,2,00:02:00,9,14,Eintracht Frankfurt,Arminia Bielefeld
+L1,2021,17,19-12-2021,2,1,02:01:00,3,4,Sc Freiburg,Bayer 04 Leverkusen
+L1,2021,21,5-2-2022,2,3,02:03:00,17,9,Vfb Stuttgart,Eintracht Frankfurt
+L1,2021,17,18-12-2021,0,0,00:00:00,18,15,Spvgg Greuther Furth,Fc Augsburg
+L1,2021,17,18-12-2021,3,2,03:02:00,11,2,Hertha Bsc,Borussia Dortmund
+L1,2021,18,8-1-2022,4,1,04:01:00,9,10,Rasenballsport Leipzig,1 Fsv Mainz 05
+L1,2021,18,9-1-2022,1,3,01:03:00,13,6,Hertha Bsc,1 Fc Koln
+L1,2021,18,9-1-2022,1,0,01:00:00,11,14,Vfl Bochum,Vfl Wolfsburg
+L1,2021,17,18-12-2021,1,0,01:00:00,6,9,Eintracht Frankfurt,1 Fsv Mainz 05
+L1,2021,17,17-12-2021,4,0,04:00:00,1,13,Fc Bayern Munchen,Vfl Wolfsburg
+L1,2021,17,18-12-2021,1,1,01:01:00,5,14,Tsg 1899 Hoffenheim,Borussia Monchengladbach
+L1,2021,16,15-12-2021,0,0,00:00:00,8,5,1 Fc Union Berlin,Sc Freiburg
+L1,2021,17,18-12-2021,0,1,00:01:00,12,7,Vfl Bochum,1 Fc Union Berlin
+L1,2021,16,15-12-2021,1,1,01:01:00,16,9,Fc Augsburg,Rasenballsport Leipzig
+L1,2021,16,15-12-2021,3,0,03:00:00,2,18,Borussia Dortmund,Spvgg Greuther Furth
+L1,2021,16,14-12-2021,4,0,04:00:00,6,14,1 Fsv Mainz 05,Hertha Bsc
+L1,2021,16,14-12-2021,2,0,02:00:00,17,12,Arminia Bielefeld,Vfl Bochum
+L1,2021,17,19-12-2021,1,0,01:00:00,8,16,1 Fc Koln,Vfb Stuttgart
+L1,2021,16,14-12-2021,0,5,00:05:00,15,1,Vfb Stuttgart,Fc Bayern Munchen
+L1,2021,15,12-12-2021,5,2,05:02:00,9,3,Eintracht Frankfurt,Bayer 04 Leverkusen
+L1,2021,15,12-12-2021,1,0,01:00:00,18,6,Spvgg Greuther Furth,1 Fc Union Berlin
+L1,2021,15,11-12-2021,0,2,00:02:00,11,15,Vfl Wolfsburg,Vfb Stuttgart
+L1,2021,15,11-12-2021,1,2,01:02:00,5,4,Sc Freiburg,Tsg 1899 Hoffenheim
+L1,2021,15,11-12-2021,4,1,04:01:00,7,13,Rasenballsport Leipzig,Borussia Monchengladbach
+L1,2021,15,11-12-2021,2,1,02:01:00,1,8,Fc Bayern Munchen,1 Fsv Mainz 05
+L1,2021,15,11-12-2021,2,0,02:00:00,14,17,Hertha Bsc,Arminia Bielefeld
+L1,2021,16,14-12-2021,2,3,02:03:00,11,10,Vfl Wolfsburg,1 Fc Koln
+L1,2021,15,10-12-2021,0,2,00:02:00,12,16,1 Fc Koln,Fc Augsburg
+L1,2021,16,15-12-2021,2,2,02:02:00,3,4,Bayer 04 Leverkusen,Tsg 1899 Hoffenheim
+L1,2021,20,22-1-2022,2,1,02:01:00,18,10,Spvgg Greuther Furth,1 Fsv Mainz 05
+L1,2021,14,4-12-2021,1,1,01:01:00,17,9,Arminia Bielefeld,1 Fc Koln
+L1,2021,14,5-12-2021,2,2,02:02:00,15,14,Vfb Stuttgart,Hertha Bsc
+L1,2021,14,4-12-2021,2,3,02:03:00,16,10,Fc Augsburg,Vfl Bochum
+L1,2021,14,4-12-2021,3,0,03:00:00,7,8,1 Fsv Mainz 05,Vfl Wolfsburg
+L1,2021,14,4-12-2021,3,2,03:02:00,5,12,Tsg 1899 Hoffenheim,Eintracht Frankfurt
+L1,2021,14,4-12-2021,7,1,07:01:00,3,18,Bayer 04 Leverkusen,Spvgg Greuther Furth
+L1,2021,14,3-12-2021,2,1,02:01:00,6,11,1 Fc Union Berlin,Rasenballsport Leipzig
+L1,2021,13,28-11-2021,1,3,01:03:00,8,3,Rasenballsport Leipzig,Bayer 04 Leverkusen
+L1,2021,13,28-11-2021,2,1,02:01:00,12,6,Eintracht Frankfurt,1 Fc Union Berlin
+L1,2021,13,27-11-2021,1,0,01:00:00,1,17,Fc Bayern Munchen,Arminia Bielefeld
+L1,2021,13,27-11-2021,3,6,03:06:00,18,5,Spvgg Greuther Furth,Tsg 1899 Hoffenheim
+L1,2021,15,11-12-2021,1,1,01:01:00,10,2,Vfl Bochum,Borussia Dortmund
+L1,2021,13,27-11-2021,4,1,04:01:00,10,11,1 Fc Koln,Borussia Monchengladbach
+L1,2021,13,27-11-2021,1,1,01:01:00,14,16,Hertha Bsc,Fc Augsburg
+L1,2021,18,7-1-2022,1,2,01:02:00,1,12,Fc Bayern Munchen,Borussia Monchengladbach
+L1,2021,12,21-11-2021,1,1,01:01:00,8,12,1 Fsv Mainz 05,1 Fc Koln
+L1,2021,12,21-11-2021,0,2,00:02:00,3,11,Sc Freiburg,Eintracht Frankfurt
+L1,2021,14,5-12-2021,0,6,00:06:00,13,4,Borussia Monchengladbach,Sc Freiburg
+L1,2021,12,20-11-2021,2,2,02:02:00,17,6,Arminia Bielefeld,Vfl Wolfsburg
+L1,2021,12,20-11-2021,2,0,02:00:00,5,14,1 Fc Union Berlin,Hertha Bsc
+L1,2021,12,20-11-2021,4,0,04:00:00,9,18,Borussia Monchengladbach,Spvgg Greuther Furth
+L1,2021,17,18-12-2021,0,2,00:02:00,10,17,Rasenballsport Leipzig,Arminia Bielefeld
+L1,2021,12,20-11-2021,2,1,02:01:00,2,16,Borussia Dortmund,Vfb Stuttgart
+L1,2021,12,19-11-2021,2,1,02:01:00,15,1,Fc Augsburg,Fc Bayern Munchen
+L1,2021,16,15-12-2021,2,3,02:03:00,13,7,Borussia Monchengladbach,Eintracht Frankfurt
+L1,2021,11,7-11-2021,1,2,01:02:00,18,14,Spvgg Greuther Furth,Eintracht Frankfurt
+L1,2021,11,7-11-2021,2,2,02:02:00,11,8,1 Fc Koln,1 Fc Union Berlin
+L1,2021,13,27-11-2021,1,3,01:03:00,7,2,Vfl Wolfsburg,Borussia Dortmund
+L1,2021,12,20-11-2021,1,0,01:00:00,4,13,Bayer 04 Leverkusen,Vfl Bochum
+L1,2021,11,6-11-2021,2,0,02:00:00,12,10,Vfl Bochum,Tsg 1899 Hoffenheim
+L1,2021,11,6-11-2021,0,1,00:01:00,15,17,Vfb Stuttgart,Arminia Bielefeld
+L1,2021,11,6-11-2021,1,0,01:00:00,4,16,Vfl Wolfsburg,Fc Augsburg
+L1,2021,11,5-11-2021,1,1,01:01:00,7,9,1 Fsv Mainz 05,Borussia Monchengladbach
+L1,2021,11,7-11-2021,1,1,01:01:00,13,6,Hertha Bsc,Bayer 04 Leverkusen
+L1,2021,10,31-10-2021,4,1,04:01:00,16,13,Fc Augsburg,Vfb Stuttgart
+L1,2021,10,30-10-2021,1,1,01:01:00,15,8,Eintracht Frankfurt,Rasenballsport Leipzig
+L1,2021,10,30-10-2021,1,2,01:02:00,17,5,Arminia Bielefeld,1 Fsv Mainz 05
+L1,2021,10,30-10-2021,3,1,03:01:00,3,18,Sc Freiburg,Spvgg Greuther Furth
+L1,2021,13,26-11-2021,2,1,02:01:00,15,9,Vfb Stuttgart,1 Fsv Mainz 05
+L1,2021,10,30-10-2021,2,5,02:05:00,6,1,1 Fc Union Berlin,Fc Bayern Munchen
+L1,2021,14,4-12-2021,2,3,02:03:00,2,1,Borussia Dortmund,Fc Bayern Munchen
+L1,2021,10,30-10-2021,0,2,00:02:00,4,7,Bayer 04 Leverkusen,Vfl Wolfsburg
+L1,2021,9,24-10-2021,2,0,02:00:00,14,15,Vfl Bochum,Eintracht Frankfurt
+L1,2021,10,30-10-2021,2,0,02:00:00,2,11,Borussia Dortmund,1 Fc Koln
+L1,2021,11,6-11-2021,2,1,02:01:00,1,3,Fc Bayern Munchen,Sc Freiburg
+L1,2021,9,24-10-2021,2,2,02:02:00,8,4,1 Fc Koln,Bayer 04 Leverkusen
+L1,2021,9,23-10-2021,1,3,01:03:00,17,2,Arminia Bielefeld,Borussia Dortmund
+L1,2021,9,23-10-2021,0,2,00:02:00,9,3,Vfl Wolfsburg,Sc Freiburg
+L1,2021,9,24-10-2021,1,1,01:01:00,13,5,Vfb Stuttgart,1 Fc Union Berlin
+L1,2021,9,23-10-2021,4,0,04:00:00,1,11,Fc Bayern Munchen,Tsg 1899 Hoffenheim
+L1,2021,9,23-10-2021,1,0,01:00:00,10,12,Hertha Bsc,Borussia Monchengladbach
+L1,2021,9,22-10-2021,4,1,04:01:00,7,16,1 Fsv Mainz 05,Fc Augsburg
+L1,2021,8,17-10-2021,1,5,01:05:00,3,1,Bayer 04 Leverkusen,Fc Bayern Munchen
+L1,2021,9,23-10-2021,4,1,04:01:00,6,18,Rasenballsport Leipzig,Spvgg Greuther Furth
+L1,2021,8,16-10-2021,0,1,00:01:00,18,15,Spvgg Greuther Furth,Vfl Bochum
+L1,2021,8,16-10-2021,1,1,01:01:00,10,12,Borussia Monchengladbach,Vfb Stuttgart
+L1,2021,8,16-10-2021,1,1,01:01:00,4,8,Sc Freiburg,Rasenballsport Leipzig
+L1,2021,11,6-11-2021,2,1,02:01:00,5,2,Rasenballsport Leipzig,Borussia Dortmund
+L1,2021,10,29-10-2021,2,0,02:00:00,9,12,Tsg 1899 Hoffenheim,Hertha Bsc
+L1,2021,8,16-10-2021,3,1,03:01:00,2,11,Borussia Dortmund,1 Fsv Mainz 05
+L1,2021,10,31-10-2021,2,1,02:01:00,10,14,Borussia Monchengladbach,Vfl Bochum
+L1,2021,8,15-10-2021,5,0,05:00:00,9,7,Tsg 1899 Hoffenheim,1 Fc Koln
+L1,2021,8,16-10-2021,1,2,01:02:00,14,13,Eintracht Frankfurt,Hertha Bsc
+L1,2021,8,16-10-2021,2,0,02:00:00,5,6,1 Fc Union Berlin,Vfl Wolfsburg
+L1,2021,7,2-10-2021,3,0,03:00:00,8,17,Rasenballsport Leipzig,Vfl Bochum
+L1,2021,7,2-10-2021,1,2,01:02:00,14,4,Hertha Bsc,Sc Freiburg
+L1,2021,7,2-10-2021,3,1,03:01:00,12,11,Vfb Stuttgart,Tsg 1899 Hoffenheim
+L1,2021,7,2-10-2021,1,3,01:03:00,5,10,Vfl Wolfsburg,Borussia Monchengladbach
+L1,2021,7,3-10-2021,1,2,01:02:00,9,7,1 Fsv Mainz 05,1 Fc Union Berlin
+L1,2021,6,26-9-2021,3,0,03:00:00,5,15,Sc Freiburg,Fc Augsburg
+L1,2021,6,26-9-2021,0,0,00:00:00,17,13,Vfl Bochum,Vfb Stuttgart
+L1,2021,6,25-9-2021,1,0,01:00:00,11,4,Borussia Monchengladbach,Borussia Dortmund
+L1,2021,6,25-9-2021,3,1,03:01:00,9,3,Tsg 1899 Hoffenheim,Vfl Wolfsburg
+L1,2021,6,25-9-2021,1,0,01:00:00,8,16,1 Fc Union Berlin,Arminia Bielefeld
+L1,2021,6,25-9-2021,1,0,01:00:00,2,6,Bayer 04 Leverkusen,1 Fsv Mainz 05
+L1,2021,7,3-10-2021,1,2,01:02:00,1,13,Fc Bayern Munchen,Eintracht Frankfurt
+L1,2021,8,17-10-2021,1,1,01:01:00,16,17,Fc Augsburg,Arminia Bielefeld
+L1,2021,6,24-9-2021,1,3,01:03:00,18,1,Spvgg Greuther Furth,Fc Bayern Munchen
+L1,2021,5,19-9-2021,1,1,01:01:00,2,15,Vfl Wolfsburg,Eintracht Frankfurt
+L1,2021,5,19-9-2021,4,2,04:02:00,3,8,Borussia Dortmund,1 Fc Union Berlin
+L1,2021,7,3-10-2021,0,4,00:04:00,16,2,Arminia Bielefeld,Bayer 04 Leverkusen
+L1,2021,5,19-9-2021,1,3,01:03:00,14,4,Vfb Stuttgart,Bayer 04 Leverkusen
+L1,2021,5,18-9-2021,0,0,00:00:00,13,10,Arminia Bielefeld,Tsg 1899 Hoffenheim
+L1,2021,5,18-9-2021,1,0,01:00:00,11,16,Fc Augsburg,Borussia Monchengladbach
+L1,2021,7,2-10-2021,2,1,02:01:00,3,15,Borussia Dortmund,Fc Augsburg
+L1,2021,5,18-9-2021,7,0,07:00:00,1,17,Fc Bayern Munchen,Vfl Bochum
+L1,2021,5,18-9-2021,0,0,00:00:00,5,6,1 Fsv Mainz 05,Sc Freiburg
+L1,2021,4,12-9-2021,3,1,03:01:00,11,14,Borussia Monchengladbach,Arminia Bielefeld
+L1,2021,12,20-11-2021,2,0,02:00:00,10,7,Tsg 1899 Hoffenheim,Rasenballsport Leipzig
+L1,2021,4,12-9-2021,1,3,01:03:00,13,16,Vfl Bochum,Hertha Bsc
+L1,2021,4,11-9-2021,1,4,01:04:00,12,2,Rasenballsport Leipzig,Fc Bayern Munchen
+L1,2021,4,11-9-2021,0,2,00:02:00,18,1,Spvgg Greuther Furth,Vfl Wolfsburg
+L1,2021,4,11-9-2021,0,2,00:02:00,9,4,Tsg 1899 Hoffenheim,1 Fsv Mainz 05
+L1,2021,5,17-9-2021,2,1,02:01:00,9,18,Hertha Bsc,Spvgg Greuther Furth
+L1,2021,4,11-9-2021,0,0,00:00:00,8,17,1 Fc Union Berlin,Fc Augsburg
+L1,2021,4,11-9-2021,1,1,01:01:00,5,7,Sc Freiburg,1 Fc Koln
+L1,2021,4,11-9-2021,3,4,03:04:00,6,3,Bayer 04 Leverkusen,Borussia Dortmund
+L1,2021,4,12-9-2021,1,1,01:01:00,15,10,Eintracht Frankfurt,Vfb Stuttgart
+L1,2021,3,29-8-2021,2,1,02:01:00,8,15,1 Fc Union Berlin,Borussia Monchengladbach
+L1,2021,3,28-8-2021,5,0,05:00:00,3,18,Fc Bayern Munchen,Hertha Bsc
+L1,2021,3,28-8-2021,1,1,01:01:00,12,14,Arminia Bielefeld,Eintracht Frankfurt
+L1,2021,3,28-8-2021,1,4,01:04:00,17,2,Fc Augsburg,Bayer 04 Leverkusen
+L1,2021,3,28-8-2021,3,0,03:00:00,7,16,1 Fsv Mainz 05,Spvgg Greuther Furth
+L1,2021,3,28-8-2021,2,3,02:03:00,13,4,Vfb Stuttgart,Sc Freiburg
+L1,2021,13,27-11-2021,2,1,02:01:00,13,4,Vfl Bochum,Sc Freiburg
+L1,2021,3,27-8-2021,3,2,03:02:00,5,9,Borussia Dortmund,Tsg 1899 Hoffenheim
+L1,2021,3,29-8-2021,1,0,01:00:00,1,10,Vfl Wolfsburg,Rasenballsport Leipzig
+L1,2021,2,21-8-2021,4,0,04:00:00,3,16,Bayer 04 Leverkusen,Borussia Monchengladbach
+L1,2021,3,28-8-2021,2,1,02:01:00,6,11,1 Fc Koln,Vfl Bochum
+L1,2021,2,21-8-2021,1,1,01:01:00,15,13,Spvgg Greuther Furth,Arminia Bielefeld
+L1,2021,2,21-8-2021,1,2,01:02:00,18,1,Hertha Bsc,Vfl Wolfsburg
+L1,2021,5,18-9-2021,1,1,01:01:00,7,12,1 Fc Koln,Rasenballsport Leipzig
+L1,2021,2,21-8-2021,2,1,02:01:00,5,7,Sc Freiburg,Borussia Dortmund
+L1,2021,2,22-8-2021,2,2,02:02:00,2,12,Tsg 1899 Hoffenheim,1 Fc Union Berlin
+L1,2021,1,15-8-2021,3,1,03:01:00,4,15,1 Fc Koln,Hertha Bsc
+L1,2021,1,15-8-2021,1,0,01:00:00,5,14,1 Fsv Mainz 05,Rasenballsport Leipzig
+L1,2021,7,1-10-2021,3,1,03:01:00,6,18,1 Fc Koln,Spvgg Greuther Furth
+L1,2021,1,14-8-2021,0,0,00:00:00,12,11,Arminia Bielefeld,Sc Freiburg
+L1,2021,1,14-8-2021,5,2,05:02:00,3,16,Borussia Dortmund,Eintracht Frankfurt
+L1,2021,1,14-8-2021,0,4,00:04:00,18,2,Fc Augsburg,Tsg 1899 Hoffenheim
+L1,2021,1,14-8-2021,5,1,05:01:00,1,17,Vfb Stuttgart,Spvgg Greuther Furth
+L1,2021,1,14-8-2021,1,1,01:01:00,10,7,1 Fc Union Berlin,Bayer 04 Leverkusen
+L1,2021,2,21-8-2021,2,0,02:00:00,9,11,Vfl Bochum,1 Fsv Mainz 05
+L1,2021,2,20-8-2021,4,0,04:00:00,6,10,Rasenballsport Leipzig,Vfb Stuttgart
+L1,2021,6,25-9-2021,1,1,01:01:00,14,7,Eintracht Frankfurt,1 Fc Koln
+L1,2021,6,25-9-2021,6,0,06:00:00,10,12,Rasenballsport Leipzig,Hertha Bsc
+L1,2021,1,13-8-2021,1,1,01:01:00,9,8,Borussia Monchengladbach,Fc Bayern Munchen
+L1,2021,1,14-8-2021,1,0,01:00:00,6,13,Vfl Wolfsburg,Vfl Bochum
+L1,2021,2,22-8-2021,3,2,03:02:00,4,8,Fc Bayern Munchen,1 Fc Koln
+L1,2021,2,21-8-2021,0,0,00:00:00,14,17,Eintracht Frankfurt,Fc Augsburg
+FR1,2021,38,21-5-2022,2,3,02:03:00,12,5,Stade Reims,Ogc Nizza
+FR1,2021,38,21-5-2022,5,0,05:00:00,1,19,Fc Paris Saint Germain,Fc Metz
+FR1,2021,38,21-5-2022,1,1,01:01:00,9,18,Fc Nantes,As Saint Etienne
+FR1,2021,38,21-5-2022,1,1,01:01:00,16,15,Fc Lorient,Es Troyes Ac
+FR1,2021,38,21-5-2022,4,0,04:00:00,2,6,Olympique Marseille,Rc Strassburg Alsace
+FR1,2021,38,21-5-2022,2,0,02:00:00,14,13,Sco Angers,Montpellier Hsc
+FR1,2021,38,21-5-2022,2,2,02:02:00,7,3,Rc Lens,As Monaco
+FR1,2021,37,14-5-2022,1,2,01:02:00,19,12,As Saint Etienne,Stade Reims
+FR1,2021,37,14-5-2022,1,0,01:00:00,5,16,Rc Strassburg Alsace,Clermont Foot 63
+FR1,2021,37,14-5-2022,1,3,01:03:00,6,10,Ogc Nizza,Losc Lille
+FR1,2021,37,14-5-2022,4,2,04:02:00,2,11,As Monaco,Stade Brest 29
+FR1,2021,37,14-5-2022,1,0,01:00:00,18,14,Fc Metz,Sco Angers
+FR1,2021,37,14-5-2022,3,2,03:02:00,8,9,Olympique Lyon,Fc Nantes
+FR1,2021,37,14-5-2022,0,0,00:00:00,20,17,Fc Girondins Bordeaux,Fc Lorient
+FR1,2021,38,21-5-2022,2,4,02:04:00,11,20,Stade Brest 29,Fc Girondins Bordeaux
+FR1,2021,36,11-5-2022,2,1,02:01:00,9,5,Fc Nantes,Fc Stade Rennes
+FR1,2021,37,14-5-2022,0,4,00:04:00,13,1,Montpellier Hsc,Fc Paris Saint Germain
+FR1,2021,36,8-5-2022,1,2,01:02:00,12,7,Stade Reims,Rc Lens
+FR1,2021,38,21-5-2022,1,2,01:02:00,17,8,Clermont Foot 63,Olympique Lyon
+FR1,2021,36,8-5-2022,2,1,02:01:00,16,13,Clermont Foot 63,Montpellier Hsc
+FR1,2021,36,8-5-2022,4,1,04:01:00,14,20,Sco Angers,Fc Girondins Bordeaux
+FR1,2021,37,14-5-2022,1,3,01:03:00,15,7,Es Troyes Ac,Rc Lens
+FR1,2021,36,7-5-2022,0,1,00:01:00,11,6,Stade Brest 29,Rc Strassburg Alsace
+FR1,2021,36,6-5-2022,1,2,01:02:00,10,3,Losc Lille,As Monaco
+FR1,2021,37,14-5-2022,2,0,02:00:00,4,3,Fc Stade Rennes,Olympique Marseille
+FR1,2021,35,1-5-2022,0,1,00:01:00,19,5,Fc Girondins Bordeaux,Ogc Nizza
+FR1,2021,35,1-5-2022,2,2,02:02:00,13,20,Montpellier Hsc,Fc Metz
+FR1,2021,36,8-5-2022,2,2,02:02:00,1,15,Fc Paris Saint Germain,Es Troyes Ac
+FR1,2021,36,11-5-2022,4,2,04:02:00,4,18,Ogc Nizza,As Saint Etienne
+FR1,2021,36,8-5-2022,3,2,03:02:00,19,8,Fc Metz,Olympique Lyon
+FR1,2021,35,1-5-2022,2,0,02:00:00,11,17,Stade Brest 29,Clermont Foot 63
+FR1,2021,35,30-4-2022,2,0,02:00:00,3,18,Fc Stade Rennes,As Saint Etienne
+FR1,2021,35,1-5-2022,0,3,00:03:00,2,7,Olympique Marseille,Olympique Lyon
+FR1,2021,35,29-4-2022,3,3,03:03:00,6,1,Rc Strassburg Alsace,Fc Paris Saint Germain
+FR1,2021,35,1-5-2022,2,0,02:00:00,4,15,As Monaco,Sco Angers
+FR1,2021,34,24-4-2022,1,0,01:00:00,9,6,Losc Lille,Rc Strassburg Alsace
+FR1,2021,34,24-4-2022,1,0,01:00:00,5,16,Ogc Nizza,Es Troyes Ac
+FR1,2021,34,24-4-2022,5,3,05:03:00,10,19,Fc Nantes,Fc Girondins Bordeaux
+FR1,2021,34,24-4-2022,0,1,00:01:00,20,11,Fc Metz,Stade Brest 29
+FR1,2021,38,21-5-2022,2,2,02:02:00,10,4,Losc Lille,Fc Stade Rennes
+FR1,2021,34,24-4-2022,2,2,02:02:00,17,14,Clermont Foot 63,Sco Angers
+FR1,2021,34,23-4-2022,1,4,01:04:00,18,4,As Saint Etienne,As Monaco
+FR1,2021,34,23-4-2022,5,2,05:02:00,8,12,Olympique Lyon,Montpellier Hsc
+FR1,2021,36,8-5-2022,0,3,00:03:00,17,2,Fc Lorient,Olympique Marseille
+FR1,2021,33,20-4-2022,2,1,02:01:00,4,3,Rc Strassburg Alsace,Fc Stade Rennes
+FR1,2021,34,24-4-2022,5,0,05:00:00,3,15,Fc Stade Rennes,Fc Lorient
+FR1,2021,33,20-4-2022,2,0,02:00:00,7,11,Rc Lens,Montpellier Hsc
+FR1,2021,33,20-4-2022,2,1,02:01:00,12,8,Stade Brest 29,Olympique Lyon
+FR1,2021,33,20-4-2022,0,1,00:01:00,16,17,Es Troyes Ac,Clermont Foot 63
+FR1,2021,33,20-4-2022,2,1,02:01:00,13,9,Stade Reims,Losc Lille
+FR1,2021,34,24-4-2022,0,1,00:01:00,13,2,Stade Reims,Olympique Marseille
+FR1,2021,33,20-4-2022,1,0,01:00:00,15,20,Fc Lorient,Fc Metz
+FR1,2021,33,20-4-2022,0,3,00:03:00,14,1,Sco Angers,Fc Paris Saint Germain
+FR1,2021,33,20-4-2022,2,2,02:02:00,19,18,Fc Girondins Bordeaux,As Saint Etienne
+FR1,2021,35,1-5-2022,3,0,03:00:00,14,10,Es Troyes Ac,Losc Lille
+FR1,2021,32,17-4-2022,1,1,01:01:00,15,5,Es Troyes Ac,Rc Strassburg Alsace
+FR1,2021,32,17-4-2022,1,1,01:01:00,10,14,Fc Nantes,Sco Angers
+FR1,2021,32,17-4-2022,0,0,00:00:00,11,13,Montpellier Hsc,Stade Reims
+FR1,2021,34,23-4-2022,1,1,01:01:00,1,7,Fc Paris Saint Germain,Rc Lens
+FR1,2021,32,17-4-2022,1,1,01:01:00,20,18,Fc Metz,Clermont Foot 63
+FR1,2021,32,16-4-2022,1,2,01:02:00,9,7,Losc Lille,Rc Lens
+FR1,2021,35,30-4-2022,2,2,02:02:00,8,9,Rc Lens,Fc Nantes
+FR1,2021,32,16-4-2022,2,1,02:01:00,17,12,As Saint Etienne,Stade Brest 29
+FR1,2021,32,15-4-2022,2,3,02:03:00,3,6,Fc Stade Rennes,As Monaco
+FR1,2021,32,17-4-2022,2,1,02:01:00,1,2,Fc Paris Saint Germain,Olympique Marseille
+FR1,2021,35,1-5-2022,1,2,01:02:00,16,12,Fc Lorient,Stade Reims
+FR1,2021,31,10-4-2022,3,0,03:00:00,8,5,Rc Lens,Ogc Nizza
+FR1,2021,31,10-4-2022,1,1,01:01:00,12,9,Stade Brest 29,Fc Nantes
+FR1,2021,31,10-4-2022,1,1,01:01:00,14,7,Sco Angers,Losc Lille
+FR1,2021,31,10-4-2022,3,1,03:01:00,19,20,Fc Girondins Bordeaux,Fc Metz
+FR1,2021,31,10-4-2022,2,0,02:00:00,2,11,Olympique Marseille,Montpellier Hsc
+FR1,2021,31,9-4-2022,1,6,01:06:00,17,1,Clermont Foot 63,Fc Paris Saint Germain
+FR1,2021,31,9-4-2022,2,3,02:03:00,13,3,Stade Reims,Fc Stade Rennes
+FR1,2021,31,8-4-2022,6,2,06:02:00,16,18,Fc Lorient,As Saint Etienne
+FR1,2021,30,3-4-2022,3,2,03:02:00,9,14,Olympique Lyon,Sco Angers
+FR1,2021,30,3-4-2022,1,0,01:00:00,15,13,Es Troyes Ac,Stade Reims
+FR1,2021,30,3-4-2022,2,4,02:04:00,18,2,As Saint Etienne,Olympique Marseille
+FR1,2021,31,10-4-2022,1,1,01:01:00,4,10,Rc Strassburg Alsace,Olympique Lyon
+FR1,2021,30,3-4-2022,1,2,01:02:00,11,12,Montpellier Hsc,Stade Brest 29
+FR1,2021,30,3-4-2022,1,2,01:02:00,19,6,Fc Metz,As Monaco
+FR1,2021,30,3-4-2022,2,3,02:03:00,17,8,Clermont Foot 63,Fc Nantes
+FR1,2021,30,3-4-2022,1,0,01:00:00,4,10,Rc Strassburg Alsace,Rc Lens
+FR1,2021,30,2-4-2022,0,0,00:00:00,7,20,Losc Lille,Fc Girondins Bordeaux
+FR1,2021,29,20-3-2022,2,1,02:01:00,2,4,Olympique Marseille,Ogc Nizza
+FR1,2021,29,20-3-2022,0,0,00:00:00,12,10,Stade Reims,Olympique Lyon
+FR1,2021,30,2-4-2022,1,1,01:01:00,5,3,Ogc Nizza,Fc Stade Rennes
+FR1,2021,29,20-3-2022,0,0,00:00:00,16,5,Fc Lorient,Rc Strassburg Alsace
+FR1,2021,29,20-3-2022,0,2,00:02:00,20,11,Fc Girondins Bordeaux,Montpellier Hsc
+FR1,2021,32,17-4-2022,2,1,02:01:00,4,16,Ogc Nizza,Fc Lorient
+FR1,2021,29,20-3-2022,1,0,01:00:00,14,13,Sco Angers,Stade Brest 29
+FR1,2021,29,19-3-2022,0,1,00:01:00,9,6,Fc Nantes,Losc Lille
+FR1,2021,29,19-3-2022,3,1,03:01:00,8,17,Rc Lens,Clermont Foot 63
+FR1,2021,33,20-4-2022,1,0,01:00:00,5,6,As Monaco,Ogc Nizza
+FR1,2021,29,18-3-2022,1,1,01:01:00,18,15,As Saint Etienne,Es Troyes Ac
+FR1,2021,28,13-3-2022,2,4,02:04:00,10,4,Olympique Lyon,Fc Stade Rennes
+FR1,2021,29,20-3-2022,6,1,06:01:00,3,19,Fc Stade Rennes,Fc Metz
+FR1,2021,28,13-3-2022,1,0,01:00:00,5,8,Rc Strassburg Alsace,As Monaco
+FR1,2021,32,17-4-2022,6,1,06:01:00,8,19,Olympique Lyon,Fc Girondins Bordeaux
+FR1,2021,28,13-3-2022,0,0,00:00:00,19,9,Fc Metz,Rc Lens
+FR1,2021,28,13-3-2022,0,1,00:01:00,14,12,Sco Angers,Stade Reims
+FR1,2021,28,13-3-2022,3,0,03:00:00,1,20,Fc Paris Saint Germain,Fc Girondins Bordeaux
+FR1,2021,28,12-3-2022,1,0,01:00:00,15,7,Es Troyes Ac,Fc Nantes
+FR1,2021,28,11-3-2022,0,0,00:00:00,6,18,Losc Lille,As Saint Etienne
+FR1,2021,27,6-3-2022,0,1,00:01:00,3,8,Olympique Marseille,As Monaco
+FR1,2021,27,6-3-2022,4,0,04:00:00,7,15,Losc Lille,Clermont Foot 63
+FR1,2021,30,3-4-2022,5,1,05:01:00,1,16,Fc Paris Saint Germain,Fc Lorient
+FR1,2021,27,6-3-2022,2,0,02:00:00,4,14,Fc Stade Rennes,Sco Angers
+FR1,2021,27,6-3-2022,1,1,01:01:00,13,5,Stade Reims,Rc Strassburg Alsace
+FR1,2021,27,6-3-2022,2,0,02:00:00,6,11,Fc Nantes,Montpellier Hsc
+FR1,2021,27,6-3-2022,0,2,00:02:00,20,16,Fc Girondins Bordeaux,Es Troyes Ac
+FR1,2021,27,5-3-2022,1,0,01:00:00,2,1,Ogc Nizza,Fc Paris Saint Germain
+FR1,2021,33,20-4-2022,3,2,03:02:00,2,10,Olympique Marseille,Fc Nantes
+FR1,2021,28,12-3-2022,0,0,00:00:00,11,3,Montpellier Hsc,Ogc Nizza
+FR1,2021,27,4-3-2022,1,4,01:04:00,18,9,Fc Lorient,Olympique Lyon
+FR1,2021,26,27-2-2022,0,1,00:01:00,10,8,Olympique Lyon,Losc Lille
+FR1,2021,26,27-2-2022,1,1,01:01:00,17,2,Es Troyes Ac,Olympique Marseille
+FR1,2021,28,13-3-2022,1,4,01:04:00,13,2,Stade Brest 29,Olympique Marseille
+FR1,2021,26,27-2-2022,1,1,01:01:00,15,20,Clermont Foot 63,Fc Girondins Bordeaux
+FR1,2021,26,27-2-2022,0,1,00:01:00,12,16,Stade Brest 29,Fc Lorient
+FR1,2021,26,27-2-2022,1,2,01:02:00,9,13,As Monaco,Stade Reims
+FR1,2021,29,20-3-2022,3,0,03:00:00,7,1,As Monaco,Fc Paris Saint Germain
+FR1,2021,31,10-4-2022,2,1,02:01:00,6,15,As Monaco,Es Troyes Ac
+FR1,2021,26,26-2-2022,0,0,00:00:00,5,3,Rc Strassburg Alsace,Ogc Nizza
+FR1,2021,26,27-2-2022,1,2,01:02:00,14,6,Sco Angers,Rc Lens
+FR1,2021,25,20-2-2022,0,2,00:02:00,2,15,Olympique Marseille,Clermont Foot 63
+FR1,2021,25,20-2-2022,1,1,01:01:00,20,6,Fc Girondins Bordeaux,As Monaco
+FR1,2021,25,20-2-2022,2,2,02:02:00,16,4,As Saint Etienne,Rc Strassburg Alsace
+FR1,2021,26,25-2-2022,2,4,02:04:00,11,4,Montpellier Hsc,Fc Stade Rennes
+FR1,2021,25,20-2-2022,1,1,01:01:00,14,12,Stade Reims,Stade Brest 29
+FR1,2021,25,20-2-2022,0,1,00:01:00,18,9,Fc Lorient,Montpellier Hsc
+FR1,2021,25,20-2-2022,1,0,01:00:00,3,13,Ogc Nizza,Sco Angers
+FR1,2021,25,19-2-2022,3,1,03:01:00,7,1,Fc Nantes,Fc Paris Saint Germain
+FR1,2021,25,19-2-2022,1,1,01:01:00,10,8,Rc Lens,Olympique Lyon
+FR1,2021,25,18-2-2022,0,0,00:00:00,11,19,Losc Lille,Fc Metz
+FR1,2021,24,13-2-2022,1,2,01:02:00,19,2,Fc Metz,Olympique Marseille
+FR1,2021,27,5-3-2022,0,1,00:01:00,10,12,Rc Lens,Stade Brest 29
+FR1,2021,24,13-2-2022,1,0,01:00:00,9,14,Fc Nantes,Stade Reims
+FR1,2021,24,13-2-2022,1,2,01:02:00,15,18,Clermont Foot 63,As Saint Etienne
+FR1,2021,24,13-2-2022,3,2,03:02:00,8,20,Rc Lens,Fc Girondins Bordeaux
+FR1,2021,24,13-2-2022,0,1,00:01:00,13,4,Sco Angers,Rc Strassburg Alsace
+FR1,2021,24,13-2-2022,5,1,05:01:00,12,16,Stade Brest 29,Es Troyes Ac
+FR1,2021,24,12-2-2022,2,0,02:00:00,7,3,Olympique Lyon,Ogc Nizza
+FR1,2021,24,11-2-2022,1,0,01:00:00,1,5,Fc Paris Saint Germain,Fc Stade Rennes
+FR1,2021,23,6-2-2022,1,5,01:05:00,11,1,Losc Lille,Fc Paris Saint Germain
+FR1,2021,24,12-2-2022,0,1,00:01:00,11,10,Montpellier Hsc,Losc Lille
+FR1,2021,23,6-2-2022,2,0,02:00:00,5,13,Fc Stade Rennes,Stade Brest 29
+FR1,2021,23,6-2-2022,0,0,00:00:00,16,18,Es Troyes Ac,Fc Metz
+FR1,2021,24,13-2-2022,0,0,00:00:00,6,17,As Monaco,Fc Lorient
+FR1,2021,23,6-2-2022,5,0,05:00:00,14,19,Stade Reims,Fc Girondins Bordeaux
+FR1,2021,23,6-2-2022,0,1,00:01:00,3,15,Ogc Nizza,Clermont Foot 63
+FR1,2021,23,6-2-2022,2,0,02:00:00,17,9,Fc Lorient,Rc Lens
+FR1,2021,23,5-2-2022,3,1,03:01:00,20,7,As Saint Etienne,Montpellier Hsc
+FR1,2021,26,27-2-2022,0,0,00:00:00,18,7,Fc Metz,Fc Nantes
+FR1,2021,23,5-2-2022,2,0,02:00:00,6,8,As Monaco,Olympique Lyon
+FR1,2021,22,23-1-2022,4,0,04:00:00,1,14,Fc Paris Saint Germain,Stade Reims
+FR1,2021,22,23-1-2022,3,2,03:02:00,6,8,Montpellier Hsc,As Monaco
+FR1,2021,22,23-1-2022,2,1,02:01:00,15,5,Clermont Foot 63,Fc Stade Rennes
+FR1,2021,22,23-1-2022,4,3,04:03:00,17,4,Fc Girondins Bordeaux,Rc Strassburg Alsace
+FR1,2021,22,23-1-2022,2,1,02:01:00,12,16,Sco Angers,Es Troyes Ac
+FR1,2021,27,6-3-2022,1,0,01:00:00,17,19,As Saint Etienne,Fc Metz
+FR1,2021,22,22-1-2022,0,2,00:02:00,9,3,Rc Lens,Olympique Marseille
+FR1,2021,22,22-1-2022,2,0,02:00:00,13,11,Stade Brest 29,Losc Lille
+FR1,2021,22,23-1-2022,0,2,00:02:00,18,2,Fc Metz,Ogc Nizza
+FR1,2021,22,21-1-2022,1,0,01:00:00,7,20,Olympique Lyon,As Saint Etienne
+FR1,2021,21,16-1-2022,1,1,01:01:00,3,8,Olympique Marseille,Losc Lille
+FR1,2021,21,16-1-2022,0,1,00:01:00,15,10,Es Troyes Ac,Olympique Lyon
+FR1,2021,28,13-3-2022,0,2,00:02:00,16,17,Clermont Foot 63,Fc Lorient
+FR1,2021,21,16-1-2022,0,1,00:01:00,14,16,Stade Reims,Fc Metz
+FR1,2021,25,20-2-2022,4,1,04:01:00,5,17,Fc Stade Rennes,Es Troyes Ac
+FR1,2021,21,16-1-2022,0,0,00:00:00,18,12,Fc Lorient,Sco Angers
+FR1,2021,21,16-1-2022,6,0,06:00:00,5,19,Fc Stade Rennes,Fc Girondins Bordeaux
+FR1,2021,23,6-2-2022,1,0,01:00:00,4,10,Rc Strassburg Alsace,Fc Nantes
+FR1,2021,22,23-1-2022,4,2,04:02:00,10,19,Fc Nantes,Fc Lorient
+FR1,2021,21,14-1-2022,2,1,02:01:00,2,11,Ogc Nizza,Fc Nantes
+FR1,2021,21,15-1-2022,1,2,01:02:00,20,7,As Saint Etienne,Rc Lens
+FR1,2021,26,26-2-2022,3,1,03:01:00,1,19,Fc Paris Saint Germain,As Saint Etienne
+FR1,2021,21,15-1-2022,2,0,02:00:00,1,13,Fc Paris Saint Germain,Stade Brest 29
+FR1,2021,20,19-1-2022,0,1,00:01:00,6,15,Montpellier Hsc,Es Troyes Ac
+FR1,2021,20,9-1-2022,0,0,00:00:00,10,9,Fc Nantes,As Monaco
+FR1,2021,20,9-1-2022,1,1,01:01:00,11,1,Olympique Lyon,Fc Paris Saint Germain
+FR1,2021,20,9-1-2022,0,0,00:00:00,16,14,Clermont Foot 63,Stade Reims
+FR1,2021,21,16-1-2022,3,1,03:01:00,4,9,Rc Strassburg Alsace,Montpellier Hsc
+FR1,2021,20,9-1-2022,0,3,00:03:00,13,2,Stade Brest 29,Ogc Nizza
+FR1,2021,20,7-1-2022,0,1,00:01:00,17,3,Fc Girondins Bordeaux,Olympique Marseille
+FR1,2021,19,19-1-2022,0,2,00:02:00,17,6,Clermont Foot 63,Rc Strassburg Alsace
+FR1,2021,19,22-12-2021,0,1,00:01:00,20,8,As Saint Etienne,Fc Nantes
+FR1,2021,21,16-1-2022,4,0,04:00:00,6,17,As Monaco,Clermont Foot 63
+FR1,2021,19,22-12-2021,2,1,02:01:00,2,10,Ogc Nizza,Rc Lens
+FR1,2021,20,8-1-2022,1,0,01:00:00,8,5,Rc Lens,Fc Stade Rennes
+FR1,2021,19,22-12-2021,4,1,04:01:00,5,12,Montpellier Hsc,Sco Angers
+FR1,2021,20,26-1-2022,0,1,00:01:00,12,20,Sco Angers,As Saint Etienne
+FR1,2021,19,22-12-2021,1,1,01:01:00,3,14,Olympique Marseille,Stade Reims
+FR1,2021,23,4-2-2022,5,2,05:02:00,2,12,Olympique Marseille,Sco Angers
+FR1,2021,19,22-12-2021,2,3,02:03:00,16,9,Fc Girondins Bordeaux,Losc Lille
+FR1,2021,18,12-12-2021,2,0,02:00:00,1,8,Fc Paris Saint Germain,As Monaco
+FR1,2021,20,19-1-2022,3,1,03:01:00,7,19,Losc Lille,Fc Lorient
+FR1,2021,18,12-12-2021,0,2,00:02:00,7,2,Rc Strassburg Alsace,Olympique Marseille
+FR1,2021,18,12-12-2021,1,2,01:02:00,3,4,Fc Stade Rennes,Ogc Nizza
+FR1,2021,18,12-12-2021,4,1,04:01:00,18,19,Fc Metz,Fc Lorient
+FR1,2021,18,12-12-2021,1,2,01:02:00,17,15,Es Troyes Ac,Fc Girondins Bordeaux
+FR1,2021,19,22-12-2021,1,1,01:01:00,11,18,Olympique Lyon,Fc Metz
+FR1,2021,18,12-12-2021,0,0,00:00:00,12,9,Losc Lille,Olympique Lyon
+FR1,2021,18,10-12-2021,3,2,03:02:00,11,6,Fc Nantes,Rc Lens
+FR1,2021,18,12-12-2021,0,1,00:01:00,10,16,Sco Angers,Clermont Foot 63
+FR1,2021,19,22-12-2021,2,1,02:01:00,7,4,As Monaco,Fc Stade Rennes
+FR1,2021,17,5-12-2021,2,2,02:02:00,17,10,Fc Girondins Bordeaux,Olympique Lyon
+FR1,2021,17,5-12-2021,1,2,01:02:00,14,8,Stade Reims,Sco Angers
+FR1,2021,17,5-12-2021,4,0,04:00:00,7,19,As Monaco,Fc Metz
+FR1,2021,19,22-12-2021,1,1,01:01:00,15,13,Es Troyes Ac,Stade Brest 29
+FR1,2021,18,11-12-2021,2,0,02:00:00,14,20,Stade Reims,As Saint Etienne
+FR1,2021,17,5-12-2021,0,1,00:01:00,16,13,Fc Lorient,Fc Nantes
+FR1,2021,17,4-12-2021,1,1,01:01:00,5,1,Rc Lens,Fc Paris Saint Germain
+FR1,2021,17,4-12-2021,2,1,02:01:00,12,15,Losc Lille,Es Troyes Ac
+FR1,2021,18,11-12-2021,0,4,00:04:00,13,5,Stade Brest 29,Montpellier Hsc
+FR1,2021,19,22-12-2021,1,1,01:01:00,19,1,Fc Lorient,Fc Paris Saint Germain
+FR1,2021,17,5-12-2021,0,5,00:05:00,20,2,As Saint Etienne,Fc Stade Rennes
+FR1,2021,16,1-12-2021,0,1,00:01:00,13,2,Fc Nantes,Olympique Marseille
+FR1,2021,16,1-12-2021,1,2,01:02:00,6,14,Olympique Lyon,Stade Reims
+FR1,2021,16,1-12-2021,2,2,02:02:00,17,5,Clermont Foot 63,Rc Lens
+FR1,2021,16,1-12-2021,2,0,02:00:00,15,16,Es Troyes Ac,Fc Lorient
+FR1,2021,16,1-12-2021,5,2,05:02:00,7,18,Rc Strassburg Alsace,Fc Girondins Bordeaux
+FR1,2021,16,1-12-2021,1,3,01:03:00,19,10,Fc Metz,Montpellier Hsc
+FR1,2021,16,1-12-2021,1,2,01:02:00,3,12,Fc Stade Rennes,Losc Lille
+FR1,2021,16,1-12-2021,1,0,01:00:00,11,20,Stade Brest 29,As Saint Etienne
+FR1,2021,17,4-12-2021,1,2,01:02:00,3,11,Olympique Marseille,Stade Brest 29
+FR1,2021,16,1-12-2021,0,0,00:00:00,1,4,Fc Paris Saint Germain,Ogc Nizza
+FR1,2021,15,28-11-2021,0,1,00:01:00,11,6,Montpellier Hsc,Olympique Lyon
+FR1,2021,15,28-11-2021,1,0,01:00:00,4,17,Olympique Marseille,Es Troyes Ac
+FR1,2021,15,28-11-2021,0,2,00:02:00,15,2,Fc Lorient,Fc Stade Rennes
+FR1,2021,17,5-12-2021,0,3,00:03:00,4,6,Ogc Nizza,Rc Strassburg Alsace
+FR1,2021,15,27-11-2021,0,1,00:01:00,3,19,Ogc Nizza,Fc Metz
+FR1,2021,15,28-11-2021,1,2,01:02:00,16,12,Fc Girondins Bordeaux,Stade Brest 29
+FR1,2021,15,27-11-2021,1,1,01:01:00,13,10,Losc Lille,Fc Nantes
+FR1,2021,17,5-12-2021,1,0,01:00:00,9,18,Montpellier Hsc,Clermont Foot 63
+FR1,2021,14,1-2-2022,2,1,02:01:00,7,5,Olympique Lyon,Olympique Marseille
+FR1,2021,14,21-11-2021,1,2,01:02:00,18,2,Clermont Foot 63,Ogc Nizza
+FR1,2021,14,21-11-2021,0,1,00:01:00,17,19,Es Troyes Ac,As Saint Etienne
+FR1,2021,14,21-11-2021,1,1,01:01:00,8,15,Rc Strassburg Alsace,Stade Reims
+FR1,2021,14,21-11-2021,3,3,03:03:00,20,16,Fc Metz,Fc Girondins Bordeaux
+FR1,2021,14,21-11-2021,1,0,01:00:00,6,14,Sco Angers,Fc Lorient
+FR1,2021,14,21-11-2021,4,0,04:00:00,13,4,Stade Brest 29,Rc Lens
+FR1,2021,20,9-1-2022,0,2,00:02:00,18,4,Fc Metz,Rc Strassburg Alsace
+FR1,2021,14,19-11-2021,2,2,02:02:00,9,12,As Monaco,Losc Lille
+FR1,2021,14,20-11-2021,2,0,02:00:00,3,10,Fc Stade Rennes,Montpellier Hsc
+FR1,2021,13,7-11-2021,0,1,00:01:00,3,6,Ogc Nizza,Montpellier Hsc
+FR1,2021,13,7-11-2021,3,2,03:02:00,19,15,As Saint Etienne,Clermont Foot 63
+FR1,2021,13,7-11-2021,4,1,04:01:00,5,11,Fc Stade Rennes,Olympique Lyon
+FR1,2021,14,20-11-2021,3,1,03:01:00,1,11,Fc Paris Saint Germain,Fc Nantes
+FR1,2021,13,7-11-2021,0,0,00:00:00,16,10,Stade Reims,As Monaco
+FR1,2021,13,7-11-2021,1,2,01:02:00,13,17,Fc Lorient,Stade Brest 29
+FR1,2021,15,28-11-2021,1,3,01:03:00,20,1,As Saint Etienne,Fc Paris Saint Germain
+FR1,2021,13,6-11-2021,1,1,01:01:00,12,8,Losc Lille,Sco Angers
+FR1,2021,13,5-11-2021,4,0,04:00:00,2,14,Rc Lens,Es Troyes Ac
+FR1,2021,15,28-11-2021,1,0,01:00:00,14,18,Stade Reims,Clermont Foot 63
+FR1,2021,12,31-10-2021,0,1,00:01:00,15,3,Clermont Foot 63,Olympique Marseille
+FR1,2021,12,31-10-2021,2,0,02:00:00,18,10,Stade Brest 29,As Monaco
+FR1,2021,12,31-10-2021,2,2,02:02:00,14,5,Es Troyes Ac,Fc Stade Rennes
+FR1,2021,15,28-11-2021,1,1,01:01:00,9,8,As Monaco,Rc Strassburg Alsace
+FR1,2021,12,31-10-2021,2,0,02:00:00,11,9,Montpellier Hsc,Fc Nantes
+FR1,2021,16,1-12-2021,1,3,01:03:00,9,8,Sco Angers,As Monaco
+FR1,2021,12,31-10-2021,1,2,01:02:00,8,2,Sco Angers,Ogc Nizza
+FR1,2021,12,30-10-2021,2,1,02:01:00,6,4,Olympique Lyon,Rc Lens
+FR1,2021,12,31-10-2021,3,2,03:02:00,16,17,Fc Girondins Bordeaux,Stade Reims
+FR1,2021,11,24-10-2021,0,0,00:00:00,4,1,Olympique Marseille,Fc Paris Saint Germain
+FR1,2021,12,31-10-2021,4,0,04:00:00,7,13,Rc Strassburg Alsace,Fc Lorient
+FR1,2021,11,24-10-2021,3,1,03:01:00,8,13,As Monaco,Montpellier Hsc
+FR1,2021,11,24-10-2021,1,0,01:00:00,5,12,Fc Stade Rennes,Rc Strassburg Alsace
+FR1,2021,11,24-10-2021,1,2,01:02:00,16,15,Stade Reims,Es Troyes Ac
+FR1,2021,11,24-10-2021,1,1,01:01:00,11,17,Fc Lorient,Fc Girondins Bordeaux
+FR1,2021,11,24-10-2021,4,1,04:01:00,2,19,Rc Lens,Fc Metz
+FR1,2021,11,24-10-2021,3,2,03:02:00,3,9,Ogc Nizza,Olympique Lyon
+FR1,2021,12,29-10-2021,2,1,02:01:00,1,12,Fc Paris Saint Germain,Losc Lille
+FR1,2021,13,7-11-2021,2,2,02:02:00,9,7,Fc Nantes,Rc Strassburg Alsace
+FR1,2021,11,22-10-2021,2,2,02:02:00,20,6,As Saint Etienne,Sco Angers
+FR1,2021,15,26-11-2021,2,2,02:02:00,5,7,Rc Lens,Sco Angers
+FR1,2021,10,17-10-2021,1,0,01:00:00,13,3,Montpellier Hsc,Rc Lens
+FR1,2021,10,17-10-2021,1,1,01:01:00,17,9,Fc Girondins Bordeaux,Fc Nantes
+FR1,2021,10,17-10-2021,5,1,05:01:00,8,20,Rc Strassburg Alsace,As Saint Etienne
+FR1,2021,10,17-10-2021,0,3,00:03:00,18,6,Fc Metz,Fc Stade Rennes
+FR1,2021,10,17-10-2021,1,0,01:00:00,16,4,Es Troyes Ac,Ogc Nizza
+FR1,2021,10,16-10-2021,2,0,02:00:00,7,10,Olympique Lyon,As Monaco
+FR1,2021,10,16-10-2021,1,0,01:00:00,14,11,Clermont Foot 63,Losc Lille
+FR1,2021,11,23-10-2021,1,1,01:01:00,10,18,Losc Lille,Stade Brest 29
+FR1,2021,9,3-10-2021,1,1,01:01:00,20,11,As Saint Etienne,Olympique Lyon
+FR1,2021,9,3-10-2021,2,0,02:00:00,8,5,Losc Lille,Olympique Marseille
+FR1,2021,10,17-10-2021,4,1,04:01:00,2,12,Olympique Marseille,Fc Lorient
+FR1,2021,13,6-11-2021,2,3,02:03:00,18,1,Fc Girondins Bordeaux,Fc Paris Saint Germain
+FR1,2021,9,3-10-2021,1,1,01:01:00,7,15,Fc Lorient,Clermont Foot 63
+FR1,2021,9,3-10-2021,3,2,03:02:00,4,18,Sco Angers,Fc Metz
+FR1,2021,9,3-10-2021,2,0,02:00:00,10,1,Fc Stade Rennes,Fc Paris Saint Germain
+FR1,2021,12,30-10-2021,1,1,01:01:00,19,20,Fc Metz,As Saint Etienne
+FR1,2021,9,2-10-2021,2,1,02:01:00,3,19,Ogc Nizza,Stade Brest 29
+FR1,2021,9,2-10-2021,1,1,01:01:00,13,12,Montpellier Hsc,Rc Strassburg Alsace
+FR1,2021,9,1-10-2021,2,0,02:00:00,2,14,Rc Lens,Stade Reims
+FR1,2021,8,26-9-2021,2,3,02:03:00,2,3,Olympique Marseille,Rc Lens
+FR1,2021,8,26-9-2021,1,3,01:03:00,15,8,Clermont Foot 63,As Monaco
+FR1,2021,10,17-10-2021,1,1,01:01:00,19,15,Stade Brest 29,Stade Reims
+FR1,2021,11,23-10-2021,2,1,02:01:00,7,14,Fc Nantes,Clermont Foot 63
+FR1,2021,8,26-9-2021,1,2,01:02:00,19,18,Stade Brest 29,Fc Metz
+FR1,2021,8,26-9-2021,3,1,03:01:00,11,10,Stade Reims,Fc Nantes
+FR1,2021,9,3-10-2021,3,0,03:00:00,6,16,As Monaco,Fc Girondins Bordeaux
+FR1,2021,8,25-9-2021,2,0,02:00:00,1,14,Fc Paris Saint Germain,Montpellier Hsc
+FR1,2021,8,25-9-2021,1,2,01:02:00,12,9,Rc Strassburg Alsace,Losc Lille
+FR1,2021,8,25-9-2021,0,3,00:03:00,20,4,As Saint Etienne,Ogc Nizza
+FR1,2021,7,22-9-2021,3,1,03:01:00,8,17,Olympique Lyon,Es Troyes Ac
+FR1,2021,7,22-9-2021,1,0,01:00:00,5,6,Fc Lorient,Ogc Nizza
+FR1,2021,7,22-9-2021,0,1,00:01:00,4,9,Rc Lens,Rc Strassburg Alsace
+FR1,2021,9,3-10-2021,2,0,02:00:00,9,17,Fc Nantes,Es Troyes Ac
+FR1,2021,7,22-9-2021,1,2,01:02:00,20,1,Fc Metz,Fc Paris Saint Germain
+FR1,2021,8,26-9-2021,1,1,01:01:00,16,13,Fc Girondins Bordeaux,Fc Stade Rennes
+FR1,2021,7,22-9-2021,3,1,03:01:00,7,18,Fc Nantes,Stade Brest 29
+FR1,2021,7,22-9-2021,6,0,06:00:00,12,11,Fc Stade Rennes,Clermont Foot 63
+FR1,2021,7,22-9-2021,3,3,03:03:00,10,16,Montpellier Hsc,Fc Girondins Bordeaux
+FR1,2021,7,22-9-2021,2,1,02:01:00,14,15,Losc Lille,Stade Reims
+FR1,2021,6,19-9-2021,2,0,02:00:00,2,16,Olympique Marseille,Fc Stade Rennes
+FR1,2021,13,7-11-2021,0,0,00:00:00,4,20,Olympique Marseille,Fc Metz
+FR1,2021,6,19-9-2021,1,1,01:01:00,13,8,Es Troyes Ac,Montpellier Hsc
+FR1,2021,10,15-10-2021,2,1,02:01:00,1,5,Fc Paris Saint Germain,Sco Angers
+FR1,2021,6,19-9-2021,1,4,01:04:00,5,9,Sco Angers,Fc Nantes
+FR1,2021,6,19-9-2021,2,2,02:02:00,4,14,Ogc Nizza,As Monaco
+FR1,2021,6,19-9-2021,1,1,01:01:00,6,18,Clermont Foot 63,Stade Brest 29
+FR1,2021,6,18-9-2021,1,2,01:02:00,19,17,As Saint Etienne,Fc Girondins Bordeaux
+FR1,2021,6,18-9-2021,1,0,01:00:00,3,15,Rc Lens,Losc Lille
+FR1,2021,6,17-9-2021,3,0,03:00:00,11,20,Rc Strassburg Alsace,Fc Metz
+FR1,2021,7,22-9-2021,3,1,03:01:00,13,19,As Monaco,As Saint Etienne
+FR1,2021,5,12-9-2021,0,2,00:02:00,11,10,Fc Stade Rennes,Stade Reims
+FR1,2021,5,12-9-2021,3,1,03:01:00,9,15,Olympique Lyon,Rc Strassburg Alsace
+FR1,2021,5,12-9-2021,1,1,01:01:00,17,2,Stade Brest 29,Sco Angers
+FR1,2021,5,12-9-2021,0,2,00:02:00,18,13,Fc Metz,Es Troyes Ac
+FR1,2021,5,12-9-2021,0,2,00:02:00,14,4,Fc Nantes,Ogc Nizza
+FR1,2021,6,19-9-2021,2,1,02:01:00,1,12,Fc Paris Saint Germain,Olympique Lyon
+FR1,2021,5,11-9-2021,0,2,00:02:00,16,3,As Monaco,Olympique Marseille
+FR1,2021,5,12-9-2021,2,0,02:00:00,8,19,Montpellier Hsc,As Saint Etienne
+FR1,2021,5,10-9-2021,2,1,02:01:00,7,12,Fc Lorient,Losc Lille
+FR1,2021,4,29-8-2021,0,2,00:02:00,17,1,Stade Reims,Fc Paris Saint Germain
+FR1,2021,4,29-8-2021,2,1,02:01:00,9,10,Losc Lille,Montpellier Hsc
+FR1,2021,7,22-9-2021,0,0,00:00:00,3,2,Sco Angers,Olympique Marseille
+FR1,2021,5,12-9-2021,2,3,02:03:00,20,5,Fc Girondins Bordeaux,Rc Lens
+FR1,2021,4,29-8-2021,2,2,02:02:00,3,15,Clermont Foot 63,Fc Metz
+FR1,2021,4,29-8-2021,2,0,02:00:00,2,8,Sco Angers,Fc Stade Rennes
+FR1,2021,4,29-8-2021,1,2,01:02:00,20,14,Es Troyes Ac,As Monaco
+FR1,2021,4,28-8-2021,3,1,03:01:00,4,16,Olympique Marseille,As Saint Etienne
+FR1,2021,4,29-8-2021,2,2,02:02:00,6,7,Rc Lens,Fc Lorient
+FR1,2021,4,27-8-2021,0,1,00:01:00,11,13,Fc Nantes,Olympique Lyon
+FR1,2021,3,27-10-2021,1,1,01:01:00,7,5,Ogc Nizza,Olympique Marseille
+FR1,2021,3,22-8-2021,1,1,01:01:00,20,18,Rc Strassburg Alsace,Es Troyes Ac
+FR1,2021,5,11-9-2021,4,0,04:00:00,1,6,Fc Paris Saint Germain,Clermont Foot 63
+FR1,2021,3,22-8-2021,3,1,03:01:00,8,10,Montpellier Hsc,Fc Lorient
+FR1,2021,3,22-8-2021,1,1,01:01:00,15,2,Fc Girondins Bordeaux,Sco Angers
+FR1,2021,3,22-8-2021,3,3,03:03:00,17,3,Olympique Lyon,Clermont Foot 63
+FR1,2021,3,21-8-2021,1,1,01:01:00,11,16,As Saint Etienne,Losc Lille
+FR1,2021,3,21-8-2021,0,2,00:02:00,19,4,As Monaco,Rc Lens
+FR1,2021,4,29-8-2021,3,1,03:01:00,12,18,Rc Strassburg Alsace,Stade Brest 29
+FR1,2021,3,20-8-2021,2,4,02:04:00,13,1,Stade Brest 29,Fc Paris Saint Germain
+FR1,2021,2,15-8-2021,2,2,02:02:00,5,16,Olympique Marseille,Fc Girondins Bordeaux
+FR1,2021,2,15-8-2021,2,2,02:02:00,10,8,Rc Lens,As Saint Etienne
+FR1,2021,3,22-8-2021,1,0,01:00:00,6,9,Fc Stade Rennes,Fc Nantes
+FR1,2021,6,19-9-2021,0,0,00:00:00,10,7,Stade Reims,Fc Lorient
+FR1,2021,3,22-8-2021,1,1,01:01:00,14,12,Fc Metz,Stade Reims
+FR1,2021,2,15-8-2021,1,1,01:01:00,11,12,Stade Brest 29,Fc Stade Rennes
+FR1,2021,2,14-8-2021,4,2,04:02:00,3,20,Fc Paris Saint Germain,Rc Strassburg Alsace
+FR1,2021,2,15-8-2021,3,3,03:03:00,9,13,Stade Reims,Montpellier Hsc
+FR1,2021,2,15-8-2021,2,0,02:00:00,4,15,Fc Nantes,Fc Metz
+FR1,2021,2,13-8-2021,1,0,01:00:00,6,14,Fc Lorient,As Monaco
+FR1,2021,1,8-8-2021,2,3,02:03:00,17,3,Montpellier Hsc,Olympique Marseille
+FR1,2021,1,8-8-2021,3,3,03:03:00,5,6,Fc Metz,Losc Lille
+FR1,2021,1,8-8-2021,0,2,00:02:00,19,2,Rc Strassburg Alsace,Sco Angers
+FR1,2021,1,8-8-2021,1,1,01:01:00,9,13,As Saint Etienne,Fc Lorient
+FR1,2021,1,8-8-2021,0,0,00:00:00,16,14,Ogc Nizza,Stade Reims
+FR1,2021,1,8-8-2021,1,1,01:01:00,8,10,Fc Stade Rennes,Rc Lens
+FR1,2021,1,7-8-2021,1,2,01:02:00,18,4,Es Troyes Ac,Fc Paris Saint Germain
+FR1,2021,8,25-9-2021,1,1,01:01:00,7,6,Olympique Lyon,Fc Lorient
+FR1,2021,1,7-8-2021,1,1,01:01:00,15,7,Olympique Lyon,Stade Brest 29
+FR1,2021,8,26-9-2021,1,1,01:01:00,17,5,Es Troyes Ac,Sco Angers
+FR1,2021,2,15-8-2021,3,0,03:00:00,1,19,Sco Angers,Olympique Lyon
+FR1,2021,1,8-8-2021,0,2,00:02:00,20,1,Fc Girondins Bordeaux,Clermont Foot 63
+FR1,2021,1,6-8-2021,1,1,01:01:00,11,12,As Monaco,Fc Nantes
+FR1,2021,2,14-8-2021,0,4,00:04:00,17,7,Losc Lille,Ogc Nizza
+FR1,2021,2,15-8-2021,2,0,02:00:00,2,18,Clermont Foot 63,Es Troyes Ac
+FR1,2021,4,28-8-2021,4,0,04:00:00,5,19,Ogc Nizza,Fc Girondins Bordeaux
+ES1,2021,38,22-5-2022,1,0,01:00:00,4,8,Fc Sevilla,Athletic Bilbao
+ES1,2021,38,22-5-2022,0,2,00:02:00,10,16,Ca Osasuna,Rcd Mallorca
+ES1,2021,38,22-5-2022,1,2,01:02:00,6,3,Real Sociedad San Sebastian,Atletico Madrid
+ES1,2021,38,21-5-2022,2,0,02:00:00,9,11,Fc Valencia,Celta Vigo
+ES1,2021,38,20-5-2022,2,4,02:04:00,12,19,Rayo Vallecano,Ud Levante
+ES1,2021,38,20-5-2022,0,0,00:00:00,1,5,Real Madrid,Real Betis Sevilla
+ES1,2021,38,22-5-2022,0,1,00:01:00,20,17,Deportivo Alaves,Fc Cadiz
+ES1,2021,37,15-5-2022,3,1,03:01:00,19,20,Ud Levante,Deportivo Alaves
+ES1,2021,37,15-5-2022,0,0,00:00:00,15,2,Fc Getafe,Fc Barcelona
+ES1,2021,38,22-5-2022,0,2,00:02:00,2,7,Fc Barcelona,Fc Villarreal
+ES1,2021,38,22-5-2022,3,1,03:01:00,13,15,Fc Elche,Fc Getafe
+ES1,2021,37,15-5-2022,2,1,02:01:00,17,12,Rcd Mallorca,Rayo Vallecano
+ES1,2021,37,15-5-2022,2,0,02:00:00,5,16,Real Betis Sevilla,Fc Granada
+ES1,2021,37,15-5-2022,1,1,01:01:00,3,4,Atletico Madrid,Fc Sevilla
+ES1,2021,36,12-5-2022,6,0,06:00:00,1,20,Real Madrid,Ud Levante
+ES1,2021,37,15-5-2022,1,1,01:01:00,18,1,Fc Cadiz,Real Madrid
+ES1,2021,36,12-5-2022,1,5,01:05:00,12,7,Rayo Vallecano,Fc Villarreal
+ES1,2021,36,12-5-2022,3,0,03:00:00,6,17,Real Sociedad San Sebastian,Fc Cadiz
+ES1,2021,36,11-5-2022,0,0,00:00:00,4,18,Fc Sevilla,Rcd Mallorca
+ES1,2021,36,11-5-2022,2,1,02:01:00,19,13,Deportivo Alaves,Espanyol Barcelona
+ES1,2021,37,15-5-2022,1,2,01:02:00,7,6,Fc Villarreal,Real Sociedad San Sebastian
+ES1,2021,36,10-5-2022,1,0,01:00:00,16,8,Fc Granada,Athletic Bilbao
+ES1,2021,36,10-5-2022,3,1,03:01:00,2,11,Fc Barcelona,Celta Vigo
+ES1,2021,36,10-5-2022,0,3,00:03:00,10,5,Fc Valencia,Real Betis Sevilla
+ES1,2021,36,11-5-2022,1,1,01:01:00,9,15,Ca Osasuna,Fc Getafe
+ES1,2021,35,8-5-2022,1,0,01:00:00,4,1,Atletico Madrid,Real Madrid
+ES1,2021,35,8-5-2022,1,1,01:01:00,13,9,Espanyol Barcelona,Ca Osasuna
+ES1,2021,37,15-5-2022,2,0,02:00:00,8,9,Athletic Bilbao,Ca Osasuna
+ES1,2021,36,11-5-2022,0,2,00:02:00,14,3,Fc Elche,Atletico Madrid
+ES1,2021,35,7-5-2022,3,0,03:00:00,16,14,Fc Cadiz,Fc Elche
+ES1,2021,37,15-5-2022,1,0,01:00:00,10,14,Celta Vigo,Fc Elche
+ES1,2021,35,7-5-2022,2,6,02:06:00,18,17,Rcd Mallorca,Fc Granada
+ES1,2021,35,7-5-2022,1,2,01:02:00,5,2,Real Betis Sevilla,Fc Barcelona
+ES1,2021,35,6-5-2022,2,1,02:01:00,19,6,Ud Levante,Real Sociedad San Sebastian
+ES1,2021,35,8-5-2022,0,0,00:00:00,15,12,Fc Getafe,Rayo Vallecano
+ES1,2021,34,1-5-2022,2,1,02:01:00,2,16,Fc Barcelona,Rcd Mallorca
+ES1,2021,35,8-5-2022,1,1,01:01:00,7,3,Fc Villarreal,Fc Sevilla
+ES1,2021,34,1-5-2022,1,1,01:01:00,18,12,Fc Granada,Celta Vigo
+ES1,2021,34,1-5-2022,1,1,01:01:00,13,9,Fc Elche,Ca Osasuna
+ES1,2021,34,30-4-2022,2,0,02:00:00,8,4,Athletic Bilbao,Atletico Madrid
+ES1,2021,34,2-5-2022,0,0,00:00:00,15,5,Fc Getafe,Real Betis Sevilla
+ES1,2021,34,30-4-2022,4,0,04:00:00,1,14,Real Madrid,Espanyol Barcelona
+ES1,2021,34,30-4-2022,2,1,02:01:00,19,7,Deportivo Alaves,Fc Villarreal
+ES1,2021,34,29-4-2022,1,1,01:01:00,3,17,Fc Sevilla,Fc Cadiz
+ES1,2021,33,21-4-2022,2,3,02:03:00,17,8,Fc Cadiz,Athletic Bilbao
+ES1,2021,33,21-4-2022,0,1,00:01:00,6,2,Real Sociedad San Sebastian,Fc Barcelona
+ES1,2021,33,21-4-2022,2,3,02:03:00,20,3,Ud Levante,Fc Sevilla
+ES1,2021,33,21-4-2022,0,1,00:01:00,13,11,Espanyol Barcelona,Rayo Vallecano
+ES1,2021,33,20-4-2022,1,3,01:03:00,9,1,Ca Osasuna,Real Madrid
+ES1,2021,33,20-4-2022,0,2,00:02:00,12,15,Celta Vigo,Fc Getafe
+ES1,2021,33,20-4-2022,0,0,00:00:00,4,18,Atletico Madrid,Fc Granada
+ES1,2021,33,19-4-2022,0,1,00:01:00,5,14,Real Betis Sevilla,Fc Elche
+ES1,2021,34,1-5-2022,1,1,01:01:00,11,6,Rayo Vallecano,Real Sociedad San Sebastian
+ES1,2021,32,18-4-2022,0,1,00:01:00,2,16,Fc Barcelona,Fc Cadiz
+ES1,2021,32,17-4-2022,2,3,02:03:00,3,1,Fc Sevilla,Real Madrid
+ES1,2021,38,22-5-2022,0,0,00:00:00,18,14,Fc Granada,Espanyol Barcelona
+ES1,2021,32,17-4-2022,2,1,02:01:00,4,12,Atletico Madrid,Espanyol Barcelona
+ES1,2021,35,7-5-2022,4,0,04:00:00,11,20,Celta Vigo,Deportivo Alaves
+ES1,2021,34,30-4-2022,1,1,01:01:00,10,20,Fc Valencia,Ud Levante
+ES1,2021,32,16-4-2022,1,2,01:02:00,15,7,Fc Getafe,Fc Villarreal
+ES1,2021,32,16-4-2022,1,0,01:00:00,19,13,Deportivo Alaves,Rayo Vallecano
+ES1,2021,32,16-4-2022,3,0,03:00:00,14,18,Fc Elche,Rcd Mallorca
+ES1,2021,32,17-4-2022,1,4,01:04:00,17,20,Fc Granada,Ud Levante
+ES1,2021,31,11-4-2022,1,1,01:01:00,12,9,Rayo Vallecano,Fc Valencia
+ES1,2021,31,10-4-2022,1,2,01:02:00,14,6,Fc Elche,Real Sociedad San Sebastian
+ES1,2021,33,19-4-2022,2,0,02:00:00,7,10,Fc Villarreal,Fc Valencia
+ES1,2021,31,10-4-2022,1,0,01:00:00,11,13,Espanyol Barcelona,Celta Vigo
+ES1,2021,31,10-4-2022,1,0,01:00:00,10,19,Ca Osasuna,Deportivo Alaves
+ES1,2021,31,9-4-2022,2,0,02:00:00,1,15,Real Madrid,Fc Getafe
+ES1,2021,31,9-4-2022,1,1,01:01:00,7,8,Fc Villarreal,Athletic Bilbao
+ES1,2021,31,9-4-2022,1,2,01:02:00,18,5,Fc Cadiz,Real Betis Sevilla
+ES1,2021,31,8-4-2022,4,2,04:02:00,3,16,Fc Sevilla,Fc Granada
+ES1,2021,31,9-4-2022,1,0,01:00:00,17,4,Rcd Mallorca,Atletico Madrid
+ES1,2021,30,4-4-2022,1,0,01:00:00,6,13,Real Sociedad San Sebastian,Espanyol Barcelona
+ES1,2021,35,7-5-2022,0,0,00:00:00,8,10,Athletic Bilbao,Fc Valencia
+ES1,2021,30,3-4-2022,1,0,01:00:00,2,3,Fc Barcelona,Fc Sevilla
+ES1,2021,30,3-4-2022,4,1,04:01:00,5,10,Real Betis Sevilla,Ca Osasuna
+ES1,2021,30,3-4-2022,0,0,00:00:00,9,17,Fc Valencia,Fc Cadiz
+ES1,2021,30,3-4-2022,2,2,02:02:00,16,12,Fc Granada,Rayo Vallecano
+ES1,2021,30,2-4-2022,4,1,04:01:00,4,19,Atletico Madrid,Deportivo Alaves
+ES1,2021,30,2-4-2022,2,0,02:00:00,20,7,Ud Levante,Fc Villarreal
+ES1,2021,30,2-4-2022,1,0,01:00:00,15,18,Fc Getafe,Rcd Mallorca
+ES1,2021,30,2-4-2022,1,2,01:02:00,11,1,Celta Vigo,Real Madrid
+ES1,2021,30,3-4-2022,2,1,02:01:00,8,14,Athletic Bilbao,Fc Elche
+ES1,2021,29,20-3-2022,0,0,00:00:00,2,6,Fc Sevilla,Real Sociedad San Sebastian
+ES1,2021,29,20-3-2022,1,0,01:00:00,17,7,Fc Cadiz,Fc Villarreal
+ES1,2021,29,20-3-2022,0,0,00:00:00,11,5,Celta Vigo,Real Betis Sevilla
+ES1,2021,29,19-3-2022,0,1,00:01:00,13,4,Rayo Vallecano,Atletico Madrid
+ES1,2021,29,19-3-2022,3,1,03:01:00,10,20,Ca Osasuna,Ud Levante
+ES1,2021,29,19-3-2022,0,1,00:01:00,14,9,Fc Elche,Fc Valencia
+ES1,2021,29,19-3-2022,2,3,02:03:00,19,16,Deportivo Alaves,Fc Granada
+ES1,2021,29,18-3-2022,1,1,01:01:00,8,15,Athletic Bilbao,Fc Getafe
+ES1,2021,28,14-3-2022,0,3,00:03:00,16,1,Rcd Mallorca,Real Madrid
+ES1,2021,28,13-3-2022,4,0,04:00:00,3,11,Fc Barcelona,Ca Osasuna
+ES1,2021,28,13-3-2022,1,0,01:00:00,6,19,Real Sociedad San Sebastian,Deportivo Alaves
+ES1,2021,28,13-3-2022,1,0,01:00:00,5,8,Real Betis Sevilla,Athletic Bilbao
+ES1,2021,28,13-3-2022,1,1,01:01:00,12,2,Rayo Vallecano,Fc Sevilla
+ES1,2021,28,12-3-2022,0,0,00:00:00,15,9,Fc Getafe,Fc Valencia
+ES1,2021,28,12-3-2022,1,0,01:00:00,7,10,Fc Villarreal,Celta Vigo
+ES1,2021,28,12-3-2022,0,1,00:01:00,17,14,Fc Granada,Fc Elche
+ES1,2021,28,12-3-2022,1,1,01:01:00,20,13,Ud Levante,Espanyol Barcelona
+ES1,2021,28,11-3-2022,2,1,02:01:00,4,18,Atletico Madrid,Fc Cadiz
+ES1,2021,27,7-3-2022,3,1,03:01:00,8,20,Athletic Bilbao,Ud Levante
+ES1,2021,27,6-3-2022,1,3,01:03:00,5,4,Real Betis Sevilla,Atletico Madrid
+ES1,2021,27,6-3-2022,4,3,04:03:00,10,16,Celta Vigo,Rcd Mallorca
+ES1,2021,33,19-4-2022,2,1,02:01:00,16,19,Rcd Mallorca,Deportivo Alaves
+ES1,2021,27,6-3-2022,1,2,01:02:00,14,3,Fc Elche,Fc Barcelona
+ES1,2021,32,17-4-2022,0,2,00:02:00,8,11,Athletic Bilbao,Celta Vigo
+ES1,2021,27,5-3-2022,4,1,04:01:00,1,6,Real Madrid,Real Sociedad San Sebastian
+ES1,2021,27,5-3-2022,2,0,02:00:00,13,15,Espanyol Barcelona,Fc Getafe
+ES1,2021,27,5-3-2022,1,0,01:00:00,11,7,Ca Osasuna,Fc Villarreal
+ES1,2021,27,4-3-2022,0,0,00:00:00,19,2,Deportivo Alaves,Fc Sevilla
+ES1,2021,26,28-2-2022,0,0,00:00:00,17,19,Fc Granada,Fc Cadiz
+ES1,2021,26,27-2-2022,4,0,04:00:00,4,8,Fc Barcelona,Athletic Bilbao
+ES1,2021,27,5-3-2022,3,1,03:01:00,9,17,Fc Valencia,Fc Granada
+ES1,2021,27,6-3-2022,2,0,02:00:00,18,12,Fc Cadiz,Rayo Vallecano
+ES1,2021,26,27-2-2022,5,1,05:01:00,7,14,Fc Villarreal,Espanyol Barcelona
+ES1,2021,31,10-4-2022,2,3,02:03:00,20,2,Ud Levante,Fc Barcelona
+ES1,2021,29,20-3-2022,1,0,01:00:00,12,18,Espanyol Barcelona,Rcd Mallorca
+ES1,2021,29,20-3-2022,0,4,00:04:00,1,3,Real Madrid,Fc Barcelona
+ES1,2021,26,26-2-2022,2,2,02:02:00,15,18,Fc Getafe,Deportivo Alaves
+ES1,2021,26,26-2-2022,0,1,00:01:00,16,10,Rcd Mallorca,Fc Valencia
+ES1,2021,26,25-2-2022,3,0,03:00:00,20,13,Ud Levante,Fc Elche
+ES1,2021,26,26-2-2022,2,0,02:00:00,5,11,Atletico Madrid,Celta Vigo
+ES1,2021,25,20-2-2022,2,1,02:01:00,3,16,Real Betis Sevilla,Rcd Mallorca
+ES1,2021,25,20-2-2022,1,4,01:04:00,12,4,Fc Valencia,Fc Barcelona
+ES1,2021,25,20-2-2022,1,1,01:01:00,14,2,Espanyol Barcelona,Fc Sevilla
+ES1,2021,25,19-2-2022,3,0,03:00:00,1,18,Real Madrid,Deportivo Alaves
+ES1,2021,25,19-2-2022,1,1,01:01:00,19,15,Fc Cadiz,Fc Getafe
+ES1,2021,26,26-2-2022,0,1,00:01:00,9,1,Rayo Vallecano,Real Madrid
+ES1,2021,32,15-4-2022,0,0,00:00:00,6,5,Real Sociedad San Sebastian,Real Betis Sevilla
+ES1,2021,25,19-2-2022,1,4,01:04:00,17,7,Fc Granada,Fc Villarreal
+ES1,2021,25,19-2-2022,0,3,00:03:00,11,5,Ca Osasuna,Atletico Madrid
+ES1,2021,26,27-2-2022,1,0,01:00:00,6,12,Real Sociedad San Sebastian,Ca Osasuna
+ES1,2021,24,14-2-2022,3,2,03:02:00,15,8,Rcd Mallorca,Athletic Bilbao
+ES1,2021,24,13-2-2022,2,2,02:02:00,13,5,Espanyol Barcelona,Fc Barcelona
+ES1,2021,25,21-2-2022,1,1,01:01:00,10,20,Celta Vigo,Ud Levante
+ES1,2021,24,13-2-2022,2,1,02:01:00,18,12,Deportivo Alaves,Fc Valencia
+ES1,2021,24,12-2-2022,4,3,04:03:00,6,16,Atletico Madrid,Fc Getafe
+ES1,2021,24,12-2-2022,0,0,00:00:00,7,1,Fc Villarreal,Real Madrid
+ES1,2021,24,13-2-2022,2,0,02:00:00,4,17,Real Sociedad San Sebastian,Fc Granada
+ES1,2021,24,12-2-2022,0,3,00:03:00,9,10,Rayo Vallecano,Ca Osasuna
+ES1,2021,24,11-2-2022,2,0,02:00:00,2,14,Fc Sevilla,Fc Elche
+ES1,2021,23,7-2-2022,2,1,02:01:00,8,13,Athletic Bilbao,Espanyol Barcelona
+ES1,2021,23,6-2-2022,1,0,01:00:00,1,16,Real Madrid,Fc Granada
+ES1,2021,23,6-2-2022,0,2,00:02:00,3,7,Real Betis Sevilla,Fc Villarreal
+ES1,2021,23,6-2-2022,0,0,00:00:00,10,5,Fc Valencia,Real Sociedad San Sebastian
+ES1,2021,24,13-2-2022,2,4,02:04:00,20,3,Ud Levante,Real Betis Sevilla
+ES1,2021,23,5-2-2022,0,0,00:00:00,12,2,Ca Osasuna,Fc Sevilla
+ES1,2021,23,5-2-2022,2,1,02:01:00,17,18,Rcd Mallorca,Fc Cadiz
+ES1,2021,23,5-2-2022,3,1,03:01:00,14,19,Fc Elche,Deportivo Alaves
+ES1,2021,25,18-2-2022,2,1,02:01:00,13,9,Fc Elche,Rayo Vallecano
+ES1,2021,23,6-2-2022,4,2,04:02:00,4,6,Fc Barcelona,Atletico Madrid
+ES1,2021,23,5-2-2022,2,0,02:00:00,11,9,Celta Vigo,Rayo Vallecano
+ES1,2021,22,23-1-2022,0,0,00:00:00,4,16,Real Sociedad San Sebastian,Fc Getafe
+ES1,2021,22,23-1-2022,2,2,02:02:00,1,15,Real Madrid,Fc Elche
+ES1,2021,25,20-2-2022,4,0,04:00:00,8,6,Athletic Bilbao,Real Sociedad San Sebastian
+ES1,2021,22,22-1-2022,3,2,03:02:00,5,10,Atletico Madrid,Fc Valencia
+ES1,2021,22,23-1-2022,0,1,00:01:00,7,9,Rayo Vallecano,Athletic Bilbao
+ES1,2021,22,22-1-2022,3,0,03:00:00,8,17,Fc Villarreal,Rcd Mallorca
+ES1,2021,22,22-1-2022,0,2,00:02:00,20,18,Ud Levante,Fc Cadiz
+ES1,2021,32,16-4-2022,1,2,01:02:00,10,9,Fc Valencia,Ca Osasuna
+ES1,2021,22,23-1-2022,0,1,00:01:00,19,6,Deportivo Alaves,Fc Barcelona
+ES1,2021,21,24-4-2022,0,1,00:01:00,7,5,Fc Barcelona,Rayo Vallecano
+ES1,2021,21,2-3-2022,0,2,00:02:00,17,4,Rcd Mallorca,Real Sociedad San Sebastian
+ES1,2021,21,16-2-2022,0,1,00:01:00,6,20,Atletico Madrid,Ud Levante
+ES1,2021,24,12-2-2022,0,0,00:00:00,19,11,Fc Cadiz,Celta Vigo
+ES1,2021,21,20-1-2022,4,2,04:02:00,16,14,Fc Getafe,Fc Granada
+ES1,2021,21,18-1-2022,2,2,02:02:00,19,11,Fc Cadiz,Espanyol Barcelona
+ES1,2021,21,18-1-2022,4,0,04:00:00,3,18,Real Betis Sevilla,Deportivo Alaves
+ES1,2021,21,16-1-2022,1,0,01:00:00,15,9,Fc Elche,Fc Villarreal
+ES1,2021,21,19-1-2022,1,1,01:01:00,8,2,Fc Valencia,Fc Sevilla
+ES1,2021,21,22-12-2021,1,2,01:02:00,10,1,Athletic Bilbao,Real Madrid
+ES1,2021,20,10-1-2022,1,2,01:02:00,11,16,Espanyol Barcelona,Fc Elche
+ES1,2021,22,23-1-2022,0,2,00:02:00,14,11,Fc Granada,Ca Osasuna
+ES1,2021,22,21-1-2022,1,4,01:04:00,13,3,Espanyol Barcelona,Real Betis Sevilla
+ES1,2021,20,9-1-2022,0,0,00:00:00,18,9,Deportivo Alaves,Athletic Bilbao
+ES1,2021,20,9-1-2022,1,0,01:00:00,2,17,Fc Sevilla,Fc Getafe
+ES1,2021,20,8-1-2022,4,1,04:01:00,1,10,Real Madrid,Fc Valencia
+ES1,2021,20,9-1-2022,2,0,02:00:00,12,19,Ca Osasuna,Fc Cadiz
+ES1,2021,26,27-2-2022,2,1,02:01:00,2,3,Fc Sevilla,Real Betis Sevilla
+ES1,2021,21,19-1-2022,2,0,02:00:00,12,13,Celta Vigo,Ca Osasuna
+ES1,2021,20,8-1-2022,2,0,02:00:00,20,15,Ud Levante,Rcd Mallorca
+ES1,2021,20,8-1-2022,1,0,01:00:00,5,14,Real Sociedad San Sebastian,Celta Vigo
+ES1,2021,19,3-1-2022,1,3,01:03:00,14,10,Ca Osasuna,Athletic Bilbao
+ES1,2021,19,3-1-2022,5,0,05:00:00,9,20,Fc Villarreal,Ud Levante
+ES1,2021,19,2-1-2022,0,2,00:02:00,3,12,Real Betis Sevilla,Celta Vigo
+ES1,2021,19,3-1-2022,0,1,00:01:00,19,2,Fc Cadiz,Fc Sevilla
+ES1,2021,19,2-1-2022,0,0,00:00:00,18,13,Fc Elche,Fc Granada
+ES1,2021,19,2-1-2022,2,0,02:00:00,4,7,Atletico Madrid,Rayo Vallecano
+ES1,2021,19,2-1-2022,1,0,01:00:00,16,1,Fc Getafe,Real Madrid
+ES1,2021,19,31-12-2021,1,2,01:02:00,8,11,Fc Valencia,Espanyol Barcelona
+ES1,2021,22,22-1-2022,2,2,02:02:00,2,12,Fc Sevilla,Celta Vigo
+ES1,2021,18,19-12-2021,0,0,00:00:00,1,19,Real Madrid,Fc Cadiz
+ES1,2021,19,2-1-2022,0,1,00:01:00,15,5,Rcd Mallorca,Fc Barcelona
+ES1,2021,18,19-12-2021,3,2,03:02:00,10,3,Athletic Bilbao,Real Betis Sevilla
+ES1,2021,19,2-1-2022,1,1,01:01:00,17,6,Deportivo Alaves,Real Sociedad San Sebastian
+ES1,2021,18,19-12-2021,4,1,04:01:00,12,15,Fc Granada,Rcd Mallorca
+ES1,2021,18,18-12-2021,3,2,03:02:00,7,17,Fc Barcelona,Fc Elche
+ES1,2021,18,18-12-2021,1,3,01:03:00,6,9,Real Sociedad San Sebastian,Fc Villarreal
+ES1,2021,18,18-12-2021,2,0,02:00:00,4,16,Rayo Vallecano,Deportivo Alaves
+ES1,2021,23,4-2-2022,3,0,03:00:00,15,20,Fc Getafe,Ud Levante
+ES1,2021,18,19-12-2021,1,0,01:00:00,18,13,Fc Getafe,Ca Osasuna
+ES1,2021,20,8-1-2022,1,1,01:01:00,13,6,Fc Granada,Fc Barcelona
+ES1,2021,17,12-12-2021,2,0,02:00:00,1,4,Real Madrid,Atletico Madrid
+ES1,2021,18,20-12-2021,3,4,03:04:00,20,8,Ud Levante,Fc Valencia
+ES1,2021,17,12-12-2021,2,2,02:02:00,10,7,Ca Osasuna,Fc Barcelona
+ES1,2021,17,12-12-2021,4,0,04:00:00,3,5,Real Betis Sevilla,Real Sociedad San Sebastian
+ES1,2021,17,12-12-2021,2,0,02:00:00,11,6,Fc Villarreal,Rayo Vallecano
+ES1,2021,17,11-12-2021,1,1,01:01:00,16,19,Deportivo Alaves,Fc Getafe
+ES1,2021,18,17-12-2021,3,1,03:01:00,14,11,Celta Vigo,Espanyol Barcelona
+ES1,2021,17,11-12-2021,4,3,04:03:00,9,20,Espanyol Barcelona,Ud Levante
+ES1,2021,17,11-12-2021,0,1,00:01:00,12,2,Athletic Bilbao,Fc Sevilla
+ES1,2021,17,13-12-2021,1,1,01:01:00,18,14,Fc Cadiz,Fc Granada
+ES1,2021,16,6-12-2021,0,0,00:00:00,19,9,Fc Getafe,Athletic Bilbao
+ES1,2021,16,5-12-2021,0,0,00:00:00,20,10,Ud Levante,Ca Osasuna
+ES1,2021,18,18-12-2021,2,1,02:01:00,2,5,Fc Sevilla,Atletico Madrid
+ES1,2021,16,5-12-2021,1,0,01:00:00,6,11,Rayo Vallecano,Espanyol Barcelona
+ES1,2021,20,9-1-2022,2,2,02:02:00,8,4,Fc Villarreal,Atletico Madrid
+ES1,2021,16,4-12-2021,1,2,01:02:00,4,13,Atletico Madrid,Rcd Mallorca
+ES1,2021,16,4-12-2021,1,0,01:00:00,2,12,Fc Sevilla,Fc Villarreal
+ES1,2021,20,9-1-2022,1,1,01:01:00,7,3,Rayo Vallecano,Real Betis Sevilla
+ES1,2021,16,3-12-2021,2,1,02:01:00,14,17,Fc Granada,Deportivo Alaves
+ES1,2021,15,29-11-2021,1,1,01:01:00,10,17,Ca Osasuna,Fc Elche
+ES1,2021,15,28-11-2021,2,1,02:01:00,1,3,Real Madrid,Fc Sevilla
+ES1,2021,15,28-11-2021,1,0,01:00:00,8,2,Espanyol Barcelona,Real Sociedad San Sebastian
+ES1,2021,15,28-11-2021,3,1,03:01:00,5,20,Real Betis Sevilla,Ud Levante
+ES1,2021,15,27-11-2021,1,3,01:03:00,12,7,Fc Villarreal,Fc Barcelona
+ES1,2021,15,27-11-2021,0,0,00:00:00,14,19,Rcd Mallorca,Fc Getafe
+ES1,2021,15,27-11-2021,1,1,01:01:00,11,6,Fc Valencia,Rayo Vallecano
+ES1,2021,15,27-11-2021,1,2,01:02:00,16,13,Deportivo Alaves,Celta Vigo
+ES1,2021,16,5-12-2021,3,1,03:01:00,16,18,Fc Elche,Fc Cadiz
+ES1,2021,17,11-12-2021,2,1,02:01:00,8,17,Fc Valencia,Fc Elche
+ES1,2021,14,22-11-2021,3,1,03:01:00,6,13,Rayo Vallecano,Rcd Mallorca
+ES1,2021,14,21-11-2021,0,3,00:03:00,18,5,Fc Elche,Real Betis Sevilla
+ES1,2021,16,5-12-2021,1,2,01:02:00,15,8,Celta Vigo,Fc Valencia
+ES1,2021,14,21-11-2021,1,4,01:04:00,14,1,Fc Granada,Real Madrid
+ES1,2021,14,20-11-2021,1,0,01:00:00,7,12,Fc Barcelona,Espanyol Barcelona
+ES1,2021,14,20-11-2021,1,0,01:00:00,4,9,Atletico Madrid,Ca Osasuna
+ES1,2021,16,4-12-2021,0,1,00:01:00,7,3,Fc Barcelona,Real Betis Sevilla
+ES1,2021,14,20-11-2021,2,2,02:02:00,2,15,Fc Sevilla,Deportivo Alaves
+ES1,2021,15,26-11-2021,2,2,02:02:00,9,15,Athletic Bilbao,Fc Granada
+ES1,2021,14,20-11-2021,1,1,01:01:00,16,10,Celta Vigo,Fc Villarreal
+ES1,2021,13,7-11-2021,0,2,00:02:00,5,2,Real Betis Sevilla,Fc Sevilla
+ES1,2021,13,7-11-2021,2,2,02:02:00,13,18,Rcd Mallorca,Fc Elche
+ES1,2021,13,7-11-2021,3,3,03:03:00,11,4,Fc Valencia,Atletico Madrid
+ES1,2021,16,4-12-2021,0,2,00:02:00,5,1,Real Sociedad San Sebastian,Real Madrid
+ES1,2021,13,7-11-2021,1,0,01:00:00,10,20,Fc Villarreal,Fc Getafe
+ES1,2021,17,10-12-2021,0,0,00:00:00,13,15,Rcd Mallorca,Celta Vigo
+ES1,2021,13,6-11-2021,3,3,03:03:00,17,9,Celta Vigo,Fc Barcelona
+ES1,2021,13,6-11-2021,2,1,02:01:00,15,19,Deportivo Alaves,Ud Levante
+ES1,2021,13,6-11-2021,2,1,02:01:00,1,6,Real Madrid,Rayo Vallecano
+ES1,2021,13,5-11-2021,0,1,00:01:00,8,16,Athletic Bilbao,Fc Cadiz
+ES1,2021,12,1-11-2021,0,3,00:03:00,19,14,Ud Levante,Fc Granada
+ES1,2021,12,1-11-2021,0,0,00:00:00,6,15,Rayo Vallecano,Celta Vigo
+ES1,2021,14,21-11-2021,4,0,04:00:00,19,17,Fc Getafe,Fc Cadiz
+ES1,2021,12,31-10-2021,1,1,01:01:00,3,8,Real Sociedad San Sebastian,Athletic Bilbao
+ES1,2021,12,31-10-2021,1,1,01:01:00,18,12,Fc Cadiz,Rcd Mallorca
+ES1,2021,15,28-11-2021,1,4,01:04:00,18,4,Fc Cadiz,Atletico Madrid
+ES1,2021,12,30-10-2021,2,0,02:00:00,10,11,Fc Valencia,Fc Villarreal
+ES1,2021,12,30-10-2021,1,1,01:01:00,9,16,Fc Barcelona,Deportivo Alaves
+ES1,2021,12,30-10-2021,2,0,02:00:00,2,7,Fc Sevilla,Ca Osasuna
+ES1,2021,12,30-10-2021,1,2,01:02:00,17,1,Fc Elche,Real Madrid
+ES1,2021,12,31-10-2021,3,0,03:00:00,4,5,Atletico Madrid,Real Betis Sevilla
+ES1,2021,11,28-10-2021,1,1,01:01:00,14,20,Fc Granada,Fc Getafe
+ES1,2021,12,31-10-2021,2,1,02:01:00,20,13,Fc Getafe,Espanyol Barcelona
+ES1,2021,11,27-10-2021,0,0,00:00:00,1,5,Real Madrid,Ca Osasuna
+ES1,2021,13,7-11-2021,0,2,00:02:00,7,3,Ca Osasuna,Real Sociedad San Sebastian
+ES1,2021,11,28-10-2021,0,2,00:02:00,16,2,Celta Vigo,Real Sociedad San Sebastian
+ES1,2021,13,6-11-2021,2,0,02:00:00,12,14,Espanyol Barcelona,Fc Granada
+ES1,2021,11,27-10-2021,4,1,04:01:00,4,12,Real Betis Sevilla,Fc Valencia
+ES1,2021,11,26-10-2021,1,1,01:01:00,11,8,Espanyol Barcelona,Athletic Bilbao
+ES1,2021,11,26-10-2021,3,3,03:03:00,10,18,Fc Villarreal,Fc Cadiz
+ES1,2021,11,26-10-2021,1,0,01:00:00,17,15,Deportivo Alaves,Fc Elche
+ES1,2021,10,25-10-2021,0,3,00:03:00,20,14,Fc Getafe,Celta Vigo
+ES1,2021,10,24-10-2021,3,2,03:02:00,4,7,Real Betis Sevilla,Rayo Vallecano
+ES1,2021,11,27-10-2021,1,0,01:00:00,6,9,Rayo Vallecano,Fc Barcelona
+ES1,2021,10,24-10-2021,5,3,05:03:00,2,19,Fc Sevilla,Ud Levante
+ES1,2021,10,24-10-2021,2,2,02:02:00,5,3,Atletico Madrid,Real Sociedad San Sebastian
+ES1,2021,11,27-10-2021,1,1,01:01:00,13,3,Rcd Mallorca,Fc Sevilla
+ES1,2021,10,24-10-2021,1,2,01:02:00,8,1,Fc Barcelona,Real Madrid
+ES1,2021,10,23-10-2021,2,2,02:02:00,15,12,Fc Elche,Espanyol Barcelona
+ES1,2021,10,23-10-2021,2,2,02:02:00,11,13,Fc Valencia,Rcd Mallorca
+ES1,2021,9,22-12-2021,2,1,02:01:00,15,4,Fc Granada,Atletico Madrid
+ES1,2021,14,21-11-2021,0,0,00:00:00,3,11,Real Sociedad San Sebastian,Fc Valencia
+ES1,2021,10,23-10-2021,0,2,00:02:00,17,18,Fc Cadiz,Deportivo Alaves
+ES1,2021,9,18-10-2021,0,1,00:01:00,19,8,Deportivo Alaves,Real Betis Sevilla
+ES1,2021,9,17-10-2021,3,1,03:01:00,7,11,Fc Barcelona,Fc Valencia
+ES1,2021,10,23-10-2021,2,1,02:01:00,9,10,Athletic Bilbao,Fc Villarreal
+ES1,2021,9,17-10-2021,0,1,00:01:00,17,3,Celta Vigo,Fc Sevilla
+ES1,2021,9,18-10-2021,2,0,02:00:00,12,16,Espanyol Barcelona,Fc Cadiz
+ES1,2021,9,16-10-2021,1,0,01:00:00,2,13,Real Sociedad San Sebastian,Rcd Mallorca
+ES1,2021,9,17-10-2021,2,1,02:01:00,6,14,Rayo Vallecano,Fc Elche
+ES1,2021,10,22-10-2021,1,1,01:01:00,6,16,Ca Osasuna,Fc Granada
+ES1,2021,8,3-10-2021,1,0,01:00:00,17,4,Fc Granada,Fc Sevilla
+ES1,2021,8,3-10-2021,2,0,02:00:00,5,11,Fc Villarreal,Real Betis Sevilla
+ES1,2021,8,3-10-2021,1,0,01:00:00,14,16,Fc Elche,Celta Vigo
+ES1,2021,14,19-11-2021,0,0,00:00:00,20,8,Ud Levante,Athletic Bilbao
+ES1,2021,8,3-10-2021,2,1,02:01:00,13,1,Espanyol Barcelona,Real Madrid
+ES1,2021,8,2-10-2021,0,0,00:00:00,15,10,Fc Cadiz,Fc Valencia
+ES1,2021,11,28-10-2021,2,2,02:02:00,19,7,Ud Levante,Atletico Madrid
+ES1,2021,8,1-10-2021,1,0,01:00:00,9,19,Athletic Bilbao,Deportivo Alaves
+ES1,2021,9,16-10-2021,0,0,00:00:00,18,20,Ud Levante,Fc Getafe
+ES1,2021,8,2-10-2021,1,0,01:00:00,6,7,Ca Osasuna,Rayo Vallecano
+ES1,2021,7,26-9-2021,3,1,03:01:00,5,15,Rayo Vallecano,Fc Cadiz
+ES1,2021,7,26-9-2021,2,0,02:00:00,7,20,Real Betis Sevilla,Fc Getafe
+ES1,2021,7,27-9-2021,1,0,01:00:00,13,18,Celta Vigo,Fc Granada
+ES1,2021,7,26-9-2021,2,3,02:03:00,12,10,Rcd Mallorca,Ca Osasuna
+ES1,2021,7,26-9-2021,1,0,01:00:00,2,16,Real Sociedad San Sebastian,Fc Elche
+ES1,2021,7,25-9-2021,0,0,00:00:00,1,9,Real Madrid,Fc Villarreal
+ES1,2021,7,25-9-2021,2,0,02:00:00,3,14,Fc Sevilla,Espanyol Barcelona
+ES1,2021,7,25-9-2021,1,1,01:01:00,8,11,Fc Valencia,Athletic Bilbao
+ES1,2021,6,23-9-2021,0,0,00:00:00,14,8,Fc Cadiz,Fc Barcelona
+ES1,2021,8,3-10-2021,1,1,01:01:00,20,3,Fc Getafe,Real Sociedad San Sebastian
+ES1,2021,6,23-9-2021,2,3,02:03:00,18,3,Fc Granada,Real Sociedad San Sebastian
+ES1,2021,8,2-10-2021,1,0,01:00:00,12,18,Rcd Mallorca,Ud Levante
+ES1,2021,6,22-9-2021,4,1,04:01:00,5,15,Fc Villarreal,Fc Elche
+ES1,2021,6,22-9-2021,6,1,06:01:00,1,12,Real Madrid,Rcd Mallorca
+ES1,2021,6,22-9-2021,3,1,03:01:00,4,6,Fc Sevilla,Fc Valencia
+ES1,2021,7,26-9-2021,3,0,03:00:00,6,17,Fc Barcelona,Ud Levante
+ES1,2021,6,21-9-2021,0,2,00:02:00,17,16,Ud Levante,Celta Vigo
+ES1,2021,7,25-9-2021,1,0,01:00:00,19,4,Deportivo Alaves,Atletico Madrid
+ES1,2021,6,23-9-2021,1,3,01:03:00,11,9,Ca Osasuna,Real Betis Sevilla
+ES1,2021,5,20-9-2021,1,1,01:01:00,5,17,Fc Barcelona,Fc Granada
+ES1,2021,6,22-9-2021,1,0,01:00:00,13,20,Espanyol Barcelona,Deportivo Alaves
+ES1,2021,9,1-12-2021,1,0,01:00:00,1,10,Real Madrid,Athletic Bilbao
+ES1,2021,5,19-9-2021,0,0,00:00:00,4,6,Real Sociedad San Sebastian,Fc Sevilla
+ES1,2021,5,19-9-2021,0,0,00:00:00,9,11,Rcd Mallorca,Fc Villarreal
+ES1,2021,5,18-9-2021,0,2,00:02:00,20,8,Deportivo Alaves,Ca Osasuna
+ES1,2021,6,21-9-2021,1,2,01:02:00,10,7,Athletic Bilbao,Rayo Vallecano
+ES1,2021,5,19-9-2021,2,2,02:02:00,12,16,Real Betis Sevilla,Espanyol Barcelona
+ES1,2021,5,18-9-2021,3,0,03:00:00,10,19,Rayo Vallecano,Fc Getafe
+ES1,2021,5,17-9-2021,1,2,01:02:00,18,14,Celta Vigo,Fc Cadiz
+ES1,2021,9,17-10-2021,1,2,01:02:00,9,5,Fc Villarreal,Ca Osasuna
+ES1,2021,4,21-12-2021,5,2,05:02:00,9,20,Fc Villarreal,Deportivo Alaves
+ES1,2021,4,21-12-2021,1,1,01:01:00,6,5,Fc Sevilla,Fc Barcelona
+ES1,2021,4,13-9-2021,0,1,00:01:00,19,11,Fc Getafe,Fc Elche
+ES1,2021,4,13-9-2021,1,2,01:02:00,17,10,Fc Granada,Real Betis Sevilla
+ES1,2021,4,12-9-2021,5,2,05:02:00,1,18,Real Madrid,Celta Vigo
+ES1,2021,4,12-9-2021,1,2,01:02:00,15,3,Espanyol Barcelona,Atletico Madrid
+ES1,2021,5,18-9-2021,1,1,01:01:00,13,15,Fc Elche,Ud Levante
+ES1,2021,4,11-9-2021,1,1,01:01:00,14,13,Ud Levante,Rayo Vallecano
+ES1,2021,6,21-9-2021,1,2,01:02:00,19,2,Fc Getafe,Atletico Madrid
+ES1,2021,5,19-9-2021,1,2,01:02:00,3,1,Fc Valencia,Real Madrid
+ES1,2021,3,29-8-2021,4,0,04:00:00,10,17,Rayo Vallecano,Fc Granada
+ES1,2021,3,29-8-2021,2,3,02:03:00,12,8,Fc Cadiz,Ca Osasuna
+ES1,2021,3,28-8-2021,0,1,00:01:00,14,1,Real Betis Sevilla,Real Madrid
+ES1,2021,8,2-10-2021,2,0,02:00:00,2,8,Atletico Madrid,Fc Barcelona
+ES1,2021,5,18-9-2021,0,0,00:00:00,2,7,Atletico Madrid,Athletic Bilbao
+ES1,2021,3,29-8-2021,2,2,02:02:00,5,11,Atletico Madrid,Fc Villarreal
+ES1,2021,4,12-9-2021,1,4,01:04:00,12,2,Ca Osasuna,Fc Valencia
+ES1,2021,3,27-8-2021,3,0,03:00:00,3,20,Fc Valencia,Deportivo Alaves
+ES1,2021,3,28-8-2021,1,1,01:01:00,15,2,Fc Elche,Fc Sevilla
+ES1,2021,2,23-8-2021,0,0,00:00:00,14,16,Ca Osasuna,Celta Vigo
+ES1,2021,2,22-8-2021,3,3,03:03:00,11,3,Ud Levante,Real Madrid
+ES1,2021,3,29-8-2021,2,1,02:01:00,4,19,Fc Barcelona,Fc Getafe
+ES1,2021,3,27-8-2021,1,0,01:00:00,6,16,Rcd Mallorca,Espanyol Barcelona
+ES1,2021,2,22-8-2021,1,0,01:00:00,2,17,Atletico Madrid,Fc Elche
+ES1,2021,2,21-8-2021,1,1,01:01:00,15,4,Athletic Bilbao,Fc Barcelona
+ES1,2021,3,28-8-2021,0,1,00:01:00,18,9,Celta Vigo,Athletic Bilbao
+ES1,2021,2,21-8-2021,1,1,01:01:00,13,6,Fc Granada,Fc Valencia
+ES1,2021,2,20-8-2021,1,1,01:01:00,12,8,Real Betis Sevilla,Fc Cadiz
+ES1,2021,2,21-8-2021,0,0,00:00:00,10,9,Espanyol Barcelona,Fc Villarreal
+ES1,2021,1,16-8-2021,0,0,00:00:00,10,13,Fc Elche,Athletic Bilbao
+ES1,2021,1,16-8-2021,0,0,00:00:00,11,15,Fc Villarreal,Fc Granada
+ES1,2021,1,15-8-2021,3,0,03:00:00,2,20,Fc Sevilla,Rayo Vallecano
+ES1,2021,1,15-8-2021,4,2,04:02:00,3,18,Fc Barcelona,Real Sociedad San Sebastian
+ES1,2021,4,12-9-2021,0,2,00:02:00,16,4,Fc Cadiz,Real Sociedad San Sebastian
+ES1,2021,1,14-8-2021,0,0,00:00:00,14,12,Ca Osasuna,Espanyol Barcelona
+ES1,2021,1,14-8-2021,1,4,01:04:00,19,1,Deportivo Alaves,Real Madrid
+ES1,2021,1,14-8-2021,1,1,01:01:00,9,8,Fc Cadiz,Ud Levante
+ES1,2021,1,14-8-2021,1,1,01:01:00,7,6,Rcd Mallorca,Real Betis Sevilla
+ES1,2021,4,11-9-2021,2,0,02:00:00,7,8,Athletic Bilbao,Rcd Mallorca
+ES1,2021,1,13-8-2021,1,0,01:00:00,5,17,Fc Valencia,Fc Getafe
+ES1,2021,1,15-8-2021,1,2,01:02:00,16,4,Celta Vigo,Atletico Madrid
+ES1,2021,3,28-8-2021,1,0,01:00:00,7,13,Real Sociedad San Sebastian,Ud Levante
+ES1,2021,2,21-8-2021,0,1,00:01:00,19,5,Deportivo Alaves,Rcd Mallorca
+ES1,2021,2,22-8-2021,1,0,01:00:00,7,20,Real Sociedad San Sebastian,Rayo Vallecano
+ES1,2021,2,23-8-2021,0,1,00:01:00,18,1,Fc Getafe,Fc Sevilla
+IT1,2021,38,22-5-2022,0,0,00:00:00,20,18,Venezia Fc,Cagliari Calcio
+IT1,2021,38,22-5-2022,0,3,00:03:00,11,1,Us Sassuolo,Ac Mailand
+IT1,2021,38,22-5-2022,0,4,00:04:00,17,12,Us Salernitana 1919,Udinese Calcio
+IT1,2021,38,21-5-2022,3,3,03:03:00,5,9,Lazio Rom,Hellas Verona
+IT1,2021,38,21-5-2022,0,1,00:01:00,8,14,Atalanta Bergamo,Fc Empoli
+IT1,2021,38,21-5-2022,0,1,00:01:00,19,13,Genua Cfc,Fc Bologna
+IT1,2021,37,16-5-2022,2,2,02:02:00,4,5,Juventus Turin,Lazio Rom
+IT1,2021,37,15-5-2022,1,3,01:03:00,18,2,Cagliari Calcio,Inter Mailand
+IT1,2021,38,22-5-2022,3,0,03:00:00,2,15,Inter Mailand,Sampdoria Genua
+IT1,2021,37,15-5-2022,2,0,02:00:00,1,8,Ac Mailand,Atalanta Bergamo
+IT1,2021,37,15-5-2022,1,3,01:03:00,13,11,Fc Bologna,Us Sassuolo
+IT1,2021,37,14-5-2022,2,3,02:03:00,12,16,Udinese Calcio,Spezia Calcio
+IT1,2021,37,14-5-2022,0,1,00:01:00,9,10,Hellas Verona,Fc Turin
+IT1,2021,37,14-5-2022,1,1,01:01:00,6,20,As Rom,Venezia Fc
+IT1,2021,37,14-5-2022,1,1,01:01:00,14,17,Fc Empoli,Us Salernitana 1919
+IT1,2021,36,9-5-2022,2,0,02:00:00,7,6,Ac Florenz,As Rom
+IT1,2021,38,21-5-2022,2,0,02:00:00,7,4,Ac Florenz,Juventus Turin
+IT1,2021,36,8-5-2022,4,3,04:03:00,20,13,Venezia Fc,Fc Bologna
+IT1,2021,36,8-5-2022,1,3,01:03:00,16,8,Spezia Calcio,Atalanta Bergamo
+IT1,2021,36,7-5-2022,2,0,02:00:00,5,15,Lazio Rom,Sampdoria Genua
+IT1,2021,36,7-5-2022,1,1,01:01:00,11,12,Us Sassuolo,Udinese Calcio
+IT1,2021,36,8-5-2022,1,3,01:03:00,9,1,Hellas Verona,Ac Mailand
+IT1,2021,37,16-5-2022,4,1,04:01:00,15,7,Sampdoria Genua,Ac Florenz
+IT1,2021,35,2-5-2022,1,1,01:01:00,8,17,Atalanta Bergamo,Us Salernitana 1919
+IT1,2021,35,1-5-2022,0,0,00:00:00,5,13,As Rom,Fc Bologna
+IT1,2021,36,7-5-2022,0,1,00:01:00,10,3,Fc Turin,Ssc Neapel
+IT1,2021,35,1-5-2022,1,2,01:02:00,12,2,Udinese Calcio,Inter Mailand
+IT1,2021,36,6-5-2022,2,1,02:01:00,19,4,Genua Cfc,Juventus Turin
+IT1,2021,35,1-5-2022,1,3,01:03:00,14,10,Fc Empoli,Fc Turin
+IT1,2021,35,1-5-2022,1,0,01:00:00,1,7,Ac Mailand,Ac Florenz
+IT1,2021,35,30-4-2022,1,0,01:00:00,15,19,Sampdoria Genua,Genua Cfc
+IT1,2021,35,30-4-2022,3,4,03:04:00,16,6,Spezia Calcio,Lazio Rom
+IT1,2021,35,30-4-2022,6,1,06:01:00,3,11,Ssc Neapel,Us Sassuolo
+IT1,2021,34,25-4-2022,1,2,01:02:00,10,4,Us Sassuolo,Juventus Turin
+IT1,2021,34,24-4-2022,1,2,01:02:00,6,1,Lazio Rom,Ac Mailand
+IT1,2021,35,30-4-2022,1,2,01:02:00,18,9,Cagliari Calcio,Hellas Verona
+IT1,2021,34,24-4-2022,1,0,01:00:00,19,17,Genua Cfc,Cagliari Calcio
+IT1,2021,34,24-4-2022,3,2,03:02:00,14,3,Fc Empoli,Ssc Neapel
+IT1,2021,37,15-5-2022,3,0,03:00:00,3,19,Ssc Neapel,Genua Cfc
+IT1,2021,34,24-4-2022,2,1,02:01:00,18,7,Us Salernitana 1919,Ac Florenz
+IT1,2021,34,23-4-2022,1,1,01:01:00,9,16,Hellas Verona,Sampdoria Genua
+IT1,2021,34,23-4-2022,3,1,03:01:00,2,5,Inter Mailand,As Rom
+IT1,2021,34,23-4-2022,1,3,01:03:00,20,8,Venezia Fc,Atalanta Bergamo
+IT1,2021,36,6-5-2022,4,2,04:02:00,2,14,Inter Mailand,Fc Empoli
+IT1,2021,38,20-5-2022,0,3,00:03:00,10,6,Fc Turin,As Rom
+IT1,2021,33,18-4-2022,1,1,01:01:00,3,5,Ssc Neapel,As Rom
+IT1,2021,33,16-4-2022,1,1,01:01:00,4,13,Juventus Turin,Fc Bologna
+IT1,2021,36,8-5-2022,1,1,01:01:00,17,18,Us Salernitana 1919,Cagliari Calcio
+IT1,2021,34,24-4-2022,2,2,02:02:00,13,12,Fc Bologna,Udinese Calcio
+IT1,2021,34,23-4-2022,2,1,02:01:00,11,15,Fc Turin,Spezia Calcio
+IT1,2021,33,16-4-2022,1,2,01:02:00,16,18,Sampdoria Genua,Us Salernitana 1919
+IT1,2021,38,22-5-2022,0,3,00:03:00,16,3,Spezia Calcio,Ssc Neapel
+IT1,2021,33,16-4-2022,1,1,01:01:00,6,12,Lazio Rom,Fc Turin
+IT1,2021,33,15-4-2022,2,0,02:00:00,1,19,Ac Mailand,Genua Cfc
+IT1,2021,33,18-4-2022,1,2,01:02:00,8,9,Atalanta Bergamo,Hellas Verona
+IT1,2021,33,16-4-2022,1,0,01:00:00,7,20,Ac Florenz,Venezia Fc
+IT1,2021,32,10-4-2022,2,1,02:01:00,5,18,As Rom,Us Salernitana 1919
+IT1,2021,35,1-5-2022,2,1,02:01:00,4,20,Juventus Turin,Venezia Fc
+IT1,2021,33,15-4-2022,1,3,01:03:00,15,2,Spezia Calcio,Inter Mailand
+IT1,2021,32,10-4-2022,1,4,01:04:00,19,6,Genua Cfc,Lazio Rom
+IT1,2021,32,9-4-2022,1,2,01:02:00,17,4,Cagliari Calcio,Juventus Turin
+IT1,2021,33,16-4-2022,4,1,04:01:00,11,14,Udinese Calcio,Fc Empoli
+IT1,2021,32,9-4-2022,2,0,02:00:00,2,10,Inter Mailand,Hellas Verona
+IT1,2021,33,16-4-2022,1,0,01:00:00,17,10,Cagliari Calcio,Us Sassuolo
+IT1,2021,31,4-4-2022,0,0,00:00:00,1,12,Ac Mailand,Fc Bologna
+IT1,2021,31,4-4-2022,1,0,01:00:00,9,19,Hellas Verona,Genua Cfc
+IT1,2021,32,10-4-2022,2,3,02:03:00,3,7,Ssc Neapel,Ac Florenz
+IT1,2021,31,3-4-2022,0,1,00:01:00,16,5,Sampdoria Genua,As Rom
+IT1,2021,31,3-4-2022,5,1,05:01:00,13,17,Udinese Calcio,Cagliari Calcio
+IT1,2021,31,3-4-2022,0,1,00:01:00,4,3,Juventus Turin,Inter Mailand
+IT1,2021,32,11-4-2022,2,0,02:00:00,12,16,Fc Bologna,Sampdoria Genua
+IT1,2021,31,2-4-2022,0,1,00:01:00,18,11,Us Salernitana 1919,Fc Turin
+IT1,2021,31,2-4-2022,2,1,02:01:00,7,10,Lazio Rom,Us Sassuolo
+IT1,2021,31,2-4-2022,1,0,01:00:00,15,20,Spezia Calcio,Venezia Fc
+IT1,2021,30,20-3-2022,0,1,00:01:00,12,5,Fc Bologna,Atalanta Bergamo
+IT1,2021,30,20-3-2022,3,0,03:00:00,6,7,As Rom,Lazio Rom
+IT1,2021,31,3-4-2022,1,0,01:00:00,8,14,Ac Florenz,Fc Empoli
+IT1,2021,30,20-3-2022,0,2,00:02:00,20,15,Venezia Fc,Sampdoria Genua
+IT1,2021,30,19-3-2022,0,1,00:01:00,17,1,Cagliari Calcio,Ac Mailand
+IT1,2021,32,9-4-2022,0,0,00:00:00,14,15,Fc Empoli,Spezia Calcio
+IT1,2021,30,19-3-2022,1,1,01:01:00,3,8,Inter Mailand,Ac Florenz
+IT1,2021,30,19-3-2022,2,1,02:01:00,2,14,Ssc Neapel,Udinese Calcio
+IT1,2021,30,18-3-2022,1,0,01:00:00,19,11,Genua Cfc,Fc Turin
+IT1,2021,30,18-3-2022,4,1,04:01:00,9,16,Us Sassuolo,Spezia Calcio
+IT1,2021,29,14-3-2022,1,0,01:00:00,6,19,Lazio Rom,Venezia Fc
+IT1,2021,29,13-3-2022,1,1,01:01:00,11,3,Fc Turin,Inter Mailand
+IT1,2021,29,13-3-2022,1,1,01:01:00,13,7,Udinese Calcio,As Rom
+IT1,2021,29,13-3-2022,0,0,00:00:00,5,20,Atalanta Bergamo,Genua Cfc
+IT1,2021,29,13-3-2022,1,2,01:02:00,9,2,Hellas Verona,Ssc Neapel
+IT1,2021,29,12-3-2022,1,0,01:00:00,1,14,Ac Mailand,Fc Empoli
+IT1,2021,29,12-3-2022,1,3,01:03:00,16,4,Sampdoria Genua,Juventus Turin
+IT1,2021,29,12-3-2022,2,0,02:00:00,15,17,Spezia Calcio,Cagliari Calcio
+IT1,2021,32,10-4-2022,2,1,02:01:00,9,8,Us Sassuolo,Atalanta Bergamo
+IT1,2021,29,13-3-2022,1,0,01:00:00,8,12,Ac Florenz,Fc Bologna
+IT1,2021,28,6-3-2022,1,0,01:00:00,4,16,Juventus Turin,Spezia Calcio
+IT1,2021,29,12-3-2022,2,2,02:02:00,18,10,Us Salernitana 1919,Us Sassuolo
+IT1,2021,32,10-4-2022,1,2,01:02:00,20,13,Venezia Fc,Udinese Calcio
+IT1,2021,28,6-3-2022,1,1,01:01:00,8,9,Ac Florenz,Hellas Verona
+IT1,2021,28,6-3-2022,0,0,00:00:00,20,13,Genua Cfc,Fc Empoli
+IT1,2021,28,5-3-2022,0,3,00:03:00,17,7,Cagliari Calcio,Lazio Rom
+IT1,2021,28,6-3-2022,0,0,00:00:00,11,12,Fc Bologna,Fc Turin
+IT1,2021,28,5-3-2022,2,1,02:01:00,14,15,Udinese Calcio,Sampdoria Genua
+IT1,2021,28,4-3-2022,5,0,05:00:00,2,19,Inter Mailand,Us Salernitana 1919
+IT1,2021,31,3-4-2022,1,3,01:03:00,6,2,Atalanta Bergamo,Ssc Neapel
+IT1,2021,30,20-3-2022,1,1,01:01:00,13,10,Fc Empoli,Hellas Verona
+IT1,2021,30,20-3-2022,2,0,02:00:00,4,18,Juventus Turin,Us Salernitana 1919
+IT1,2021,27,27-2-2022,0,1,00:01:00,16,6,Spezia Calcio,As Rom
+IT1,2021,27,27-2-2022,1,2,01:02:00,7,1,Lazio Rom,Ssc Neapel
+IT1,2021,28,6-3-2022,1,4,01:04:00,18,10,Venezia Fc,Us Sassuolo
+IT1,2021,27,28-2-2022,4,0,04:00:00,5,15,Atalanta Bergamo,Sampdoria Genua
+IT1,2021,27,26-2-2022,2,3,02:03:00,13,4,Fc Empoli,Juventus Turin
+IT1,2021,32,10-4-2022,0,0,00:00:00,11,1,Fc Turin,Ac Mailand
+IT1,2021,27,26-2-2022,2,1,02:01:00,10,8,Us Sassuolo,Ac Florenz
+IT1,2021,27,25-2-2022,1,1,01:01:00,2,14,Ac Mailand,Udinese Calcio
+IT1,2021,27,26-2-2022,1,1,01:01:00,19,11,Us Salernitana 1919,Fc Bologna
+IT1,2021,27,25-2-2022,0,0,00:00:00,20,3,Genua Cfc,Inter Mailand
+IT1,2021,28,6-3-2022,0,1,00:01:00,3,1,Ssc Neapel,Ac Mailand
+IT1,2021,26,20-2-2022,0,2,00:02:00,2,12,Inter Mailand,Us Sassuolo
+IT1,2021,26,20-2-2022,1,1,01:01:00,14,6,Udinese Calcio,Lazio Rom
+IT1,2021,26,20-2-2022,1,1,01:01:00,18,20,Venezia Fc,Genua Cfc
+IT1,2021,26,21-2-2022,1,1,01:01:00,17,3,Cagliari Calcio,Ssc Neapel
+IT1,2021,26,19-2-2022,2,2,02:02:00,8,9,As Rom,Hellas Verona
+IT1,2021,26,19-2-2022,2,0,02:00:00,15,13,Sampdoria Genua,Fc Empoli
+IT1,2021,25,14-2-2022,1,2,01:02:00,15,8,Spezia Calcio,Ac Florenz
+IT1,2021,27,27-2-2022,3,1,03:01:00,9,18,Hellas Verona,Venezia Fc
+IT1,2021,25,13-2-2022,1,1,01:01:00,5,4,Atalanta Bergamo,Juventus Turin
+IT1,2021,25,13-2-2022,2,2,02:02:00,13,7,Us Sassuolo,As Rom
+IT1,2021,26,20-2-2022,1,0,01:00:00,7,5,Ac Florenz,Atalanta Bergamo
+IT1,2021,26,18-2-2022,1,1,01:01:00,4,10,Juventus Turin,Fc Turin
+IT1,2021,25,13-2-2022,4,0,04:00:00,9,14,Hellas Verona,Udinese Calcio
+IT1,2021,25,13-2-2022,1,0,01:00:00,1,16,Ac Mailand,Sampdoria Genua
+IT1,2021,25,12-2-2022,1,2,01:02:00,10,18,Fc Turin,Venezia Fc
+IT1,2021,28,5-3-2022,1,0,01:00:00,6,5,As Rom,Atalanta Bergamo
+IT1,2021,24,7-2-2022,2,2,02:02:00,18,15,Us Salernitana 1919,Spezia Calcio
+IT1,2021,25,13-2-2022,1,1,01:01:00,11,17,Fc Empoli,Cagliari Calcio
+IT1,2021,25,12-2-2022,3,0,03:00:00,6,12,Lazio Rom,Fc Bologna
+IT1,2021,24,6-2-2022,0,2,00:02:00,19,2,Venezia Fc,Ssc Neapel
+IT1,2021,24,6-2-2022,2,0,02:00:00,4,10,Juventus Turin,Hellas Verona
+IT1,2021,24,6-2-2022,2,0,02:00:00,14,9,Udinese Calcio,Fc Turin
+IT1,2021,26,21-2-2022,2,1,02:01:00,11,16,Fc Bologna,Spezia Calcio
+IT1,2021,24,5-2-2022,0,3,00:03:00,8,6,Ac Florenz,Lazio Rom
+IT1,2021,24,6-2-2022,1,2,01:02:00,5,17,Atalanta Bergamo,Cagliari Calcio
+IT1,2021,24,5-2-2022,1,2,01:02:00,1,3,Inter Mailand,Ac Mailand
+IT1,2021,24,6-2-2022,4,0,04:00:00,16,13,Sampdoria Genua,Us Sassuolo
+IT1,2021,24,6-2-2022,0,0,00:00:00,11,12,Fc Bologna,Fc Empoli
+IT1,2021,26,19-2-2022,2,2,02:02:00,19,1,Us Salernitana 1919,Ac Mailand
+IT1,2021,23,23-1-2022,1,0,01:00:00,14,16,Spezia Calcio,Sampdoria Genua
+IT1,2021,25,13-2-2022,1,1,01:01:00,20,19,Genua Cfc,Us Salernitana 1919
+IT1,2021,23,23-1-2022,4,1,04:01:00,2,19,Ssc Neapel,Us Salernitana 1919
+IT1,2021,23,23-1-2022,1,1,01:01:00,18,8,Cagliari Calcio,Ac Florenz
+IT1,2021,23,22-1-2022,0,0,00:00:00,7,4,Lazio Rom,Atalanta Bergamo
+IT1,2021,23,22-1-2022,0,0,00:00:00,20,15,Genua Cfc,Udinese Calcio
+IT1,2021,23,21-1-2022,2,1,02:01:00,10,11,Hellas Verona,Fc Bologna
+IT1,2021,22,17-1-2022,6,0,06:00:00,8,20,Ac Florenz,Genua Cfc
+IT1,2021,23,23-1-2022,0,0,00:00:00,3,5,Ac Mailand,Juventus Turin
+IT1,2021,25,12-2-2022,1,1,01:01:00,3,2,Ssc Neapel,Inter Mailand
+IT1,2021,22,17-1-2022,0,2,00:02:00,10,3,Fc Bologna,Ssc Neapel
+IT1,2021,22,16-1-2022,0,0,00:00:00,4,1,Atalanta Bergamo,Inter Mailand
+IT1,2021,23,23-1-2022,2,4,02:04:00,13,6,Fc Empoli,As Rom
+IT1,2021,22,16-1-2022,1,1,01:01:00,17,12,Venezia Fc,Fc Empoli
+IT1,2021,27,27-2-2022,1,2,01:02:00,12,17,Fc Turin,Cagliari Calcio
+IT1,2021,22,15-1-2022,2,0,02:00:00,5,14,Juventus Turin,Udinese Calcio
+IT1,2021,22,15-1-2022,0,3,00:03:00,18,6,Us Salernitana 1919,Lazio Rom
+IT1,2021,23,23-1-2022,1,1,01:01:00,9,12,Fc Turin,Us Sassuolo
+IT1,2021,21,11-1-2022,2,1,02:01:00,19,9,Cagliari Calcio,Fc Bologna
+IT1,2021,21,10-1-2022,4,0,04:00:00,10,8,Fc Turin,Ac Florenz
+IT1,2021,21,9-1-2022,2,1,02:01:00,1,6,Inter Mailand,Lazio Rom
+IT1,2021,21,9-1-2022,1,2,01:02:00,13,17,Hellas Verona,Us Salernitana 1919
+IT1,2021,22,17-1-2022,1,2,01:02:00,2,15,Ac Mailand,Spezia Calcio
+IT1,2021,21,9-1-2022,0,1,00:01:00,20,16,Genua Cfc,Spezia Calcio
+IT1,2021,21,9-1-2022,1,0,01:00:00,3,15,Ssc Neapel,Sampdoria Genua
+IT1,2021,22,16-1-2022,2,4,02:04:00,13,11,Us Sassuolo,Hellas Verona
+IT1,2021,21,9-1-2022,1,5,01:05:00,12,11,Fc Empoli,Us Sassuolo
+IT1,2021,21,9-1-2022,3,4,03:04:00,7,5,As Rom,Juventus Turin
+IT1,2021,20,27-4-2022,2,1,02:01:00,9,1,Fc Bologna,Inter Mailand
+IT1,2021,20,27-4-2022,4,4,04:04:00,4,12,Atalanta Bergamo,Fc Turin
+IT1,2021,20,27-4-2022,0,4,00:04:00,8,14,Ac Florenz,Udinese Calcio
+IT1,2021,20,6-1-2022,1,1,01:01:00,5,3,Juventus Turin,Ssc Neapel
+IT1,2021,22,15-1-2022,1,2,01:02:00,16,9,Sampdoria Genua,Fc Turin
+IT1,2021,20,6-1-2022,3,1,03:01:00,2,7,Ac Mailand,As Rom
+IT1,2021,20,5-5-2022,2,1,02:01:00,18,16,Us Salernitana 1919,Venezia Fc
+IT1,2021,23,22-1-2022,2,1,02:01:00,1,17,Inter Mailand,Venezia Fc
+IT1,2021,20,6-1-2022,1,2,01:02:00,15,19,Sampdoria Genua,Cagliari Calcio
+IT1,2021,19,20-4-2022,0,1,00:01:00,14,18,Udinese Calcio,Us Salernitana 1919
+IT1,2021,21,9-1-2022,0,3,00:03:00,18,2,Venezia Fc,Ac Mailand
+IT1,2021,19,22-12-2021,0,1,00:01:00,3,17,Ssc Neapel,Spezia Calcio
+IT1,2021,19,22-12-2021,2,4,02:04:00,9,2,Fc Empoli,Ac Mailand
+IT1,2021,20,6-1-2022,3,3,03:03:00,6,10,Lazio Rom,Fc Empoli
+IT1,2021,19,22-12-2021,1,1,01:01:00,6,15,As Rom,Sampdoria Genua
+IT1,2021,19,22-12-2021,1,0,01:00:00,1,11,Inter Mailand,Fc Turin
+IT1,2021,19,22-12-2021,1,1,01:01:00,13,7,Hellas Verona,Ac Florenz
+IT1,2021,19,22-12-2021,0,3,00:03:00,12,10,Us Sassuolo,Fc Bologna
+IT1,2021,19,21-12-2021,2,0,02:00:00,5,20,Juventus Turin,Cagliari Calcio
+IT1,2021,20,6-1-2022,1,2,01:02:00,17,11,Spezia Calcio,Hellas Verona
+IT1,2021,18,19-12-2021,0,1,00:01:00,3,2,Ac Mailand,Ssc Neapel
+IT1,2021,21,9-1-2022,2,6,02:06:00,14,4,Udinese Calcio,Atalanta Bergamo
+IT1,2021,19,21-12-2021,0,0,00:00:00,19,4,Genua Cfc,Atalanta Bergamo
+IT1,2021,18,19-12-2021,1,1,01:01:00,17,9,Spezia Calcio,Fc Empoli
+IT1,2021,18,19-12-2021,2,2,02:02:00,7,11,Ac Florenz,Us Sassuolo
+IT1,2021,18,18-12-2021,0,4,00:04:00,19,14,Cagliari Calcio,Udinese Calcio
+IT1,2021,18,18-12-2021,0,2,00:02:00,12,5,Fc Bologna,Juventus Turin
+IT1,2021,18,18-12-2021,1,4,01:04:00,4,6,Atalanta Bergamo,As Rom
+IT1,2021,20,6-1-2022,1,1,01:01:00,13,20,Us Sassuolo,Genua Cfc
+IT1,2021,24,5-2-2022,0,0,00:00:00,7,20,As Rom,Genua Cfc
+IT1,2021,19,22-12-2021,1,3,01:03:00,16,8,Venezia Fc,Lazio Rom
+IT1,2021,18,19-12-2021,1,0,01:00:00,10,13,Fc Turin,Hellas Verona
+IT1,2021,18,19-12-2021,1,1,01:01:00,15,16,Sampdoria Genua,Venezia Fc
+IT1,2021,22,16-1-2022,1,0,01:00:00,7,19,As Rom,Cagliari Calcio
+IT1,2021,18,17-12-2021,0,5,00:05:00,20,1,Us Salernitana 1919,Inter Mailand
+IT1,2021,17,12-12-2021,1,2,01:02:00,12,3,Hellas Verona,Atalanta Bergamo
+IT1,2021,17,11-12-2021,1,1,01:01:00,15,2,Udinese Calcio,Ac Mailand
+IT1,2021,17,11-12-2021,4,0,04:00:00,5,20,Ac Florenz,Us Salernitana 1919
+IT1,2021,17,13-12-2021,2,0,02:00:00,7,17,As Rom,Spezia Calcio
+IT1,2021,17,12-12-2021,4,0,04:00:00,1,19,Inter Mailand,Cagliari Calcio
+IT1,2021,17,12-12-2021,2,1,02:01:00,11,9,Us Sassuolo,Lazio Rom
+IT1,2021,17,12-12-2021,0,1,00:01:00,4,8,Ssc Neapel,Fc Empoli
+IT1,2021,17,11-12-2021,1,1,01:01:00,16,6,Venezia Fc,Juventus Turin
+IT1,2021,16,5-12-2021,1,3,01:03:00,15,7,Sampdoria Genua,Lazio Rom
+IT1,2021,16,5-12-2021,3,4,03:04:00,16,10,Venezia Fc,Hellas Verona
+IT1,2021,16,6-12-2021,1,1,01:01:00,19,13,Cagliari Calcio,Fc Turin
+IT1,2021,16,5-12-2021,2,3,02:03:00,9,6,Fc Bologna,Ac Florenz
+IT1,2021,16,4-12-2021,2,3,02:03:00,3,4,Ssc Neapel,Atalanta Bergamo
+IT1,2021,16,4-12-2021,2,0,02:00:00,1,20,Ac Mailand,Us Salernitana 1919
+IT1,2021,16,5-12-2021,2,0,02:00:00,5,18,Juventus Turin,Genua Cfc
+IT1,2021,16,4-12-2021,0,3,00:03:00,8,2,As Rom,Inter Mailand
+IT1,2021,17,12-12-2021,2,1,02:01:00,13,10,Fc Turin,Fc Bologna
+IT1,2021,15,1-12-2021,2,2,02:02:00,12,1,Us Sassuolo,Ssc Neapel
+IT1,2021,16,5-12-2021,2,2,02:02:00,17,12,Spezia Calcio,Us Sassuolo
+IT1,2021,15,1-12-2021,2,0,02:00:00,3,17,Inter Mailand,Spezia Calcio
+IT1,2021,18,17-12-2021,3,1,03:01:00,8,18,Lazio Rom,Genua Cfc
+IT1,2021,15,2-12-2021,4,4,04:04:00,9,14,Lazio Rom,Udinese Calcio
+IT1,2021,15,30-11-2021,3,1,03:01:00,8,15,Ac Florenz,Sampdoria Genua
+IT1,2021,15,30-11-2021,4,0,04:00:00,4,16,Atalanta Bergamo,Venezia Fc
+IT1,2021,15,2-12-2021,2,2,02:02:00,13,11,Fc Turin,Fc Empoli
+IT1,2021,15,30-11-2021,0,2,00:02:00,20,6,Us Salernitana 1919,Juventus Turin
+IT1,2021,14,28-11-2021,1,0,01:00:00,5,13,As Rom,Fc Turin
+IT1,2021,15,1-12-2021,0,3,00:03:00,18,2,Genua Cfc,Ac Mailand
+IT1,2021,16,6-12-2021,3,1,03:01:00,11,14,Fc Empoli,Udinese Calcio
+IT1,2021,17,10-12-2021,1,3,01:03:00,18,14,Genua Cfc,Sampdoria Genua
+IT1,2021,14,27-11-2021,0,2,00:02:00,16,3,Venezia Fc,Inter Mailand
+IT1,2021,14,27-11-2021,0,1,00:01:00,6,4,Juventus Turin,Atalanta Bergamo
+IT1,2021,14,27-11-2021,3,1,03:01:00,15,10,Sampdoria Genua,Hellas Verona
+IT1,2021,14,27-11-2021,2,1,02:01:00,11,9,Fc Empoli,Ac Florenz
+IT1,2021,14,26-11-2021,1,1,01:01:00,19,20,Cagliari Calcio,Us Salernitana 1919
+IT1,2021,15,30-11-2021,0,0,00:00:00,10,19,Hellas Verona,Cagliari Calcio
+IT1,2021,13,22-11-2021,2,1,02:01:00,9,12,Hellas Verona,Fc Empoli
+IT1,2021,15,1-12-2021,1,0,01:00:00,7,5,Fc Bologna,As Rom
+IT1,2021,14,28-11-2021,0,1,00:01:00,17,7,Spezia Calcio,Fc Bologna
+IT1,2021,13,21-11-2021,0,1,00:01:00,10,14,Fc Bologna,Venezia Fc
+IT1,2021,13,21-11-2021,2,2,02:02:00,13,19,Us Sassuolo,Cagliari Calcio
+IT1,2021,13,21-11-2021,0,2,00:02:00,20,16,Us Salernitana 1919,Sampdoria Genua
+IT1,2021,13,20-11-2021,4,3,04:03:00,8,2,Ac Florenz,Ac Mailand
+IT1,2021,13,20-11-2021,0,2,00:02:00,7,6,Lazio Rom,Juventus Turin
+IT1,2021,13,20-11-2021,5,2,05:02:00,4,17,Atalanta Bergamo,Spezia Calcio
+IT1,2021,12,7-11-2021,1,1,01:01:00,2,3,Ac Mailand,Inter Mailand
+IT1,2021,14,28-11-2021,1,3,01:03:00,2,12,Ac Mailand,Us Sassuolo
+IT1,2021,12,7-11-2021,3,0,03:00:00,5,19,Lazio Rom,Us Salernitana 1919
+IT1,2021,12,7-11-2021,3,2,03:02:00,13,14,Udinese Calcio,Us Sassuolo
+IT1,2021,12,7-11-2021,1,1,01:01:00,1,10,Ssc Neapel,Hellas Verona
+IT1,2021,14,28-11-2021,0,0,00:00:00,14,18,Udinese Calcio,Genua Cfc
+IT1,2021,12,6-11-2021,1,2,01:02:00,20,4,Cagliari Calcio,Atalanta Bergamo
+IT1,2021,12,7-11-2021,1,2,01:02:00,18,8,Sampdoria Genua,Fc Bologna
+IT1,2021,12,5-11-2021,2,2,02:02:00,11,17,Fc Empoli,Genua Cfc
+IT1,2021,14,28-11-2021,4,0,04:00:00,1,8,Ssc Neapel,Lazio Rom
+IT1,2021,11,1-11-2021,2,0,02:00:00,10,20,Fc Bologna,Cagliari Calcio
+IT1,2021,12,6-11-2021,1,0,01:00:00,7,9,Juventus Turin,Ac Florenz
+IT1,2021,11,31-10-2021,1,2,01:02:00,4,2,As Rom,Ac Mailand
+IT1,2021,11,31-10-2021,0,0,00:00:00,17,16,Genua Cfc,Venezia Fc
+IT1,2021,11,31-10-2021,3,0,03:00:00,7,18,Ac Florenz,Spezia Calcio
+IT1,2021,11,31-10-2021,2,0,02:00:00,3,14,Inter Mailand,Udinese Calcio
+IT1,2021,12,6-11-2021,1,0,01:00:00,16,12,Spezia Calcio,Fc Turin
+IT1,2021,11,30-10-2021,3,0,03:00:00,12,15,Fc Turin,Sampdoria Genua
+IT1,2021,13,21-11-2021,0,2,00:02:00,18,5,Genua Cfc,As Rom
+IT1,2021,11,30-10-2021,2,2,02:02:00,5,6,Atalanta Bergamo,Lazio Rom
+IT1,2021,10,28-10-2021,3,0,03:00:00,1,11,Ssc Neapel,Fc Bologna
+IT1,2021,10,27-10-2021,1,0,01:00:00,6,8,Lazio Rom,Ac Florenz
+IT1,2021,10,27-10-2021,0,2,00:02:00,10,3,Fc Empoli,Inter Mailand
+IT1,2021,10,27-10-2021,1,1,01:01:00,14,12,Udinese Calcio,Hellas Verona
+IT1,2021,10,27-10-2021,1,3,01:03:00,15,5,Sampdoria Genua,Atalanta Bergamo
+IT1,2021,12,7-11-2021,3,2,03:02:00,15,6,Venezia Fc,As Rom
+IT1,2021,10,27-10-2021,1,2,01:02:00,7,9,Juventus Turin,Us Sassuolo
+IT1,2021,11,31-10-2021,0,1,00:01:00,19,1,Us Salernitana 1919,Ssc Neapel
+IT1,2021,13,21-11-2021,3,2,03:02:00,3,1,Inter Mailand,Ssc Neapel
+IT1,2021,10,26-10-2021,1,2,01:02:00,17,18,Venezia Fc,Us Salernitana 1919
+IT1,2021,9,24-10-2021,0,0,00:00:00,4,1,As Rom,Ssc Neapel
+IT1,2021,9,24-10-2021,4,1,04:01:00,13,8,Hellas Verona,Lazio Rom
+IT1,2021,9,24-10-2021,3,0,03:00:00,5,19,Ac Florenz,Cagliari Calcio
+IT1,2021,13,22-11-2021,2,1,02:01:00,11,15,Fc Turin,Udinese Calcio
+IT1,2021,10,26-10-2021,1,0,01:00:00,2,13,Ac Mailand,Fc Turin
+IT1,2021,9,23-10-2021,2,4,02:04:00,10,2,Fc Bologna,Ac Mailand
+IT1,2021,10,26-10-2021,1,1,01:01:00,16,19,Spezia Calcio,Genua Cfc
+IT1,2021,9,23-10-2021,2,4,02:04:00,20,9,Us Salernitana 1919,Fc Empoli
+IT1,2021,9,22-10-2021,2,1,02:01:00,15,17,Sampdoria Genua,Spezia Calcio
+IT1,2021,8,18-10-2021,1,0,01:00:00,14,9,Venezia Fc,Ac Florenz
+IT1,2021,9,22-10-2021,3,2,03:02:00,11,18,Fc Turin,Genua Cfc
+IT1,2021,8,17-10-2021,1,0,01:00:00,7,4,Juventus Turin,As Rom
+IT1,2021,8,17-10-2021,1,0,01:00:00,1,12,Ssc Neapel,Fc Turin
+IT1,2021,9,23-10-2021,3,1,03:01:00,12,16,Us Sassuolo,Venezia Fc
+IT1,2021,8,17-10-2021,2,2,02:02:00,17,13,Genua Cfc,Us Sassuolo
+IT1,2021,8,17-10-2021,1,1,01:01:00,10,8,Udinese Calcio,Fc Bologna
+IT1,2021,8,17-10-2021,3,1,03:01:00,18,19,Cagliari Calcio,Sampdoria Genua
+IT1,2021,9,24-10-2021,1,1,01:01:00,7,14,Atalanta Bergamo,Udinese Calcio
+IT1,2021,8,16-10-2021,3,1,03:01:00,5,3,Lazio Rom,Inter Mailand
+IT1,2021,10,27-10-2021,1,2,01:02:00,20,4,Cagliari Calcio,As Rom
+IT1,2021,7,3-10-2021,2,0,02:00:00,4,10,As Rom,Fc Empoli
+IT1,2021,7,3-10-2021,1,2,01:02:00,5,1,Ac Florenz,Ssc Neapel
+IT1,2021,9,24-10-2021,1,1,01:01:00,3,6,Inter Mailand,Juventus Turin
+IT1,2021,8,16-10-2021,3,2,03:02:00,2,15,Ac Mailand,Hellas Verona
+IT1,2021,11,31-10-2021,1,2,01:02:00,13,8,Us Sassuolo,Fc Empoli
+IT1,2021,8,17-10-2021,1,4,01:04:00,11,6,Fc Empoli,Atalanta Bergamo
+IT1,2021,7,3-10-2021,3,3,03:03:00,15,13,Sampdoria Genua,Udinese Calcio
+IT1,2021,7,3-10-2021,4,0,04:00:00,12,19,Hellas Verona,Spezia Calcio
+IT1,2021,7,2-10-2021,0,1,00:01:00,11,8,Fc Turin,Juventus Turin
+IT1,2021,6,27-9-2021,1,1,01:01:00,18,9,Venezia Fc,Fc Turin
+IT1,2021,7,1-10-2021,1,1,01:01:00,20,17,Cagliari Calcio,Venezia Fc
+IT1,2021,6,26-9-2021,2,0,02:00:00,1,19,Ssc Neapel,Cagliari Calcio
+IT1,2021,6,26-9-2021,3,2,03:02:00,6,4,Lazio Rom,As Rom
+IT1,2021,7,2-10-2021,1,2,01:02:00,14,3,Us Sassuolo,Inter Mailand
+IT1,2021,6,26-9-2021,4,2,04:02:00,8,11,Fc Empoli,Fc Bologna
+IT1,2021,6,26-9-2021,1,0,01:00:00,12,20,Us Sassuolo,Us Salernitana 1919
+IT1,2021,6,26-9-2021,3,2,03:02:00,10,16,Juventus Turin,Sampdoria Genua
+IT1,2021,7,3-10-2021,2,3,02:03:00,7,2,Atalanta Bergamo,Ac Mailand
+IT1,2021,8,16-10-2021,2,1,02:01:00,16,20,Spezia Calcio,Us Salernitana 1919
+IT1,2021,6,26-9-2021,0,1,00:01:00,13,5,Udinese Calcio,Ac Florenz
+IT1,2021,11,30-10-2021,2,1,02:01:00,9,11,Hellas Verona,Juventus Turin
+IT1,2021,5,23-9-2021,1,1,01:01:00,9,7,Fc Turin,Lazio Rom
+IT1,2021,5,22-9-2021,2,0,02:00:00,3,18,Ac Mailand,Venezia Fc
+IT1,2021,5,23-9-2021,0,4,00:04:00,13,1,Sampdoria Genua,Ssc Neapel
+IT1,2021,7,2-10-2021,1,0,01:00:00,18,16,Us Salernitana 1919,Genua Cfc
+IT1,2021,5,22-9-2021,2,2,02:02:00,20,17,Us Salernitana 1919,Hellas Verona
+IT1,2021,5,23-9-2021,1,0,01:00:00,4,10,As Rom,Udinese Calcio
+IT1,2021,5,21-9-2021,1,3,01:03:00,6,2,Ac Florenz,Inter Mailand
+IT1,2021,5,21-9-2021,2,2,02:02:00,8,15,Fc Bologna,Genua Cfc
+IT1,2021,4,20-9-2021,0,4,00:04:00,9,1,Udinese Calcio,Ssc Neapel
+IT1,2021,4,19-9-2021,1,1,01:01:00,18,3,Juventus Turin,Ac Mailand
+IT1,2021,6,25-9-2021,1,2,01:02:00,17,2,Spezia Calcio,Ac Mailand
+IT1,2021,6,25-9-2021,3,3,03:03:00,15,14,Genua Cfc,Hellas Verona
+IT1,2021,6,25-9-2021,2,2,02:02:00,3,7,Inter Mailand,Atalanta Bergamo
+IT1,2021,5,22-9-2021,0,2,00:02:00,19,11,Cagliari Calcio,Fc Empoli
+IT1,2021,5,22-9-2021,2,3,02:03:00,16,12,Spezia Calcio,Juventus Turin
+IT1,2021,4,19-9-2021,0,3,00:03:00,17,11,Fc Empoli,Sampdoria Genua
+IT1,2021,4,18-9-2021,6,1,06:01:00,2,7,Inter Mailand,Fc Bologna
+IT1,2021,4,18-9-2021,1,2,01:02:00,16,5,Genua Cfc,Ac Florenz
+IT1,2021,4,17-9-2021,0,1,00:01:00,12,10,Us Sassuolo,Fc Turin
+IT1,2021,5,21-9-2021,2,1,02:01:00,5,14,Atalanta Bergamo,Us Sassuolo
+IT1,2021,3,12-9-2021,2,1,02:01:00,1,9,As Rom,Us Sassuolo
+IT1,2021,3,12-9-2021,2,0,02:00:00,2,7,Ac Mailand,Lazio Rom
+IT1,2021,3,12-9-2021,4,0,04:00:00,12,20,Fc Turin,Us Salernitana 1919
+IT1,2021,3,12-9-2021,2,3,02:03:00,16,13,Cagliari Calcio,Genua Cfc
+IT1,2021,3,12-9-2021,2,2,02:02:00,15,4,Sampdoria Genua,Inter Mailand
+IT1,2021,3,11-9-2021,1,2,01:02:00,10,8,Atalanta Bergamo,Ac Florenz
+IT1,2021,3,11-9-2021,2,1,02:01:00,3,18,Ssc Neapel,Juventus Turin
+IT1,2021,3,11-9-2021,1,2,01:02:00,14,11,Fc Empoli,Venezia Fc
+IT1,2021,2,29-8-2021,0,4,00:04:00,18,2,Us Salernitana 1919,As Rom
+IT1,2021,2,29-8-2021,4,1,04:01:00,4,12,Ac Mailand,Cagliari Calcio
+IT1,2021,7,3-10-2021,3,0,03:00:00,6,9,Fc Bologna,Lazio Rom
+IT1,2021,2,29-8-2021,0,0,00:00:00,9,15,Us Sassuolo,Sampdoria Genua
+IT1,2021,4,19-9-2021,2,2,02:02:00,8,19,Lazio Rom,Cagliari Calcio
+IT1,2021,4,18-9-2021,0,1,00:01:00,20,6,Us Salernitana 1919,Atalanta Bergamo
+IT1,2021,2,28-8-2021,6,1,06:01:00,1,13,Lazio Rom,Spezia Calcio
+IT1,2021,2,28-8-2021,0,0,00:00:00,7,6,Atalanta Bergamo,Fc Bologna
+IT1,2021,2,27-8-2021,1,3,01:03:00,17,3,Hellas Verona,Inter Mailand
+IT1,2021,4,19-9-2021,3,2,03:02:00,15,4,Hellas Verona,As Rom
+IT1,2021,2,27-8-2021,3,0,03:00:00,8,20,Udinese Calcio,Venezia Fc
+IT1,2021,1,23-8-2021,2,2,02:02:00,9,11,Cagliari Calcio,Spezia Calcio
+IT1,2021,4,19-9-2021,1,2,01:02:00,14,13,Venezia Fc,Spezia Calcio
+IT1,2021,3,12-9-2021,0,1,00:01:00,17,5,Spezia Calcio,Udinese Calcio
+IT1,2021,1,22-8-2021,2,0,02:00:00,4,19,Ssc Neapel,Venezia Fc
+IT1,2021,1,22-8-2021,2,2,02:02:00,10,12,Udinese Calcio,Juventus Turin
+IT1,2021,2,28-8-2021,2,1,02:01:00,10,16,Ac Florenz,Fc Turin
+IT1,2021,2,28-8-2021,0,1,00:01:00,14,11,Juventus Turin,Fc Empoli
+IT1,2021,1,21-8-2021,1,3,01:03:00,18,3,Fc Empoli,Lazio Rom
+IT1,2021,1,21-8-2021,1,2,01:02:00,15,7,Fc Turin,Atalanta Bergamo
+IT1,2021,1,21-8-2021,2,3,02:03:00,14,5,Hellas Verona,Us Sassuolo
+IT1,2021,1,22-8-2021,3,2,03:02:00,6,13,Fc Bologna,Us Salernitana 1919
+IT1,2021,3,13-9-2021,1,0,01:00:00,6,19,Fc Bologna,Hellas Verona
+IT1,2021,2,29-8-2021,1,2,01:02:00,19,5,Genua Cfc,Ssc Neapel
+IT1,2021,1,22-8-2021,3,1,03:01:00,2,17,As Rom,Ac Florenz
+IT1,2021,1,21-8-2021,4,0,04:00:00,1,20,Inter Mailand,Genua Cfc
+IT1,2021,1,23-8-2021,0,1,00:01:00,16,8,Sampdoria Genua,Ac Mailand
+ES1,2022,13,5-11-2022,1,2,01:02:00,18,5,Celta Vigo,Ca Osasuna
+ES1,2022,19,29-1-2023,0,0,00:00:00,2,3,Real Madrid,Real Sociedad San Sebastian
+ES1,2022,19,29-1-2023,0,1,00:01:00,8,4,Ca Osasuna,Atletico Madrid
+ES1,2022,19,29-1-2023,1,0,01:00:00,17,14,Real Valladolid,Fc Valencia
+ES1,2022,19,28-1-2023,0,1,00:01:00,19,6,Fc Getafe,Real Betis Sevilla
+ES1,2022,19,28-1-2023,3,0,03:00:00,13,20,Fc Sevilla,Fc Elche
+ES1,2022,19,28-1-2023,0,1,00:01:00,12,1,Fc Girona,Fc Barcelona
+ES1,2022,18,22-1-2023,0,2,00:02:00,8,2,Athletic Bilbao,Real Madrid
+ES1,2022,18,23-1-2023,2,2,02:02:00,12,14,Fc Valencia,Ud Almeria
+ES1,2022,18,22-1-2023,1,0,01:00:00,1,16,Fc Barcelona,Fc Getafe
+ES1,2022,18,22-1-2023,1,0,01:00:00,5,11,Fc Villarreal,Fc Girona
+ES1,2022,18,22-1-2023,1,1,01:01:00,20,7,Fc Elche,Ca Osasuna
+ES1,2022,19,27-1-2023,3,1,03:01:00,11,15,Ud Almeria,Espanyol Barcelona
+ES1,2022,18,21-1-2023,0,2,00:02:00,9,3,Rayo Vallecano,Real Sociedad San Sebastian
+ES1,2022,18,20-1-2023,1,0,01:00:00,10,17,Rcd Mallorca,Celta Vigo
+ES1,2022,17,16-1-2023,1,1,01:01:00,18,20,Fc Cadiz,Fc Elche
+ES1,2022,17,15-1-2023,1,1,01:01:00,13,4,Ud Almeria,Atletico Madrid
+ES1,2022,17,15-1-2023,1,2,01:02:00,15,14,Fc Getafe,Espanyol Barcelona
+ES1,2022,17,14-1-2023,3,1,03:01:00,3,8,Real Sociedad San Sebastian,Athletic Bilbao
+ES1,2022,19,29-1-2023,1,0,01:00:00,16,9,Celta Vigo,Athletic Bilbao
+ES1,2022,17,14-1-2023,2,1,02:01:00,11,19,Fc Girona,Fc Sevilla
+ES1,2022,17,13-1-2023,1,1,01:01:00,16,5,Celta Vigo,Fc Villarreal
+ES1,2022,18,21-1-2023,3,0,03:00:00,4,18,Atletico Madrid,Real Valladolid
+ES1,2022,16,9-1-2023,0,0,00:00:00,7,8,Athletic Bilbao,Ca Osasuna
+ES1,2022,16,8-1-2023,2,1,02:01:00,17,13,Fc Sevilla,Fc Getafe
+ES1,2022,16,8-1-2023,1,2,01:02:00,9,4,Rayo Vallecano,Real Betis Sevilla
+ES1,2022,17,14-1-2023,1,0,01:00:00,7,10,Ca Osasuna,Rcd Mallorca
+ES1,2022,16,7-1-2023,2,2,02:02:00,19,12,Espanyol Barcelona,Fc Girona
+ES1,2022,16,7-1-2023,1,0,01:00:00,10,15,Rcd Mallorca,Real Valladolid
+ES1,2022,16,7-1-2023,2,1,02:01:00,6,2,Fc Villarreal,Real Madrid
+ES1,2022,16,6-1-2023,0,1,00:01:00,11,18,Fc Valencia,Fc Cadiz
+ES1,2022,16,6-1-2023,0,1,00:01:00,20,16,Fc Elche,Celta Vigo
+ES1,2022,15,31-12-2022,2,1,02:01:00,7,10,Fc Villarreal,Fc Valencia
+ES1,2022,15,31-12-2022,2,0,02:00:00,3,9,Real Sociedad San Sebastian,Ca Osasuna
+ES1,2022,15,31-12-2022,1,1,01:01:00,1,16,Fc Barcelona,Espanyol Barcelona
+ES1,2022,19,28-1-2023,2,0,02:00:00,18,10,Fc Cadiz,Rcd Mallorca
+ES1,2022,15,30-12-2022,0,2,00:02:00,15,2,Real Valladolid,Real Madrid
+ES1,2022,15,30-12-2022,1,1,01:01:00,19,13,Fc Cadiz,Ud Almeria
+ES1,2022,18,21-1-2023,1,0,01:00:00,15,19,Fc Sevilla,Fc Cadiz
+ES1,2022,15,29-12-2022,0,0,00:00:00,6,5,Real Betis Sevilla,Athletic Bilbao
+ES1,2022,15,29-12-2022,2,2,02:02:00,12,8,Fc Girona,Rayo Vallecano
+ES1,2022,14,10-11-2022,2,1,02:01:00,2,19,Real Madrid,Fc Cadiz
+ES1,2022,14,10-11-2022,3,0,03:00:00,10,6,Fc Valencia,Real Betis Sevilla
+ES1,2022,18,21-1-2023,1,0,01:00:00,13,6,Espanyol Barcelona,Real Betis Sevilla
+ES1,2022,14,9-11-2022,1,0,01:00:00,11,5,Rcd Mallorca,Atletico Madrid
+ES1,2022,14,9-11-2022,0,1,00:01:00,16,9,Espanyol Barcelona,Fc Villarreal
+ES1,2022,14,9-11-2022,1,2,01:02:00,18,3,Fc Sevilla,Real Sociedad San Sebastian
+ES1,2022,14,9-11-2022,1,0,01:00:00,14,15,Ud Almeria,Fc Getafe
+ES1,2022,14,8-11-2022,1,2,01:02:00,7,1,Ca Osasuna,Fc Barcelona
+ES1,2022,16,8-1-2023,0,2,00:02:00,14,3,Ud Almeria,Real Sociedad San Sebastian
+ES1,2022,15,30-12-2022,1,1,01:01:00,17,18,Celta Vigo,Fc Sevilla
+ES1,2022,14,8-11-2022,1,2,01:02:00,20,13,Fc Elche,Fc Girona
+ES1,2022,15,29-12-2022,2,0,02:00:00,4,20,Atletico Madrid,Fc Elche
+ES1,2022,13,6-11-2022,1,1,01:01:00,4,17,Real Betis Sevilla,Fc Sevilla
+ES1,2022,13,6-11-2022,0,2,00:02:00,9,12,Fc Villarreal,Rcd Mallorca
+ES1,2022,13,6-11-2022,1,1,01:01:00,3,16,Atletico Madrid,Espanyol Barcelona
+ES1,2022,13,5-11-2022,2,0,02:00:00,1,15,Fc Barcelona,Ud Almeria
+ES1,2022,13,5-11-2022,2,1,02:01:00,10,20,Real Valladolid,Fc Elche
+ES1,2022,17,14-1-2023,0,1,00:01:00,17,9,Real Valladolid,Rayo Vallecano
+ES1,2022,13,5-11-2022,0,0,00:00:00,13,19,Fc Getafe,Fc Cadiz
+ES1,2022,12,31-10-2022,0,1,00:01:00,20,14,Fc Elche,Fc Getafe
+ES1,2022,12,30-10-2022,0,2,00:02:00,5,4,Real Sociedad San Sebastian,Real Betis Sevilla
+ES1,2022,13,7-11-2022,3,2,03:02:00,8,2,Rayo Vallecano,Real Madrid
+ES1,2022,12,30-10-2022,1,1,01:01:00,1,17,Real Madrid,Fc Girona
+ES1,2022,14,10-11-2022,0,0,00:00:00,8,17,Rayo Vallecano,Celta Vigo
+ES1,2022,15,30-12-2022,2,0,02:00:00,14,11,Fc Getafe,Rcd Mallorca
+ES1,2022,12,29-10-2022,0,1,00:01:00,10,2,Fc Valencia,Fc Barcelona
+ES1,2022,14,8-11-2022,3,0,03:00:00,4,12,Athletic Bilbao,Real Valladolid
+ES1,2022,12,29-10-2022,3,2,03:02:00,19,3,Fc Cadiz,Atletico Madrid
+ES1,2022,12,30-10-2022,1,0,01:00:00,6,8,Athletic Bilbao,Fc Villarreal
+ES1,2022,13,6-11-2022,1,1,01:01:00,6,11,Real Sociedad San Sebastian,Fc Valencia
+ES1,2022,11,23-10-2022,4,0,04:00:00,2,6,Fc Barcelona,Athletic Bilbao
+ES1,2022,11,23-10-2022,2,1,02:01:00,7,15,Fc Villarreal,Ud Almeria
+ES1,2022,12,29-10-2022,3,1,03:01:00,13,16,Ud Almeria,Celta Vigo
+ES1,2022,12,29-10-2022,0,1,00:01:00,18,9,Fc Sevilla,Rayo Vallecano
+ES1,2022,11,23-10-2022,1,1,01:01:00,18,8,Fc Girona,Ca Osasuna
+ES1,2022,11,22-10-2022,3,1,03:01:00,1,16,Real Madrid,Fc Sevilla
+ES1,2022,11,22-10-2022,1,2,01:02:00,9,12,Fc Valencia,Rcd Mallorca
+ES1,2022,11,22-10-2022,1,0,01:00:00,11,4,Real Valladolid,Real Sociedad San Sebastian
+ES1,2022,11,22-10-2022,5,1,05:01:00,10,19,Rayo Vallecano,Fc Cadiz
+ES1,2022,10,20-10-2022,3,0,03:00:00,2,9,Fc Barcelona,Fc Villarreal
+ES1,2022,10,20-10-2022,1,0,01:00:00,7,16,Ca Osasuna,Espanyol Barcelona
+ES1,2022,10,20-10-2022,3,2,03:02:00,13,18,Ud Almeria,Fc Girona
+ES1,2022,10,19-10-2022,0,3,00:03:00,20,1,Fc Elche,Real Madrid
+ES1,2022,13,4-11-2022,2,1,02:01:00,14,7,Fc Girona,Athletic Bilbao
+ES1,2022,10,19-10-2022,0,0,00:00:00,19,5,Fc Cadiz,Real Betis Sevilla
+ES1,2022,10,19-10-2022,4,1,04:01:00,11,14,Real Valladolid,Celta Vigo
+ES1,2022,10,18-10-2022,1,1,01:01:00,4,10,Atletico Madrid,Rayo Vallecano
+ES1,2022,10,18-10-2022,2,2,02:02:00,17,6,Fc Getafe,Athletic Bilbao
+ES1,2022,11,24-10-2022,1,1,01:01:00,13,17,Celta Vigo,Fc Getafe
+ES1,2022,12,28-10-2022,1,1,01:01:00,12,15,Rcd Mallorca,Espanyol Barcelona
+ES1,2022,9,16-10-2022,3,1,03:01:00,4,18,Real Betis Sevilla,Ud Almeria
+ES1,2022,9,16-10-2022,1,0,01:00:00,13,17,Espanyol Barcelona,Real Valladolid
+ES1,2022,16,8-1-2023,0,1,00:01:00,5,1,Atletico Madrid,Fc Barcelona
+ES1,2022,10,18-10-2022,1,1,01:01:00,12,8,Fc Sevilla,Fc Valencia
+ES1,2022,9,16-10-2022,3,1,03:01:00,1,2,Real Madrid,Fc Barcelona
+ES1,2022,9,15-10-2022,0,1,00:01:00,6,3,Athletic Bilbao,Atletico Madrid
+ES1,2022,9,15-10-2022,2,2,02:02:00,8,20,Fc Valencia,Fc Elche
+ES1,2022,9,15-10-2022,1,1,01:01:00,15,19,Fc Girona,Fc Cadiz
+ES1,2022,10,19-10-2022,1,0,01:00:00,3,15,Real Sociedad San Sebastian,Rcd Mallorca
+ES1,2022,8,10-10-2022,1,1,01:01:00,20,12,Fc Elche,Rcd Mallorca
+ES1,2022,9,17-10-2022,2,0,02:00:00,7,9,Fc Villarreal,Ca Osasuna
+ES1,2022,8,9-10-2022,1,0,01:00:00,1,11,Fc Barcelona,Celta Vigo
+ES1,2022,12,30-10-2022,2,0,02:00:00,7,11,Ca Osasuna,Real Valladolid
+ES1,2022,8,9-10-2022,2,2,02:02:00,19,17,Fc Cadiz,Espanyol Barcelona
+ES1,2022,8,9-10-2022,0,0,00:00:00,13,5,Real Valladolid,Real Betis Sevilla
+ES1,2022,8,8-10-2022,1,1,01:01:00,18,3,Fc Sevilla,Athletic Bilbao
+ES1,2022,8,8-10-2022,2,1,02:01:00,4,14,Atletico Madrid,Fc Girona
+ES1,2022,8,8-10-2022,3,1,03:01:00,15,10,Ud Almeria,Rayo Vallecano
+ES1,2022,11,23-10-2022,1,2,01:02:00,5,3,Real Betis Sevilla,Atletico Madrid
+ES1,2022,8,9-10-2022,1,0,01:00:00,6,9,Real Sociedad San Sebastian,Fc Villarreal
+ES1,2022,7,2-10-2022,1,1,01:01:00,2,6,Real Madrid,Ca Osasuna
+ES1,2022,7,2-10-2022,3,5,03:05:00,13,7,Fc Girona,Real Sociedad San Sebastian
+ES1,2022,7,2-10-2022,1,0,01:00:00,11,4,Celta Vigo,Real Betis Sevilla
+ES1,2022,9,15-10-2022,0,1,00:01:00,12,14,Rcd Mallorca,Fc Sevilla
+ES1,2022,7,2-10-2022,2,2,02:02:00,16,9,Espanyol Barcelona,Fc Valencia
+ES1,2022,7,1-10-2022,0,2,00:02:00,17,5,Fc Sevilla,Atletico Madrid
+ES1,2022,7,1-10-2022,2,3,02:03:00,14,15,Fc Getafe,Real Valladolid
+ES1,2022,7,1-10-2022,0,0,00:00:00,19,8,Fc Cadiz,Fc Villarreal
+ES1,2022,7,30-9-2022,4,0,04:00:00,3,18,Athletic Bilbao,Ud Almeria
+ES1,2022,11,23-10-2022,2,2,02:02:00,14,20,Espanyol Barcelona,Fc Elche
+ES1,2022,6,18-9-2022,0,2,00:02:00,5,14,Ca Osasuna,Fc Getafe
+ES1,2022,6,18-9-2022,2,1,02:01:00,8,17,Real Sociedad San Sebastian,Espanyol Barcelona
+ES1,2022,8,8-10-2022,0,1,00:01:00,16,2,Fc Getafe,Real Madrid
+ES1,2022,9,14-10-2022,0,0,00:00:00,10,16,Rayo Vallecano,Fc Getafe
+ES1,2022,6,18-9-2022,2,1,02:01:00,3,11,Real Betis Sevilla,Fc Girona
+ES1,2022,6,17-9-2022,3,2,03:02:00,4,12,Athletic Bilbao,Rayo Vallecano
+ES1,2022,6,17-9-2022,3,0,03:00:00,9,13,Fc Valencia,Celta Vigo
+ES1,2022,6,17-9-2022,1,0,01:00:00,10,16,Rcd Mallorca,Ud Almeria
+ES1,2022,6,16-9-2022,0,1,00:01:00,18,19,Real Valladolid,Fc Cadiz
+ES1,2022,8,7-10-2022,1,2,01:02:00,8,7,Ca Osasuna,Fc Valencia
+ES1,2022,6,18-9-2022,1,2,01:02:00,7,1,Atletico Madrid,Real Madrid
+ES1,2022,5,11-9-2022,1,4,01:04:00,19,6,Fc Elche,Athletic Bilbao
+ES1,2022,5,11-9-2022,1,0,01:00:00,3,5,Real Betis Sevilla,Fc Villarreal
+ES1,2022,6,17-9-2022,3,0,03:00:00,2,20,Fc Barcelona,Fc Elche
+ES1,2022,5,10-9-2022,4,1,04:01:00,7,10,Atletico Madrid,Celta Vigo
+ES1,2022,5,10-9-2022,0,4,00:04:00,20,2,Fc Cadiz,Fc Barcelona
+ES1,2022,7,1-10-2022,0,1,00:01:00,12,1,Rcd Mallorca,Fc Barcelona
+ES1,2022,5,10-9-2022,2,3,02:03:00,16,15,Espanyol Barcelona,Fc Sevilla
+ES1,2022,5,9-9-2022,2,1,02:01:00,8,17,Fc Girona,Real Valladolid
+ES1,2022,9,16-10-2022,1,2,01:02:00,11,5,Celta Vigo,Real Sociedad San Sebastian
+ES1,2022,4,5-9-2022,1,0,01:00:00,16,13,Real Valladolid,Ud Almeria
+ES1,2022,4,4-9-2022,5,1,05:01:00,10,19,Fc Valencia,Fc Getafe
+ES1,2022,4,4-9-2022,0,1,00:01:00,6,15,Athletic Bilbao,Espanyol Barcelona
+ES1,2022,4,4-9-2022,2,1,02:01:00,5,14,Ca Osasuna,Rayo Vallecano
+ES1,2022,4,3-9-2022,0,3,00:03:00,17,2,Fc Sevilla,Fc Barcelona
+ES1,2022,4,3-9-2022,1,1,01:01:00,9,7,Real Sociedad San Sebastian,Atletico Madrid
+ES1,2022,4,3-9-2022,2,1,02:01:00,1,4,Real Madrid,Real Betis Sevilla
+ES1,2022,5,11-9-2022,4,1,04:01:00,1,13,Real Madrid,Rcd Mallorca
+ES1,2022,4,3-9-2022,1,1,01:01:00,11,12,Rcd Mallorca,Fc Girona
+ES1,2022,4,2-9-2022,3,0,03:00:00,8,20,Celta Vigo,Fc Cadiz
+ES1,2022,3,29-8-2022,0,1,00:01:00,14,6,Fc Valencia,Atletico Madrid
+ES1,2022,3,28-8-2022,1,3,01:03:00,16,1,Espanyol Barcelona,Real Madrid
+ES1,2022,3,28-8-2022,4,0,04:00:00,3,19,Fc Barcelona,Real Valladolid
+ES1,2022,3,29-8-2022,0,4,00:04:00,20,5,Fc Cadiz,Athletic Bilbao
+ES1,2022,3,28-8-2022,0,0,00:00:00,18,4,Fc Getafe,Fc Villarreal
+ES1,2022,3,27-8-2022,0,2,00:02:00,11,9,Rayo Vallecano,Rcd Mallorca
+ES1,2022,3,27-8-2022,0,1,00:01:00,17,8,Fc Elche,Real Sociedad San Sebastian
+ES1,2022,3,26-8-2022,1,0,01:00:00,2,7,Real Betis Sevilla,Ca Osasuna
+ES1,2022,3,26-8-2022,0,1,00:01:00,13,12,Fc Girona,Celta Vigo
+ES1,2022,2,22-8-2022,3,1,03:01:00,9,20,Fc Girona,Fc Getafe
+ES1,2022,2,22-8-2022,1,1,01:01:00,18,13,Fc Elche,Ud Almeria
+ES1,2022,2,21-8-2022,1,4,01:04:00,11,5,Real Sociedad San Sebastian,Fc Barcelona
+ES1,2022,2,21-8-2022,0,2,00:02:00,8,1,Atletico Madrid,Fc Villarreal
+ES1,2022,2,21-8-2022,1,0,01:00:00,7,10,Athletic Bilbao,Fc Valencia
+ES1,2022,6,18-9-2022,1,1,01:01:00,6,15,Fc Villarreal,Fc Sevilla
+ES1,2022,4,4-9-2022,4,0,04:00:00,3,18,Fc Villarreal,Fc Elche
+ES1,2022,3,27-8-2022,2,1,02:01:00,10,15,Ud Almeria,Fc Sevilla
+ES1,2022,2,19-8-2022,1,1,01:01:00,12,17,Fc Sevilla,Real Valladolid
+ES1,2022,7,3-10-2022,2,1,02:01:00,10,20,Rayo Vallecano,Fc Elche
+ES1,2022,2,19-8-2022,0,2,00:02:00,15,6,Espanyol Barcelona,Rayo Vallecano
+ES1,2022,1,15-8-2022,3,0,03:00:00,2,19,Real Betis Sevilla,Fc Elche
+ES1,2022,2,20-8-2022,1,4,01:04:00,16,2,Celta Vigo,Real Madrid
+ES1,2022,1,14-8-2022,1,2,01:02:00,15,4,Ud Almeria,Real Madrid
+ES1,2022,2,20-8-2022,2,0,02:00:00,4,19,Ca Osasuna,Fc Cadiz
+ES1,2022,1,15-8-2022,0,3,00:03:00,20,1,Fc Getafe,Atletico Madrid
+ES1,2022,1,14-8-2022,1,0,01:00:00,6,17,Fc Valencia,Fc Girona
+ES1,2022,1,13-8-2022,0,0,00:00:00,12,10,Fc Barcelona,Rayo Vallecano
+ES1,2022,1,13-8-2022,2,2,02:02:00,9,8,Celta Vigo,Espanyol Barcelona
+ES1,2022,1,12-8-2022,2,1,02:01:00,5,14,Ca Osasuna,Fc Sevilla
+ES1,2022,1,14-8-2022,0,1,00:01:00,16,7,Fc Cadiz,Real Sociedad San Sebastian
+ES1,2022,1,15-8-2022,0,0,00:00:00,11,13,Athletic Bilbao,Rcd Mallorca
+ES1,2022,5,12-9-2022,0,1,00:01:00,14,4,Ud Almeria,Ca Osasuna
+ES1,2022,1,13-8-2022,0,3,00:03:00,18,3,Real Valladolid,Fc Villarreal
+ES1,2022,5,10-9-2022,2,1,02:01:00,9,12,Rayo Vallecano,Fc Valencia
+ES1,2022,5,11-9-2022,2,1,02:01:00,18,11,Fc Getafe,Real Sociedad San Sebastian
+ES1,2022,2,20-8-2022,1,2,01:02:00,14,3,Rcd Mallorca,Real Betis Sevilla
+FR1,2022,20,29-1-2023,0,2,00:02:00,18,9,Ac Ajaccio,Olympique Lyon
+FR1,2022,20,29-1-2023,1,1,01:01:00,1,11,Fc Paris Saint Germain,Stade Reims
+L1,2022,18,29-1-2023,0,2,00:02:00,9,4,Bayer 04 Leverkusen,Borussia Dortmund
+L1,2022,18,29-1-2023,0,0,00:00:00,18,12,Fc Schalke 04,1 Fc Koln
+L1,2022,18,28-1-2023,1,1,01:01:00,1,6,Fc Bayern Munchen,Eintracht Frankfurt
+L1,2022,18,28-1-2023,0,2,00:02:00,17,2,Hertha Bsc,1 Fc Union Berlin
+L1,2022,18,28-1-2023,1,4,01:04:00,13,8,Tsg 1899 Hoffenheim,Borussia Monchengladbach
+L1,2022,18,28-1-2023,5,2,05:02:00,11,16,1 Fsv Mainz 05,Vfl Bochum
+L1,2022,18,28-1-2023,2,1,02:01:00,10,7,Sv Werder Bremen,Vfl Wolfsburg
+L1,2022,18,28-1-2023,3,1,03:01:00,5,14,Sc Freiburg,Fc Augsburg
+L1,2022,17,25-1-2023,1,2,01:02:00,11,2,Sv Werder Bremen,1 Fc Union Berlin
+L1,2022,17,25-1-2023,1,0,01:00:00,14,9,Fc Augsburg,Borussia Monchengladbach
+L1,2022,17,25-1-2023,1,1,01:01:00,6,4,Sc Freiburg,Eintracht Frankfurt
+L1,2022,17,25-1-2023,2,0,02:00:00,8,16,Bayer 04 Leverkusen,Vfl Bochum
+L1,2022,17,25-1-2023,1,2,01:02:00,12,5,1 Fsv Mainz 05,Borussia Dortmund
+L1,2022,17,24-1-2023,0,5,00:05:00,17,7,Hertha Bsc,Vfl Wolfsburg
+L1,2022,17,24-1-2023,2,2,02:02:00,13,15,Tsg 1899 Hoffenheim,Vfb Stuttgart
+L1,2022,17,24-1-2023,1,1,01:01:00,1,10,Fc Bayern Munchen,1 Fc Koln
+L1,2022,17,24-1-2023,1,6,01:06:00,18,3,Fc Schalke 04,Rasenballsport Leipzig
+L1,2022,16,22-1-2023,2,3,02:03:00,8,9,Borussia Monchengladbach,Bayer 04 Leverkusen
+L1,2022,16,21-1-2023,1,1,01:01:00,16,12,Vfb Stuttgart,1 Fsv Mainz 05
+L1,2022,16,21-1-2023,6,0,06:00:00,7,4,Vfl Wolfsburg,Sc Freiburg
+L1,2022,16,21-1-2023,3,0,03:00:00,2,18,Eintracht Frankfurt,Fc Schalke 04
+L1,2022,16,20-1-2023,1,1,01:01:00,5,1,Rasenballsport Leipzig,Fc Bayern Munchen
+L1,2022,15,13-11-2022,4,1,04:01:00,2,5,Sc Freiburg,1 Fc Union Berlin
+L1,2022,16,22-1-2023,4,3,04:03:00,6,15,Borussia Dortmund,Fc Augsburg
+L1,2022,16,21-1-2023,7,1,07:01:00,11,10,1 Fc Koln,Sv Werder Bremen
+L1,2022,15,13-11-2022,1,1,01:01:00,10,4,1 Fsv Mainz 05,Eintracht Frankfurt
+L1,2022,15,12-11-2022,1,2,01:02:00,9,3,Sv Werder Bremen,Rasenballsport Leipzig
+L1,2022,15,12-11-2022,2,0,02:00:00,15,13,Hertha Bsc,1 Fc Koln
+L1,2022,15,12-11-2022,0,2,00:02:00,18,1,Fc Schalke 04,Fc Bayern Munchen
+L1,2022,16,21-1-2023,3,1,03:01:00,14,17,Vfl Bochum,Hertha Bsc
+L1,2022,15,11-11-2022,4,2,04:02:00,8,6,Borussia Monchengladbach,Borussia Dortmund
+L1,2022,14,9-11-2022,1,0,01:00:00,18,11,Fc Schalke 04,1 Fsv Mainz 05
+L1,2022,16,21-1-2023,3,1,03:01:00,3,13,1 Fc Union Berlin,Tsg 1899 Hoffenheim
+L1,2022,14,9-11-2022,4,2,04:02:00,4,10,Eintracht Frankfurt,Tsg 1899 Hoffenheim
+L1,2022,14,9-11-2022,3,1,03:01:00,5,3,Rasenballsport Leipzig,Sc Freiburg
+L1,2022,18,27-1-2023,2,1,02:01:00,3,15,Rasenballsport Leipzig,Vfb Stuttgart
+L1,2022,14,8-11-2022,2,1,02:01:00,15,16,Vfb Stuttgart,Hertha Bsc
+L1,2022,14,9-11-2022,1,2,01:02:00,12,13,1 Fc Koln,Bayer 04 Leverkusen
+L1,2022,14,8-11-2022,2,1,02:01:00,17,9,Vfl Bochum,Borussia Monchengladbach
+L1,2022,14,8-11-2022,2,0,02:00:00,8,6,Vfl Wolfsburg,Borussia Dortmund
+L1,2022,15,12-11-2022,1,2,01:02:00,11,7,Tsg 1899 Hoffenheim,Vfl Wolfsburg
+L1,2022,13,6-11-2022,5,0,05:00:00,14,3,Bayer 04 Leverkusen,1 Fc Union Berlin
+L1,2022,15,12-11-2022,0,1,00:01:00,14,17,Fc Augsburg,Vfl Bochum
+L1,2022,13,5-11-2022,3,0,03:00:00,4,17,Borussia Dortmund,Vfl Bochum
+L1,2022,13,5-11-2022,2,3,02:03:00,15,1,Hertha Bsc,Fc Bayern Munchen
+L1,2022,13,5-11-2022,1,2,01:02:00,13,5,Fc Augsburg,Eintracht Frankfurt
+L1,2022,13,5-11-2022,1,3,01:03:00,9,6,Tsg 1899 Hoffenheim,Rasenballsport Leipzig
+L1,2022,13,5-11-2022,0,3,00:03:00,10,11,1 Fsv Mainz 05,Vfl Wolfsburg
+L1,2022,13,4-11-2022,3,1,03:01:00,8,16,Borussia Monchengladbach,Vfb Stuttgart
+L1,2022,12,30-10-2022,1,1,01:01:00,10,7,1 Fc Koln,Tsg 1899 Hoffenheim
+L1,2022,12,30-10-2022,0,2,00:02:00,18,3,Fc Schalke 04,Sc Freiburg
+L1,2022,12,29-10-2022,1,2,01:02:00,5,4,Eintracht Frankfurt,Borussia Dortmund
+L1,2022,12,30-10-2022,2,1,02:01:00,1,11,1 Fc Union Berlin,Borussia Monchengladbach
+L1,2022,12,29-10-2022,4,0,04:00:00,12,17,Vfl Wolfsburg,Vfl Bochum
+L1,2022,12,29-10-2022,2,0,02:00:00,6,16,Rasenballsport Leipzig,Bayer 04 Leverkusen
+L1,2022,14,8-11-2022,6,1,06:01:00,1,7,Fc Bayern Munchen,Sv Werder Bremen
+L1,2022,12,28-10-2022,1,0,01:00:00,8,14,Sv Werder Bremen,Hertha Bsc
+L1,2022,11,23-10-2022,2,1,02:01:00,13,18,Hertha Bsc,Fc Schalke 04
+L1,2022,11,23-10-2022,2,1,02:01:00,17,1,Vfl Bochum,1 Fc Union Berlin
+L1,2022,11,22-10-2022,1,3,01:03:00,9,4,Borussia Monchengladbach,Eintracht Frankfurt
+L1,2022,11,22-10-2022,3,3,03:03:00,12,8,Fc Augsburg,Rasenballsport Leipzig
+L1,2022,12,29-10-2022,6,2,06:02:00,2,9,Fc Bayern Munchen,1 Fsv Mainz 05
+L1,2022,11,22-10-2022,2,0,02:00:00,3,11,Sc Freiburg,Sv Werder Bremen
+L1,2022,11,22-10-2022,0,2,00:02:00,7,2,Tsg 1899 Hoffenheim,Fc Bayern Munchen
+L1,2022,12,29-10-2022,2,1,02:01:00,15,13,Vfb Stuttgart,Fc Augsburg
+L1,2022,13,5-11-2022,2,1,02:01:00,7,18,Sv Werder Bremen,Fc Schalke 04
+L1,2022,11,21-10-2022,5,0,05:00:00,6,10,1 Fsv Mainz 05,1 Fc Koln
+L1,2022,10,16-10-2022,5,0,05:00:00,2,3,Fc Bayern Munchen,Sc Freiburg
+L1,2022,10,16-10-2022,2,0,02:00:00,1,8,1 Fc Union Berlin,Borussia Dortmund
+L1,2022,10,15-10-2022,3,2,03:02:00,10,15,Rasenballsport Leipzig,Hertha Bsc
+L1,2022,10,16-10-2022,3,2,03:02:00,7,12,1 Fc Koln,Fc Augsburg
+L1,2022,10,15-10-2022,0,2,00:02:00,9,11,Sv Werder Bremen,1 Fsv Mainz 05
+L1,2022,10,15-10-2022,2,2,02:02:00,13,6,Vfl Wolfsburg,Borussia Monchengladbach
+L1,2022,11,22-10-2022,2,2,02:02:00,15,14,Bayer 04 Leverkusen,Vfl Wolfsburg
+L1,2022,10,15-10-2022,5,1,05:01:00,5,16,Eintracht Frankfurt,Bayer 04 Leverkusen
+L1,2022,9,9-10-2022,0,1,00:01:00,17,1,Vfb Stuttgart,1 Fc Union Berlin
+L1,2022,9,9-10-2022,2,2,02:02:00,14,2,Hertha Bsc,Sc Freiburg
+L1,2022,10,15-10-2022,4,1,04:01:00,14,18,Vfb Stuttgart,Vfl Bochum
+L1,2022,9,8-10-2022,2,2,02:02:00,4,3,Borussia Dortmund,Fc Bayern Munchen
+L1,2022,13,6-11-2022,2,0,02:00:00,2,12,Sc Freiburg,1 Fc Koln
+L1,2022,15,12-11-2022,2,0,02:00:00,12,16,Bayer 04 Leverkusen,Vfb Stuttgart
+L1,2022,9,8-10-2022,1,1,01:01:00,12,11,1 Fsv Mainz 05,Rasenballsport Leipzig
+L1,2022,9,8-10-2022,4,0,04:00:00,15,16,Bayer 04 Leverkusen,Fc Schalke 04
+L1,2022,9,7-10-2022,1,2,01:02:00,7,5,Tsg 1899 Hoffenheim,Sv Werder Bremen
+L1,2022,9,8-10-2022,3,0,03:00:00,18,8,Vfl Bochum,Eintracht Frankfurt
+L1,2022,11,22-10-2022,5,0,05:00:00,5,16,Borussia Dortmund,Vfb Stuttgart
+L1,2022,8,2-10-2022,1,1,01:01:00,14,5,Hertha Bsc,Tsg 1899 Hoffenheim
+L1,2022,8,1-10-2022,5,1,05:01:00,8,9,Sv Werder Bremen,Borussia Monchengladbach
+L1,2022,8,1-10-2022,2,0,02:00:00,6,1,Eintracht Frankfurt,1 Fc Union Berlin
+L1,2022,8,1-10-2022,3,2,03:02:00,7,4,1 Fc Koln,Borussia Dortmund
+L1,2022,8,2-10-2022,2,3,02:03:00,15,10,Fc Schalke 04,Fc Augsburg
+L1,2022,8,1-10-2022,4,0,04:00:00,11,18,Rasenballsport Leipzig,Vfl Bochum
+L1,2022,8,30-9-2022,4,0,04:00:00,3,17,Fc Bayern Munchen,Bayer 04 Leverkusen
+L1,2022,14,9-11-2022,2,2,02:02:00,2,14,1 Fc Union Berlin,Fc Augsburg
+L1,2022,7,18-9-2022,0,0,00:00:00,4,3,Tsg 1899 Hoffenheim,Sc Freiburg
+L1,2022,7,18-9-2022,2,0,02:00:00,1,17,1 Fc Union Berlin,Vfl Wolfsburg
+L1,2022,7,17-9-2022,3,0,03:00:00,6,12,Borussia Monchengladbach,Rasenballsport Leipzig
+L1,2022,7,17-9-2022,1,3,01:03:00,16,7,Vfb Stuttgart,Eintracht Frankfurt
+L1,2022,7,17-9-2022,1,0,01:00:00,11,5,Fc Augsburg,Fc Bayern Munchen
+L1,2022,7,17-9-2022,1,1,01:01:00,15,10,Bayer 04 Leverkusen,Sv Werder Bremen
+L1,2022,7,17-9-2022,1,0,01:00:00,2,14,Borussia Dortmund,Fc Schalke 04
+L1,2022,8,1-10-2022,3,2,03:02:00,13,16,Vfl Wolfsburg,Vfb Stuttgart
+L1,2022,7,16-9-2022,1,1,01:01:00,8,13,1 Fsv Mainz 05,Hertha Bsc
+L1,2022,6,11-9-2022,0,0,00:00:00,2,8,Sc Freiburg,Borussia Monchengladbach
+L1,2022,6,10-9-2022,3,1,03:01:00,12,18,Fc Schalke 04,Vfl Bochum
+L1,2022,6,11-9-2022,0,1,00:01:00,7,1,1 Fc Koln,1 Fc Union Berlin
+L1,2022,10,14-10-2022,0,3,00:03:00,17,4,Fc Schalke 04,Tsg 1899 Hoffenheim
+L1,2022,6,10-9-2022,4,1,04:01:00,4,6,Tsg 1899 Hoffenheim,1 Fsv Mainz 05
+L1,2022,6,10-9-2022,3,0,03:00:00,10,5,Rasenballsport Leipzig,Borussia Dortmund
+L1,2022,6,10-9-2022,2,2,02:02:00,3,14,Fc Bayern Munchen,Vfb Stuttgart
+L1,2022,6,9-9-2022,0,1,00:01:00,9,13,Sv Werder Bremen,Fc Augsburg
+L1,2022,5,4-9-2022,0,1,00:01:00,9,5,Borussia Monchengladbach,1 Fsv Mainz 05
+L1,2022,5,4-9-2022,0,2,00:02:00,16,13,Fc Augsburg,Hertha Bsc
+L1,2022,9,9-10-2022,5,2,05:02:00,6,9,Borussia Monchengladbach,1 Fc Koln
+L1,2022,5,3-9-2022,4,0,04:00:00,10,11,Eintracht Frankfurt,Rasenballsport Leipzig
+L1,2022,5,3-9-2022,0,2,00:02:00,18,8,Vfl Bochum,Sv Werder Bremen
+L1,2022,5,3-9-2022,1,1,01:01:00,12,15,Vfb Stuttgart,Fc Schalke 04
+L1,2022,5,3-9-2022,1,1,01:01:00,4,3,1 Fc Union Berlin,Fc Bayern Munchen
+L1,2022,5,2-9-2022,1,0,01:00:00,2,7,Borussia Dortmund,Tsg 1899 Hoffenheim
+L1,2022,7,18-9-2022,1,1,01:01:00,18,9,Vfl Bochum,1 Fc Koln
+L1,2022,4,28-8-2022,0,0,00:00:00,8,12,1 Fc Koln,Vfb Stuttgart
+L1,2022,9,8-10-2022,1,1,01:01:00,10,13,Fc Augsburg,Vfl Wolfsburg
+L1,2022,4,27-8-2022,1,1,01:01:00,1,6,Fc Bayern Munchen,Borussia Monchengladbach
+L1,2022,4,28-8-2022,3,4,03:04:00,10,11,Sv Werder Bremen,Eintracht Frankfurt
+L1,2022,4,27-8-2022,1,6,01:06:00,16,2,Fc Schalke 04,1 Fc Union Berlin
+L1,2022,4,27-8-2022,1,0,01:00:00,4,14,Tsg 1899 Hoffenheim,Fc Augsburg
+L1,2022,4,27-8-2022,0,3,00:03:00,7,13,1 Fsv Mainz 05,Bayer 04 Leverkusen
+L1,2022,4,27-8-2022,2,0,02:00:00,9,15,Rasenballsport Leipzig,Vfl Wolfsburg
+L1,2022,3,21-8-2022,0,7,00:07:00,18,1,Vfl Bochum,Fc Bayern Munchen
+L1,2022,3,21-8-2022,1,1,01:01:00,15,8,Eintracht Frankfurt,1 Fc Koln
+L1,2022,6,10-9-2022,2,2,02:02:00,15,17,Hertha Bsc,Bayer 04 Leverkusen
+L1,2022,3,20-8-2022,0,1,00:01:00,12,5,Vfb Stuttgart,Sc Freiburg
+L1,2022,3,20-8-2022,1,2,01:02:00,10,4,Fc Augsburg,1 Fsv Mainz 05
+L1,2022,3,20-8-2022,0,0,00:00:00,14,13,Vfl Wolfsburg,Fc Schalke 04
+L1,2022,3,20-8-2022,0,3,00:03:00,17,6,Bayer 04 Leverkusen,Tsg 1899 Hoffenheim
+L1,2022,3,20-8-2022,2,3,02:03:00,7,9,Borussia Dortmund,Sv Werder Bremen
+L1,2022,3,19-8-2022,1,0,01:00:00,2,16,Borussia Monchengladbach,Hertha Bsc
+L1,2022,2,14-8-2022,2,0,02:00:00,1,15,Fc Bayern Munchen,Vfl Wolfsburg
+L1,2022,2,14-8-2022,0,0,00:00:00,6,5,1 Fsv Mainz 05,1 Fc Union Berlin
+L1,2022,2,13-8-2022,2,2,02:02:00,13,4,Fc Schalke 04,Borussia Monchengladbach
+L1,2022,2,13-8-2022,2,2,02:02:00,10,11,Sv Werder Bremen,Vfb Stuttgart
+L1,2022,3,20-8-2022,2,1,02:01:00,3,11,1 Fc Union Berlin,Rasenballsport Leipzig
+L1,2022,2,13-8-2022,3,2,03:02:00,8,17,Tsg 1899 Hoffenheim,Vfl Bochum
+L1,2022,2,13-8-2022,2,2,02:02:00,12,3,Rasenballsport Leipzig,1 Fc Koln
+L1,2022,2,13-8-2022,1,2,01:02:00,18,9,Bayer 04 Leverkusen,Fc Augsburg
+L1,2022,2,12-8-2022,1,3,01:03:00,7,2,Sc Freiburg,Borussia Dortmund
+L1,2022,1,7-8-2022,3,1,03:01:00,4,14,1 Fc Koln,Fc Schalke 04
+L1,2022,5,3-9-2022,2,3,02:03:00,14,1,Bayer 04 Leverkusen,Sc Freiburg
+L1,2022,1,6-8-2022,1,0,01:00:00,7,13,Borussia Dortmund,Bayer 04 Leverkusen
+L1,2022,4,27-8-2022,0,1,00:01:00,17,5,Hertha Bsc,Borussia Dortmund
+L1,2022,1,6-8-2022,1,2,01:02:00,12,6,Vfl Bochum,1 Fsv Mainz 05
+L1,2022,1,6-8-2022,0,4,00:04:00,17,2,Fc Augsburg,Sc Freiburg
+L1,2022,8,1-10-2022,2,1,02:01:00,2,12,Sc Freiburg,1 Fsv Mainz 05
+L1,2022,1,6-8-2022,3,1,03:01:00,3,15,1 Fc Union Berlin,Hertha Bsc
+L1,2022,1,5-8-2022,1,6,01:06:00,18,1,Eintracht Frankfurt,Fc Bayern Munchen
+L1,2022,6,10-9-2022,0,1,00:01:00,11,16,Eintracht Frankfurt,Vfl Wolfsburg
+L1,2022,1,6-8-2022,3,1,03:01:00,5,16,Borussia Monchengladbach,Tsg 1899 Hoffenheim
+L1,2022,4,26-8-2022,1,0,01:00:00,3,18,Sc Freiburg,Vfl Bochum
+L1,2022,1,6-8-2022,2,2,02:02:00,9,8,Vfl Wolfsburg,Sv Werder Bremen
+L1,2022,2,13-8-2022,1,1,01:01:00,14,16,Hertha Bsc,Eintracht Frankfurt
+L1,2022,5,3-9-2022,2,4,02:04:00,17,6,Vfl Wolfsburg,1 Fc Koln
+L1,2022,1,7-8-2022,1,1,01:01:00,11,10,Vfb Stuttgart,Rasenballsport Leipzig
+FR1,2022,20,29-1-2023,4,0,04:00:00,16,20,Stade Brest 29,Sco Angers
+FR1,2022,20,29-1-2023,1,2,01:02:00,17,12,Rc Strassburg Alsace,Fc Toulouse
+FR1,2022,20,29-1-2023,0,0,00:00:00,8,13,Clermont Foot 63,Fc Nantes
+FR1,2022,20,29-1-2023,0,2,00:02:00,19,14,Aj Auxerre,Montpellier Hsc
+FR1,2022,20,29-1-2023,1,0,01:00:00,10,7,Ogc Nizza,Losc Lille
+FR1,2022,20,28-1-2023,1,1,01:01:00,3,4,Olympique Marseille,As Monaco
+FR1,2022,19,15-1-2023,1,0,01:00:00,5,1,Fc Stade Rennes,Fc Paris Saint Germain
+FR1,2022,19,15-1-2023,7,1,07:01:00,4,18,As Monaco,Ac Ajaccio
+FR1,2022,19,15-1-2023,1,1,01:01:00,12,17,Fc Toulouse,Stade Brest 29
+FR1,2022,19,15-1-2023,0,0,00:00:00,11,10,Stade Reims,Ogc Nizza
+FR1,2022,19,15-1-2023,0,3,00:03:00,15,13,Montpellier Hsc,Fc Nantes
+FR1,2022,19,15-1-2023,1,2,01:02:00,20,8,Sco Angers,Clermont Foot 63
+FR1,2022,20,27-1-2023,2,1,02:01:00,6,5,Fc Lorient,Fc Stade Rennes
+FR1,2022,19,15-1-2023,5,1,05:01:00,6,14,Losc Lille,Es Troyes Ac
+FR1,2022,19,14-1-2023,1,2,01:02:00,9,16,Olympique Lyon,Rc Strassburg Alsace
+FR1,2022,19,14-1-2023,3,1,03:01:00,3,7,Olympique Marseille,Fc Lorient
+FR1,2022,18,11-1-2023,0,2,00:02:00,13,3,Es Troyes Ac,Olympique Marseille
+FR1,2022,18,11-1-2023,2,2,02:02:00,19,2,Rc Strassburg Alsace,Rc Lens
+FR1,2022,20,28-1-2023,1,1,01:01:00,15,2,Es Troyes Ac,Rc Lens
+FR1,2022,18,11-1-2023,2,2,02:02:00,6,5,Fc Lorient,As Monaco
+FR1,2022,18,11-1-2023,0,0,00:00:00,17,7,Stade Brest 29,Losc Lille
+FR1,2022,18,11-1-2023,0,0,00:00:00,14,8,Fc Nantes,Olympique Lyon
+FR1,2022,18,11-1-2023,2,1,02:01:00,9,4,Clermont Foot 63,Fc Stade Rennes
+FR1,2022,18,11-1-2023,0,5,00:05:00,18,12,Aj Auxerre,Fc Toulouse
+FR1,2022,18,11-1-2023,0,1,00:01:00,16,11,Ac Ajaccio,Stade Reims
+FR1,2022,17,2-1-2023,2,1,02:01:00,4,11,Fc Stade Rennes,Ogc Nizza
+FR1,2022,17,2-1-2023,1,2,01:02:00,14,3,Montpellier Hsc,Olympique Marseille
+FR1,2022,17,2-1-2023,2,3,02:03:00,19,13,Rc Strassburg Alsace,Es Troyes Ac
+FR1,2022,17,1-1-2023,3,1,03:01:00,2,1,Rc Lens,Fc Paris Saint Germain
+FR1,2022,17,1-1-2023,0,1,00:01:00,8,9,Olympique Lyon,Clermont Foot 63
+FR1,2022,17,1-1-2023,2,0,02:00:00,12,16,Fc Toulouse,Ac Ajaccio
+FR1,2022,17,1-1-2023,1,0,01:00:00,15,18,Fc Nantes,Aj Auxerre
+FR1,2022,17,1-1-2023,1,2,01:02:00,20,6,Sco Angers,Fc Lorient
+FR1,2022,17,1-1-2023,1,0,01:00:00,5,17,As Monaco,Stade Brest 29
+FR1,2022,17,2-1-2023,1,1,01:01:00,7,10,Losc Lille,Stade Reims
+FR1,2022,16,29-12-2022,0,0,00:00:00,9,2,Ogc Nizza,Rc Lens
+FR1,2022,16,29-12-2022,6,1,06:01:00,3,13,Olympique Marseille,Fc Toulouse
+FR1,2022,16,29-12-2022,0,2,00:02:00,7,12,Fc Lorient,Montpellier Hsc
+FR1,2022,16,28-12-2022,2,4,02:04:00,17,8,Stade Brest 29,Olympique Lyon
+FR1,2022,16,28-12-2022,2,1,02:01:00,1,19,Fc Paris Saint Germain,Rc Strassburg Alsace
+FR1,2022,16,28-12-2022,0,2,00:02:00,11,6,Clermont Foot 63,Losc Lille
+FR1,2022,16,28-12-2022,2,3,02:03:00,18,5,Aj Auxerre,As Monaco
+FR1,2022,16,28-12-2022,0,0,00:00:00,14,16,Es Troyes Ac,Fc Nantes
+FR1,2022,16,28-12-2022,1,0,01:00:00,15,20,Ac Ajaccio,Sco Angers
+FR1,2022,15,13-11-2022,2,3,02:03:00,6,4,As Monaco,Olympique Marseille
+FR1,2022,15,13-11-2022,1,1,01:01:00,19,5,Rc Strassburg Alsace,Fc Lorient
+FR1,2022,15,13-11-2022,2,1,02:01:00,16,13,Stade Brest 29,Es Troyes Ac
+FR1,2022,15,13-11-2022,1,1,01:01:00,14,11,Montpellier Hsc,Stade Reims
+FR1,2022,15,13-11-2022,1,0,01:00:00,7,20,Losc Lille,Sco Angers
+FR1,2022,15,13-11-2022,2,2,02:02:00,15,18,Fc Nantes,Ac Ajaccio
+FR1,2022,15,13-11-2022,5,0,05:00:00,1,17,Fc Paris Saint Germain,Aj Auxerre
+FR1,2022,15,12-11-2022,2,1,02:01:00,3,12,Fc Stade Rennes,Fc Toulouse
+FR1,2022,15,12-11-2022,2,1,02:01:00,2,10,Rc Lens,Clermont Foot 63
+FR1,2022,18,11-1-2023,6,1,06:01:00,10,15,Ogc Nizza,Montpellier Hsc
+FR1,2022,14,6-11-2022,1,0,01:00:00,4,8,Olympique Marseille,Olympique Lyon
+FR1,2022,14,6-11-2022,1,1,01:01:00,7,3,Losc Lille,Fc Stade Rennes
+FR1,2022,14,6-11-2022,0,2,00:02:00,12,5,Fc Toulouse,As Monaco
+FR1,2022,14,6-11-2022,1,0,01:00:00,11,16,Stade Reims,Fc Nantes
+FR1,2022,14,6-11-2022,1,0,01:00:00,9,19,Ogc Nizza,Stade Brest 29
+FR1,2022,14,6-11-2022,1,1,01:01:00,10,14,Clermont Foot 63,Montpellier Hsc
+FR1,2022,14,6-11-2022,1,2,01:02:00,6,1,Fc Lorient,Fc Paris Saint Germain
+FR1,2022,14,5-11-2022,4,2,04:02:00,17,18,Ac Ajaccio,Rc Strassburg Alsace
+FR1,2022,14,4-11-2022,1,1,01:01:00,13,15,Es Troyes Ac,Aj Auxerre
+FR1,2022,13,30-10-2022,1,0,01:00:00,8,7,Olympique Lyon,Losc Lille
+FR1,2022,13,30-10-2022,1,2,01:02:00,4,10,Fc Lorient,Ogc Nizza
+FR1,2022,13,30-10-2022,3,0,03:00:00,3,14,Fc Stade Rennes,Montpellier Hsc
+FR1,2022,13,30-10-2022,0,0,00:00:00,18,13,Stade Brest 29,Stade Reims
+FR1,2022,13,30-10-2022,1,1,01:01:00,15,9,Fc Nantes,Clermont Foot 63
+FR1,2022,19,14-1-2023,1,0,01:00:00,2,19,Rc Lens,Aj Auxerre
+FR1,2022,16,29-12-2022,3,1,03:01:00,10,4,Stade Reims,Fc Stade Rennes
+FR1,2022,13,29-10-2022,2,2,02:02:00,17,5,Rc Strassburg Alsace,Olympique Marseille
+FR1,2022,13,29-10-2022,4,3,04:03:00,1,12,Fc Paris Saint Germain,Es Troyes Ac
+FR1,2022,13,30-10-2022,1,0,01:00:00,16,19,Aj Auxerre,Ac Ajaccio
+FR1,2022,12,23-10-2022,1,1,01:01:00,12,15,Ogc Nizza,Fc Nantes
+FR1,2022,12,23-10-2022,2,2,02:02:00,11,3,Es Troyes Ac,Fc Lorient
+FR1,2022,12,23-10-2022,2,2,02:02:00,10,16,Fc Toulouse,Rc Strassburg Alsace
+FR1,2022,15,11-11-2022,1,1,01:01:00,8,9,Olympique Lyon,Ogc Nizza
+FR1,2022,12,23-10-2022,1,3,01:03:00,9,17,Clermont Foot 63,Stade Brest 29
+FR1,2022,12,23-10-2022,1,2,01:02:00,20,4,Sco Angers,Fc Stade Rennes
+FR1,2022,12,22-10-2022,0,1,00:01:00,5,2,Olympique Marseille,Rc Lens
+FR1,2022,12,22-10-2022,1,2,01:02:00,13,8,Montpellier Hsc,Olympique Lyon
+FR1,2022,12,23-10-2022,4,3,04:03:00,6,7,Losc Lille,As Monaco
+FR1,2022,11,16-10-2022,1,0,01:00:00,1,4,Fc Paris Saint Germain,Olympique Marseille
+FR1,2022,11,16-10-2022,1,1,01:01:00,6,8,As Monaco,Clermont Foot 63
+FR1,2022,11,16-10-2022,1,1,01:01:00,12,18,Es Troyes Ac,Ac Ajaccio
+FR1,2022,11,16-10-2022,3,2,03:02:00,5,10,Fc Stade Rennes,Olympique Lyon
+FR1,2022,11,16-10-2022,4,1,04:01:00,14,20,Fc Nantes,Stade Brest 29
+FR1,2022,11,16-10-2022,1,1,01:01:00,16,13,Aj Auxerre,Ogc Nizza
+FR1,2022,13,28-10-2022,3,0,03:00:00,2,11,Rc Lens,Fc Toulouse
+FR1,2022,12,23-10-2022,2,1,02:01:00,14,18,Stade Reims,Aj Auxerre
+FR1,2022,11,15-10-2022,1,0,01:00:00,3,11,Rc Lens,Montpellier Hsc
+FR1,2022,11,15-10-2022,0,0,00:00:00,2,15,Fc Lorient,Stade Reims
+FR1,2022,13,30-10-2022,2,0,02:00:00,6,20,As Monaco,Sco Angers
+FR1,2022,10,9-10-2022,1,0,01:00:00,7,4,Losc Lille,Rc Lens
+FR1,2022,10,9-10-2022,3,0,03:00:00,6,19,Fc Stade Rennes,Fc Nantes
+FR1,2022,10,9-10-2022,3,2,03:02:00,13,12,Ogc Nizza,Es Troyes Ac
+FR1,2022,10,9-10-2022,2,1,02:01:00,8,16,Clermont Foot 63,Aj Auxerre
+FR1,2022,10,9-10-2022,2,3,02:03:00,17,14,Sco Angers,Rc Strassburg Alsace
+FR1,2022,10,9-10-2022,0,2,00:02:00,10,5,Montpellier Hsc,As Monaco
+FR1,2022,18,11-1-2023,2,0,02:00:00,1,20,Fc Paris Saint Germain,Sco Angers
+FR1,2022,10,8-10-2022,0,0,00:00:00,15,1,Stade Reims,Fc Paris Saint Germain
+FR1,2022,11,16-10-2022,3,2,03:02:00,9,19,Fc Toulouse,Sco Angers
+FR1,2022,9,2-10-2022,4,1,04:01:00,5,16,As Monaco,Fc Nantes
+FR1,2022,9,2-10-2022,2,2,02:02:00,11,17,Es Troyes Ac,Stade Reims
+FR1,2022,9,2-10-2022,4,2,04:02:00,12,10,Fc Toulouse,Montpellier Hsc
+FR1,2022,10,7-10-2022,1,1,01:01:00,9,11,Olympique Lyon,Fc Toulouse
+FR1,2022,9,2-10-2022,1,3,01:03:00,20,9,Ac Ajaccio,Clermont Foot 63
+FR1,2022,9,2-10-2022,2,1,02:01:00,3,8,Fc Lorient,Losc Lille
+FR1,2022,10,8-10-2022,1,2,01:02:00,3,18,Olympique Marseille,Ac Ajaccio
+FR1,2022,9,1-10-2022,2,1,02:01:00,1,13,Fc Paris Saint Germain,Ogc Nizza
+FR1,2022,9,1-10-2022,1,3,01:03:00,19,6,Rc Strassburg Alsace,Fc Stade Rennes
+FR1,2022,8,18-9-2022,0,1,00:01:00,6,1,Olympique Lyon,Fc Paris Saint Germain
+FR1,2022,8,18-9-2022,0,0,00:00:00,15,4,Fc Nantes,Rc Lens
+FR1,2022,9,2-10-2022,1,1,01:01:00,14,18,Aj Auxerre,Stade Brest 29
+FR1,2022,9,30-9-2022,0,3,00:03:00,15,2,Sco Angers,Olympique Marseille
+FR1,2022,8,18-9-2022,0,1,00:01:00,13,14,Ogc Nizza,Sco Angers
+FR1,2022,14,5-11-2022,1,2,01:02:00,20,2,Sco Angers,Rc Lens
+FR1,2022,9,2-10-2022,1,0,01:00:00,4,7,Rc Lens,Olympique Lyon
+FR1,2022,12,21-10-2022,0,3,00:03:00,19,1,Ac Ajaccio,Fc Paris Saint Germain
+FR1,2022,8,18-9-2022,1,1,01:01:00,2,8,Olympique Marseille,Fc Stade Rennes
+FR1,2022,8,16-9-2022,1,3,01:03:00,16,3,Aj Auxerre,Fc Lorient
+FR1,2022,8,17-9-2022,2,1,02:01:00,9,18,Montpellier Hsc,Rc Strassburg Alsace
+FR1,2022,7,11-9-2022,2,1,02:01:00,7,5,As Monaco,Olympique Lyon
+FR1,2022,7,11-9-2022,1,0,01:00:00,11,16,Fc Toulouse,Stade Reims
+FR1,2022,7,11-9-2022,3,2,03:02:00,4,15,Fc Lorient,Fc Nantes
+FR1,2022,7,11-9-2022,2,1,02:01:00,19,10,Sco Angers,Montpellier Hsc
+FR1,2022,7,11-9-2022,5,0,05:00:00,6,14,Fc Stade Rennes,Aj Auxerre
+FR1,2022,7,11-9-2022,0,0,00:00:00,17,9,Rc Strassburg Alsace,Clermont Foot 63
+FR1,2022,7,10-9-2022,2,1,02:01:00,2,8,Olympique Marseille,Losc Lille
+FR1,2022,7,10-9-2022,1,0,01:00:00,1,18,Fc Paris Saint Germain,Stade Brest 29
+FR1,2022,8,18-9-2022,1,3,01:03:00,11,10,Clermont Foot 63,Es Troyes Ac
+FR1,2022,6,4-9-2022,0,1,00:01:00,16,10,Ogc Nizza,As Monaco
+FR1,2022,6,4-9-2022,1,1,01:01:00,11,9,Es Troyes Ac,Fc Stade Rennes
+FR1,2022,6,4-9-2022,1,1,01:01:00,14,3,Stade Reims,Rc Lens
+FR1,2022,6,4-9-2022,1,1,01:01:00,17,18,Stade Brest 29,Rc Strassburg Alsace
+FR1,2022,6,4-9-2022,2,0,02:00:00,8,15,Clermont Foot 63,Fc Toulouse
+FR1,2022,6,4-9-2022,0,1,00:01:00,20,5,Ac Ajaccio,Fc Lorient
+FR1,2022,6,4-9-2022,1,3,01:03:00,7,6,Montpellier Hsc,Losc Lille
+FR1,2022,6,3-9-2022,0,3,00:03:00,13,1,Fc Nantes,Fc Paris Saint Germain
+FR1,2022,6,3-9-2022,5,0,05:00:00,4,19,Olympique Lyon,Sco Angers
+FR1,2022,6,3-9-2022,0,2,00:02:00,12,2,Aj Auxerre,Olympique Marseille
+FR1,2022,5,31-8-2022,0,3,00:03:00,13,1,Fc Toulouse,Fc Paris Saint Germain
+FR1,2022,11,14-10-2022,0,3,00:03:00,17,7,Rc Strassburg Alsace,Losc Lille
+FR1,2022,5,31-8-2022,5,2,05:02:00,2,5,Rc Lens,Fc Lorient
+FR1,2022,5,31-8-2022,1,0,01:00:00,3,12,Olympique Marseille,Clermont Foot 63
+FR1,2022,5,31-8-2022,1,2,01:02:00,8,15,Losc Lille,Ogc Nizza
+FR1,2022,5,31-8-2022,1,1,01:01:00,18,10,Rc Strassburg Alsace,Fc Nantes
+FR1,2022,5,31-8-2022,2,1,02:01:00,4,9,Olympique Lyon,Aj Auxerre
+FR1,2022,5,31-8-2022,2,0,02:00:00,6,20,Montpellier Hsc,Ac Ajaccio
+FR1,2022,5,31-8-2022,2,4,02:04:00,19,14,Sco Angers,Stade Reims
+FR1,2022,5,31-8-2022,2,4,02:04:00,16,11,As Monaco,Es Troyes Ac
+FR1,2022,7,11-9-2022,0,1,00:01:00,20,12,Ac Ajaccio,Ogc Nizza
+FR1,2022,4,28-8-2022,1,1,01:01:00,19,5,Stade Reims,Olympique Lyon
+FR1,2022,4,28-8-2022,3,1,03:01:00,15,17,Es Troyes Ac,Sco Angers
+FR1,2022,4,28-8-2022,0,7,00:07:00,14,8,Stade Brest 29,Montpellier Hsc
+FR1,2022,8,17-9-2022,2,1,02:01:00,7,12,Losc Lille,Fc Toulouse
+FR1,2022,4,28-8-2022,2,1,02:01:00,4,9,Fc Lorient,Clermont Foot 63
+FR1,2022,4,28-8-2022,3,1,03:01:00,11,10,Fc Nantes,Fc Toulouse
+FR1,2022,4,27-8-2022,2,1,02:01:00,3,13,Rc Lens,Fc Stade Rennes
+FR1,2022,4,28-8-2022,0,3,00:03:00,18,2,Ogc Nizza,Olympique Marseille
+FR1,2022,4,27-8-2022,1,0,01:00:00,7,16,Aj Auxerre,Rc Strassburg Alsace
+FR1,2022,7,9-9-2022,1,0,01:00:00,3,13,Rc Lens,Es Troyes Ac
+FR1,2022,8,18-9-2022,0,3,00:03:00,17,5,Stade Reims,As Monaco
+FR1,2022,3,21-8-2022,2,2,02:02:00,7,4,Fc Toulouse,Fc Lorient
+FR1,2022,3,21-8-2022,1,2,01:02:00,13,10,Montpellier Hsc,Aj Auxerre
+FR1,2022,3,21-8-2022,1,0,01:00:00,6,15,Clermont Foot 63,Ogc Nizza
+FR1,2022,3,21-8-2022,1,3,01:03:00,17,8,Sco Angers,Stade Brest 29
+FR1,2022,3,21-8-2022,1,1,01:01:00,14,19,Rc Strassburg Alsace,Stade Reims
+FR1,2022,3,20-8-2022,2,1,02:01:00,2,16,Olympique Marseille,Fc Nantes
+FR1,2022,3,20-8-2022,1,4,01:04:00,11,3,As Monaco,Rc Lens
+FR1,2022,3,19-8-2022,4,1,04:01:00,5,20,Olympique Lyon,Es Troyes Ac
+FR1,2022,2,7-9-2022,3,1,03:01:00,2,8,Fc Lorient,Olympique Lyon
+FR1,2022,2,14-8-2022,1,1,01:01:00,14,4,Stade Brest 29,Olympique Marseille
+FR1,2022,5,31-8-2022,3,1,03:01:00,7,17,Fc Stade Rennes,Stade Brest 29
+FR1,2022,2,14-8-2022,1,1,01:01:00,12,15,Ogc Nizza,Rc Strassburg Alsace
+FR1,2022,3,21-8-2022,2,1,02:01:00,9,18,Fc Stade Rennes,Ac Ajaccio
+FR1,2022,2,14-8-2022,2,2,02:02:00,18,11,Aj Auxerre,Sco Angers
+FR1,2022,10,9-10-2022,1,2,01:02:00,20,2,Stade Brest 29,Fc Lorient
+FR1,2022,2,13-8-2022,5,2,05:02:00,1,9,Fc Paris Saint Germain,Montpellier Hsc
+FR1,2022,4,28-8-2022,1,1,01:01:00,1,12,Fc Paris Saint Germain,As Monaco
+FR1,2022,2,13-8-2022,1,1,01:01:00,6,17,As Monaco,Fc Stade Rennes
+FR1,2022,3,21-8-2022,1,7,01:07:00,12,1,Losc Lille,Fc Paris Saint Germain
+FR1,2022,1,7-8-2022,0,1,00:01:00,17,8,Fc Stade Rennes,Fc Lorient
+FR1,2022,1,7-8-2022,3,2,03:02:00,4,14,Rc Lens,Stade Brest 29
+FR1,2022,1,7-8-2022,3,2,03:02:00,5,13,Montpellier Hsc,Es Troyes Ac
+FR1,2022,1,7-8-2022,4,1,04:01:00,2,18,Losc Lille,Aj Auxerre
+FR1,2022,2,14-8-2022,0,0,00:00:00,16,7,Ac Ajaccio,Rc Lens
+FR1,2022,2,14-8-2022,2,4,02:04:00,20,10,Stade Reims,Clermont Foot 63
+FR1,2022,1,7-8-2022,1,1,01:01:00,9,10,Fc Toulouse,Ogc Nizza
+FR1,2022,4,26-8-2022,1,3,01:03:00,20,6,Ac Ajaccio,Losc Lille
+FR1,2022,1,5-8-2022,2,1,02:01:00,7,16,Olympique Lyon,Ac Ajaccio
+FR1,2022,2,12-8-2022,1,1,01:01:00,13,3,Fc Nantes,Losc Lille
+FR1,2022,8,18-9-2022,0,1,00:01:00,19,20,Stade Brest 29,Ac Ajaccio
+FR1,2022,1,7-8-2022,4,1,04:01:00,3,19,Olympique Marseille,Stade Reims
+FR1,2022,1,6-8-2022,1,2,01:02:00,15,6,Rc Strassburg Alsace,As Monaco
+FR1,2022,1,6-8-2022,0,5,00:05:00,20,1,Clermont Foot 63,Fc Paris Saint Germain
+FR1,2022,1,7-8-2022,0,0,00:00:00,11,12,Sco Angers,Fc Nantes
+IT1,2022,20,29-1-2023,2,1,02:01:00,1,6,Ssc Neapel,As Rom
+FR1,2022,2,14-8-2022,0,3,00:03:00,19,5,Es Troyes Ac,Fc Toulouse
+IT1,2022,20,29-1-2023,1,1,01:01:00,3,12,Lazio Rom,Ac Florenz
+IT1,2022,20,29-1-2023,0,2,00:02:00,13,11,Juventus Turin,Ac Monza
+IT1,2022,20,29-1-2023,2,5,02:05:00,5,16,Ac Mailand,Us Sassuolo
+IT1,2022,20,28-1-2023,2,0,02:00:00,4,19,Atalanta Bergamo,Sampdoria Genua
+IT1,2022,20,28-1-2023,1,2,01:02:00,20,2,Us Cremonese,Inter Mailand
+IT1,2022,20,27-1-2023,1,2,01:02:00,15,14,Us Lecce,Us Salernitana 1919
+IT1,2022,20,28-1-2023,2,2,02:02:00,10,8,Fc Empoli,Fc Turin
+IT1,2022,20,27-1-2023,2,0,02:00:00,9,17,Fc Bologna,Spezia Calcio
+IT1,2022,19,24-1-2023,4,0,04:00:00,3,2,Lazio Rom,Ac Mailand
+IT1,2022,19,23-1-2023,0,1,00:01:00,4,9,Inter Mailand,Fc Empoli
+IT1,2022,19,22-1-2023,3,3,03:03:00,10,6,Juventus Turin,Atalanta Bergamo
+IT1,2022,19,22-1-2023,0,2,00:02:00,15,5,Spezia Calcio,As Rom
+IT1,2022,19,22-1-2023,0,1,00:01:00,19,7,Sampdoria Genua,Udinese Calcio
+IT1,2022,19,21-1-2023,2,0,02:00:00,18,14,Hellas Verona,Us Lecce
+IT1,2022,18,16-1-2023,1,0,01:00:00,12,19,Fc Empoli,Sampdoria Genua
+IT1,2022,18,15-1-2023,8,2,08:02:00,5,16,Atalanta Bergamo,Us Salernitana 1919
+IT1,2022,18,15-1-2023,0,1,00:01:00,8,15,Fc Turin,Spezia Calcio
+IT1,2022,18,15-1-2023,0,2,00:02:00,17,4,Us Sassuolo,Lazio Rom
+IT1,2022,18,14-1-2023,1,0,01:00:00,3,18,Inter Mailand,Hellas Verona
+IT1,2022,18,14-1-2023,2,2,02:02:00,14,2,Us Lecce,Ac Mailand
+IT1,2022,19,23-1-2023,1,1,01:01:00,12,20,Fc Bologna,Us Cremonese
+IT1,2022,17,9-1-2023,1,2,01:02:00,12,5,Fc Bologna,Atalanta Bergamo
+IT1,2022,19,22-1-2023,1,1,01:01:00,13,17,Ac Monza,Us Sassuolo
+IT1,2022,17,9-1-2023,2,0,02:00:00,18,20,Hellas Verona,Us Cremonese
+IT1,2022,17,8-1-2023,2,2,02:02:00,2,6,Ac Mailand,As Rom
+IT1,2022,17,8-1-2023,0,2,00:02:00,19,1,Sampdoria Genua,Ssc Neapel
+IT1,2022,18,14-1-2023,2,3,02:03:00,20,13,Us Cremonese,Ac Monza
+IT1,2022,17,8-1-2023,0,0,00:00:00,17,11,Spezia Calcio,Us Lecce
+IT1,2022,19,21-1-2023,0,1,00:01:00,11,8,Ac Florenz,Fc Turin
+IT1,2022,17,7-1-2023,1,0,01:00:00,10,7,Juventus Turin,Udinese Calcio
+IT1,2022,17,7-1-2023,2,1,02:01:00,8,16,Ac Florenz,Us Sassuolo
+IT1,2022,18,13-1-2023,5,1,05:01:00,1,10,Ssc Neapel,Juventus Turin
+IT1,2022,16,4-1-2023,1,1,01:01:00,7,13,Udinese Calcio,Fc Empoli
+IT1,2022,16,4-1-2023,1,1,01:01:00,9,15,Ac Florenz,Ac Monza
+IT1,2022,16,4-1-2023,1,0,01:00:00,3,1,Inter Mailand,Ssc Neapel
+IT1,2022,17,8-1-2023,1,1,01:01:00,14,9,Us Salernitana 1919,Fc Turin
+IT1,2022,18,15-1-2023,1,2,01:02:00,7,11,Udinese Calcio,Fc Bologna
+IT1,2022,16,4-1-2023,2,1,02:01:00,12,4,Us Lecce,Lazio Rom
+IT1,2022,16,4-1-2023,2,2,02:02:00,17,6,Spezia Calcio,Atalanta Bergamo
+IT1,2022,16,4-1-2023,1,2,01:02:00,16,18,Us Sassuolo,Sampdoria Genua
+IT1,2022,16,4-1-2023,1,2,01:02:00,14,2,Us Salernitana 1919,Ac Mailand
+IT1,2022,16,4-1-2023,0,1,00:01:00,19,10,Us Cremonese,Juventus Turin
+IT1,2022,15,13-11-2022,2,1,02:01:00,2,9,Ac Mailand,Ac Florenz
+IT1,2022,17,7-1-2023,2,2,02:02:00,15,3,Ac Monza,Inter Mailand
+IT1,2022,19,21-1-2023,0,2,00:02:00,16,1,Us Salernitana 1919,Ssc Neapel
+IT1,2022,15,13-11-2022,3,0,03:00:00,14,11,Ac Monza,Us Salernitana 1919
+IT1,2022,15,13-11-2022,2,3,02:03:00,5,4,Atalanta Bergamo,Inter Mailand
+IT1,2022,15,12-11-2022,3,0,03:00:00,10,15,Fc Bologna,Us Sassuolo
+IT1,2022,15,12-11-2022,0,2,00:02:00,19,16,Sampdoria Genua,Us Lecce
+IT1,2022,17,8-1-2023,2,2,02:02:00,4,13,Lazio Rom,Fc Empoli
+IT1,2022,15,12-11-2022,3,2,03:02:00,1,7,Ssc Neapel,Udinese Calcio
+IT1,2022,15,11-11-2022,2,0,02:00:00,12,18,Fc Empoli,Us Cremonese
+IT1,2022,14,10-11-2022,0,1,00:01:00,20,14,Hellas Verona,Juventus Turin
+IT1,2022,14,9-11-2022,2,0,02:00:00,8,19,Fc Turin,Sampdoria Genua
+IT1,2022,14,9-11-2022,6,1,06:01:00,4,12,Inter Mailand,Fc Bologna
+IT1,2022,14,9-11-2022,2,1,02:01:00,9,10,Ac Florenz,Us Salernitana 1919
+IT1,2022,14,9-11-2022,1,1,01:01:00,11,6,Us Sassuolo,As Rom
+IT1,2022,14,9-11-2022,2,1,02:01:00,16,5,Us Lecce,Atalanta Bergamo
+IT1,2022,14,8-11-2022,0,0,00:00:00,18,3,Us Cremonese,Ac Mailand
+IT1,2022,14,8-11-2022,1,1,01:01:00,17,7,Spezia Calcio,Udinese Calcio
+IT1,2022,14,8-11-2022,2,0,02:00:00,1,13,Ssc Neapel,Fc Empoli
+IT1,2022,13,6-11-2022,2,0,02:00:00,15,6,Juventus Turin,Inter Mailand
+IT1,2022,13,6-11-2022,0,1,00:01:00,5,3,As Rom,Lazio Rom
+IT1,2022,13,6-11-2022,2,0,02:00:00,14,20,Ac Monza,Hellas Verona
+IT1,2022,13,6-11-2022,0,2,00:02:00,19,10,Sampdoria Genua,Ac Florenz
+IT1,2022,13,6-11-2022,2,1,02:01:00,11,9,Fc Bologna,Fc Turin
+IT1,2022,15,13-11-2022,1,1,01:01:00,6,8,As Rom,Fc Turin
+IT1,2022,16,4-1-2023,1,1,01:01:00,8,20,Fc Turin,Hellas Verona
+IT1,2022,15,13-11-2022,1,2,01:02:00,20,17,Hellas Verona,Spezia Calcio
+IT1,2022,13,5-11-2022,2,2,02:02:00,8,18,Us Salernitana 1919,Us Cremonese
+IT1,2022,13,4-11-2022,1,1,01:01:00,7,16,Udinese Calcio,Us Lecce
+IT1,2022,12,31-10-2022,1,2,01:02:00,14,11,Ac Monza,Fc Bologna
+IT1,2022,12,31-10-2022,1,3,01:03:00,19,4,Hellas Verona,As Rom
+IT1,2022,12,30-10-2022,2,1,02:01:00,8,3,Fc Turin,Ac Mailand
+IT1,2022,12,30-10-2022,1,3,01:03:00,5,9,Lazio Rom,Us Salernitana 1919
+IT1,2022,15,13-11-2022,3,0,03:00:00,13,3,Juventus Turin,Lazio Rom
+IT1,2022,12,30-10-2022,0,0,00:00:00,20,7,Us Cremonese,Udinese Calcio
+IT1,2022,12,30-10-2022,0,2,00:02:00,13,2,Fc Empoli,Atalanta Bergamo
+IT1,2022,12,29-10-2022,3,0,03:00:00,6,18,Inter Mailand,Sampdoria Genua
+IT1,2022,12,29-10-2022,0,1,00:01:00,16,17,Us Lecce,Juventus Turin
+IT1,2022,12,29-10-2022,4,0,04:00:00,1,10,Ssc Neapel,Us Sassuolo
+IT1,2022,11,24-10-2022,2,1,02:01:00,8,18,Us Sassuolo,Hellas Verona
+IT1,2022,11,24-10-2022,0,1,00:01:00,20,17,Us Cremonese,Sampdoria Genua
+IT1,2022,11,23-10-2022,0,1,00:01:00,5,1,As Rom,Ssc Neapel
+IT1,2022,11,23-10-2022,0,2,00:02:00,4,3,Atalanta Bergamo,Lazio Rom
+IT1,2022,11,23-10-2022,2,0,02:00:00,12,16,Fc Bologna,Us Lecce
+IT1,2022,12,30-10-2022,1,2,01:02:00,15,12,Spezia Calcio,Ac Florenz
+IT1,2022,11,23-10-2022,1,2,01:02:00,6,9,Udinese Calcio,Fc Turin
+IT1,2022,11,22-10-2022,3,4,03:04:00,13,7,Ac Florenz,Inter Mailand
+IT1,2022,11,22-10-2022,4,1,04:01:00,2,14,Ac Mailand,Ac Monza
+IT1,2022,11,21-10-2022,4,0,04:00:00,19,11,Juventus Turin,Fc Empoli
+IT1,2022,14,10-11-2022,1,0,01:00:00,2,15,Lazio Rom,Ac Monza
+IT1,2022,13,5-11-2022,1,2,01:02:00,4,1,Atalanta Bergamo,Ssc Neapel
+IT1,2022,10,16-10-2022,1,2,01:02:00,17,3,Hellas Verona,Ac Mailand
+IT1,2022,13,5-11-2022,1,0,01:00:00,13,12,Fc Empoli,Us Sassuolo
+IT1,2022,10,17-10-2022,1,1,01:01:00,15,12,Us Lecce,Ac Florenz
+IT1,2022,10,17-10-2022,0,1,00:01:00,19,4,Sampdoria Genua,As Rom
+IT1,2022,10,16-10-2022,0,0,00:00:00,5,6,Lazio Rom,Udinese Calcio
+IT1,2022,16,4-1-2023,1,0,01:00:00,5,11,As Rom,Fc Bologna
+IT1,2022,13,5-11-2022,2,1,02:01:00,2,17,Ac Mailand,Spezia Calcio
+IT1,2022,10,15-10-2022,1,0,01:00:00,9,13,Fc Empoli,Ac Monza
+IT1,2022,10,16-10-2022,3,2,03:02:00,1,16,Ssc Neapel,Fc Bologna
+IT1,2022,9,9-10-2022,2,1,02:01:00,6,15,As Rom,Us Lecce
+IT1,2022,9,10-10-2022,0,4,00:04:00,12,3,Ac Florenz,Lazio Rom
+IT1,2022,9,9-10-2022,1,4,01:04:00,18,1,Us Cremonese,Ssc Neapel
+IT1,2022,9,9-10-2022,2,2,02:02:00,4,2,Udinese Calcio,Atalanta Bergamo
+IT1,2022,10,15-10-2022,0,1,00:01:00,10,20,Fc Turin,Juventus Turin
+IT1,2022,9,9-10-2022,1,1,01:01:00,9,13,Fc Turin,Fc Empoli
+IT1,2022,10,16-10-2022,2,0,02:00:00,7,11,Inter Mailand,Us Salernitana 1919
+IT1,2022,10,15-10-2022,2,1,02:01:00,2,8,Atalanta Bergamo,Us Sassuolo
+IT1,2022,9,8-10-2022,1,2,01:02:00,8,7,Us Sassuolo,Inter Mailand
+IT1,2022,8,3-10-2022,1,2,01:02:00,17,3,Hellas Verona,Udinese Calcio
+IT1,2022,8,2-10-2022,3,0,03:00:00,20,16,Juventus Turin,Fc Bologna
+IT1,2022,8,2-10-2022,1,0,01:00:00,2,10,Atalanta Bergamo,Ac Florenz
+IT1,2022,8,2-10-2022,5,0,05:00:00,7,13,Us Sassuolo,Us Salernitana 1919
+IT1,2022,18,15-1-2023,2,0,02:00:00,6,9,As Rom,Ac Florenz
+IT1,2022,11,22-10-2022,1,0,01:00:00,10,15,Us Salernitana 1919,Spezia Calcio
+IT1,2022,9,8-10-2022,1,1,01:01:00,16,19,Fc Bologna,Sampdoria Genua
+IT1,2022,9,9-10-2022,2,1,02:01:00,10,17,Us Salernitana 1919,Hellas Verona
+IT1,2022,10,16-10-2022,2,2,02:02:00,14,18,Spezia Calcio,Us Cremonese
+IT1,2022,8,1-10-2022,1,2,01:02:00,8,6,Inter Mailand,As Rom
+IT1,2022,7,18-9-2022,1,2,01:02:00,5,1,Ac Mailand,Ssc Neapel
+IT1,2022,7,18-9-2022,0,1,00:01:00,6,2,As Rom,Atalanta Bergamo
+IT1,2022,8,1-10-2022,3,1,03:01:00,1,9,Ssc Neapel,Fc Turin
+IT1,2022,7,18-9-2022,2,0,02:00:00,9,16,Ac Florenz,Hellas Verona
+IT1,2022,8,1-10-2022,1,3,01:03:00,14,5,Fc Empoli,Ac Mailand
+IT1,2022,8,2-10-2022,0,3,00:03:00,19,15,Sampdoria Genua,Ac Monza
+IT1,2022,7,18-9-2022,0,4,00:04:00,18,4,Us Cremonese,Lazio Rom
+IT1,2022,7,17-9-2022,0,1,00:01:00,8,10,Fc Turin,Us Sassuolo
+IT1,2022,9,8-10-2022,2,0,02:00:00,5,20,Ac Mailand,Juventus Turin
+IT1,2022,7,16-9-2022,1,2,01:02:00,12,14,Us Salernitana 1919,Us Lecce
+IT1,2022,7,18-9-2022,3,1,03:01:00,3,7,Udinese Calcio,Inter Mailand
+IT1,2022,6,12-9-2022,1,2,01:02:00,15,5,Fc Empoli,As Rom
+IT1,2022,6,11-9-2022,2,2,02:02:00,20,9,Juventus Turin,Us Salernitana 1919
+IT1,2022,6,11-9-2022,1,3,01:03:00,12,4,Us Sassuolo,Udinese Calcio
+IT1,2022,6,11-9-2022,1,1,01:01:00,16,19,Us Lecce,Ac Monza
+IT1,2022,6,11-9-2022,2,1,02:01:00,11,10,Fc Bologna,Ac Florenz
+IT1,2022,6,11-9-2022,1,1,01:01:00,2,17,Atalanta Bergamo,Us Cremonese
+IT1,2022,6,10-9-2022,1,2,01:02:00,18,3,Sampdoria Genua,Ac Mailand
+IT1,2022,6,10-9-2022,1,0,01:00:00,6,8,Inter Mailand,Fc Turin
+IT1,2022,6,10-9-2022,1,0,01:00:00,1,14,Ssc Neapel,Spezia Calcio
+IT1,2022,5,5-9-2022,1,0,01:00:00,6,16,Fc Turin,Us Lecce
+IT1,2022,9,9-10-2022,2,0,02:00:00,11,14,Ac Monza,Spezia Calcio
+IT1,2022,5,5-9-2022,0,2,00:02:00,19,1,Ac Monza,Atalanta Bergamo
+IT1,2022,8,2-10-2022,1,1,01:01:00,12,18,Us Lecce,Us Cremonese
+IT1,2022,5,4-9-2022,2,1,02:01:00,12,17,Hellas Verona,Sampdoria Genua
+IT1,2022,7,18-9-2022,1,0,01:00:00,17,20,Ac Monza,Juventus Turin
+IT1,2022,5,4-9-2022,0,0,00:00:00,18,11,Us Cremonese,Us Sassuolo
+IT1,2022,5,4-9-2022,4,0,04:00:00,4,5,Udinese Calcio,As Rom
+IT1,2022,5,3-9-2022,1,2,01:02:00,8,2,Lazio Rom,Ssc Neapel
+IT1,2022,5,3-9-2022,1,1,01:01:00,10,20,Ac Florenz,Juventus Turin
+IT1,2022,4,1-9-2022,1,1,01:01:00,15,9,Fc Bologna,Us Salernitana 1919
+IT1,2022,4,1-9-2022,3,1,03:01:00,1,8,Atalanta Bergamo,Fc Turin
+IT1,2022,5,4-9-2022,2,2,02:02:00,13,15,Spezia Calcio,Fc Bologna
+IT1,2022,4,31-8-2022,1,1,01:01:00,4,14,Ssc Neapel,Us Lecce
+IT1,2022,4,31-8-2022,2,0,02:00:00,20,12,Juventus Turin,Spezia Calcio
+IT1,2022,4,31-8-2022,1,1,01:01:00,17,6,Sampdoria Genua,Lazio Rom
+IT1,2022,4,31-8-2022,1,0,01:00:00,7,10,Udinese Calcio,Ac Florenz
+IT1,2022,7,17-9-2022,2,1,02:01:00,11,19,Spezia Calcio,Sampdoria Genua
+IT1,2022,7,17-9-2022,0,1,00:01:00,15,13,Fc Bologna,Fc Empoli
+IT1,2022,5,5-9-2022,2,2,02:02:00,9,14,Us Salernitana 1919,Fc Empoli
+IT1,2022,4,30-8-2022,0,0,00:00:00,11,5,Us Sassuolo,Ac Mailand
+IT1,2022,3,28-8-2022,0,0,00:00:00,8,1,Ac Florenz,Ssc Neapel
+IT1,2022,6,11-9-2022,2,0,02:00:00,7,13,Lazio Rom,Hellas Verona
+IT1,2022,3,28-8-2022,0,1,00:01:00,16,4,Hellas Verona,Atalanta Bergamo
+IT1,2022,3,28-8-2022,4,0,04:00:00,9,17,Us Salernitana 1919,Sampdoria Genua
+IT1,2022,8,2-10-2022,4,0,04:00:00,4,11,Lazio Rom,Spezia Calcio
+IT1,2022,5,3-9-2022,3,2,03:02:00,3,7,Ac Mailand,Inter Mailand
+IT1,2022,4,31-8-2022,1,1,01:01:00,13,16,Fc Empoli,Hellas Verona
+IT1,2022,3,27-8-2022,1,1,01:01:00,20,6,Juventus Turin,As Rom
+IT1,2022,3,26-8-2022,1,2,01:02:00,19,10,Ac Monza,Udinese Calcio
+IT1,2022,2,22-8-2022,0,0,00:00:00,15,20,Sampdoria Genua,Juventus Turin
+IT1,2022,2,22-8-2022,1,0,01:00:00,3,17,As Rom,Us Cremonese
+IT1,2022,2,21-8-2022,1,1,01:01:00,11,16,Fc Bologna,Hellas Verona
+IT1,2022,2,21-8-2022,1,1,01:01:00,5,4,Atalanta Bergamo,Ac Mailand
+IT1,2022,2,21-8-2022,4,0,04:00:00,1,19,Ssc Neapel,Ac Monza
+IT1,2022,2,21-8-2022,0,0,00:00:00,13,6,Fc Empoli,Ac Florenz
+IT1,2022,2,20-8-2022,1,0,01:00:00,10,18,Us Sassuolo,Us Lecce
+IT1,2022,2,20-8-2022,3,0,03:00:00,2,9,Inter Mailand,Spezia Calcio
+IT1,2022,2,20-8-2022,0,0,00:00:00,14,12,Udinese Calcio,Us Salernitana 1919
+IT1,2022,2,20-8-2022,0,0,00:00:00,8,7,Fc Turin,Lazio Rom
+IT1,2022,1,15-8-2022,3,0,03:00:00,20,19,Juventus Turin,Us Sassuolo
+IT1,2022,3,28-8-2022,1,1,01:01:00,14,13,Us Lecce,Fc Empoli
+IT1,2022,1,14-8-2022,1,0,01:00:00,8,14,Spezia Calcio,Fc Empoli
+IT1,2022,1,15-8-2022,2,5,02:05:00,18,1,Hellas Verona,Ssc Neapel
+IT1,2022,3,27-8-2022,2,2,02:02:00,11,12,Spezia Calcio,Us Sassuolo
+IT1,2022,4,30-8-2022,3,1,03:01:00,3,18,Inter Mailand,Us Cremonese
+IT1,2022,1,14-8-2022,2,1,02:01:00,6,11,Lazio Rom,Fc Bologna
+IT1,2022,1,13-8-2022,1,2,01:02:00,13,5,Us Lecce,Inter Mailand
+IT1,2022,1,14-8-2022,3,2,03:02:00,4,10,Ac Florenz,Us Cremonese
+IT1,2022,3,26-8-2022,3,1,03:01:00,3,7,Lazio Rom,Inter Mailand
+IT1,2022,3,27-8-2022,2,0,02:00:00,2,15,Ac Mailand,Fc Bologna
+IT1,2022,1,13-8-2022,4,2,04:02:00,2,16,Ac Mailand,Udinese Calcio
+IT1,2022,1,13-8-2022,0,2,00:02:00,17,3,Sampdoria Genua,Atalanta Bergamo
+IT1,2022,1,13-8-2022,1,2,01:02:00,12,7,Ac Monza,Fc Turin
+IT1,2022,4,30-8-2022,3,0,03:00:00,2,19,As Rom,Ac Monza
+IT1,2022,3,27-8-2022,1,2,01:02:00,18,5,Us Cremonese,Fc Turin
+IT1,2022,1,14-8-2022,0,1,00:01:00,15,9,Us Salernitana 1919,As Rom
